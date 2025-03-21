@@ -3291,7 +3291,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 3450,500112341,"Zajac, Jack",Jack Zajac,Zajac,"American, born 1929",1,1929,,1926 to 1950,American,American,individual,Q15458806
 3451,500120773,"Zakharov, Gurii Fillipovich",Gurii Fillipovich Zakharov,Zakharov,"Russian, born 1926",1,1926,,1926 to 1950,Russian,Russian,individual,
 3452,500065904,"Zalce, Alfredo",Alfredo Zalce,Zalce,"Mexican, 1908 - 2003",1,1908,2003,1901 to 1925,Mexican,Mexican,individual,Q2646392
-3453,500080572,"Zanartú, Enrique Antunez",Enrique Antunez Zanartú,Zanartú,"Chilean, 1921 - 2000",1,1921,2000,1901 to 1925,Chilean,Other,individual,
+3453,500080572,"Zanartú, Enrique Antunez",Enrique Antunez Zanartú,Zanartú,"Chilean, 1921 - 2000",1,1921,2000,1901 to 1925,Chilean,Other,individual,Q21486073
 3454,500014948,"Zanetti I,  Anton Maria",Anton Maria Zanetti I,Zanetti I,"Italian, 1680 - 1757",1,1680,1757,1651 to 1700,Italian,Italian,individual,Q944948
 3455,,"Zanetti Borzino, Leopoldina",Leopoldina Zanetti Borzino,Zanetti Borzino,"Italian, 1826 - 1902",1,1826,1902,1826 to 1850,Italian,Italian,individual,Q3830674
 3456,500000615,"Nooms, called Zeeman, Reinier","Reinier Nooms, called Zeeman","Nooms, called Zeeman","Dutch, 1623 or 1624 - 1664",1,1623,1664,1601 to 1650,Dutch,Dutch,individual,Q1936604
@@ -3302,9 +3302,9 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 3461,500335069,"Ziegler, Henry",Henry Ziegler,Ziegler,"American, 1889 - 1968",1,1889,1968,1876 to 1900,American,American,individual,Q52154605
 3462,500032414,"Ziegler, Johann",Johann Ziegler,Ziegler,"Austrian, c. 1750 - c. 1812",1,1750,1812,1726 to 1750,Austrian,Austrian,individual,Q6216318
 3463,500052227,"Ziemann, Richard Claude",Richard Claude Ziemann,Ziemann,"American, born 1932",1,1932,,1926 to 1950,American,American,individual,Q20871139
-3464,500073174,"Zimiles, Murray",Murray Zimiles,Zimiles,"American, born 1941",1,1941,,1926 to 1950,American,American,individual,
-3465,500102906,"Zimmermann, Jacques",Jacques Zimmermann,Zimmermann,"Belgian, born 1929",1,1929,,1926 to 1950,Belgian,Belgian,individual,
-3466,500108757,"Zirker, Joseph",Joseph Zirker,Zirker,"American, born 1924",1,1924,,1901 to 1925,American,American,individual,
+3464,500073174,"Zimiles, Murray",Murray Zimiles,Zimiles,"American, born 1941",1,1941,,1926 to 1950,American,American,individual,Q55220037
+3465,500102906,"Zimmermann, Jacques",Jacques Zimmermann,Zimmermann,"Belgian, born 1929",1,1929,,1926 to 1950,Belgian,Belgian,individual,Q30117991
+3466,500108757,"Zirker, Joseph",Joseph Zirker,Zirker,"American, born 1924",1,1924,,1901 to 1925,American,American,individual,Q117121790
 3467,500017014,"Zocchi, Giuseppe",Giuseppe Zocchi,Zocchi,"Florentine, 1711 - 1767",1,1711,1767,1701 to 1725,Italian,Italian,individual,Q1528741
 3468,500016147,"Zucchi, Andrea",Andrea Zucchi,Zucchi,"Italian, 1679 - 1740",1,1679,1740,1651 to 1700,Italian,Italian,individual,Q30250990
 3469,500003977,"Zucchi, Francesco",Francesco Zucchi,Zucchi,"Italian, 1692 - 1764",1,1692,1764,1651 to 1700,Italian,Italian,individual,Q5479615
@@ -5440,7 +5440,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 5710,,"Mauve, Thijs",Thijs Mauve,Mauve,"Dutch, born 1915",1,1915,2015,1901 to 1925,Dutch,Dutch,individual,
 5711,,"Luijn, Dick van",Dick van Luijn,Luijn,"Dutch, born 1896",1,1896,1996,1876 to 1900,Dutch,Dutch,individual,
 5712,500069970,"Gelder, Dirk van",Dirk van Gelder,Gelder,"Dutch, 1907 - 1990",1,1907,1990,1901 to 1925,Dutch,Dutch,individual,Q2875859
-5713,500764414,"Zwiers, Wim",Wim Zwiers,Zwiers,"Dutch, 1922 - 2019",1,1922,2019,1901 to 1925,Dutch,Dutch,individual,
+5713,500764414,"Zwiers, Wim",Wim Zwiers,Zwiers,"Dutch, 1922 - 2019",1,1922,2019,1901 to 1925,Dutch,Dutch,individual,Q4027773
 5714,,"Boffrand, Gabriel Germain",Gabriel Germain Boffrand,Boffrand,"French, 1667 - 1754",1,1667,1754,1651 to 1700,French,French,individual,Q1311013
 5715,,"Lesueur, Nicolas",Nicolas Lesueur,Lesueur,"French, 1691 - 1764",1,1691,1764,1651 to 1700,French,French,individual,Q51105836
 5716,500031213,"Blondel, Jacques-François",Jacques-François Blondel,Blondel,"French, 1705 - 1774",1,1705,1774,1701 to 1725,French,French,individual,Q430136
@@ -13496,7 +13496,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 23980,,"Nuckowski, Tadeusz",Tadeusz Nuckowski,Nuckowski,"Polish, born 1948",1,1948,,1926 to 1950,Polish,Other,individual,
 23985,,"Skibinski, Wieslaw",Wieslaw Skibinski,Skibinski,"Polish, born 1961",1,1961,,1951 to 1975,Polish,Other,individual,
 23987,,"Michalska, Hanna",Hanna Michalska,Michalska,"Polish, born 1963",1,1963,,1951 to 1975,Polish,Other,individual,
-23988,,"Zagroba, Idalia",Idalia Zagroba,Zagroba,"Polish, born 1967",1,1967,,1951 to 1975,Polish,Other,individual,
+23988,,"Zagroba, Idalia",Idalia Zagroba,Zagroba,"Polish, born 1967",1,1967,,1951 to 1975,Polish,Other,individual,Q70276616
 23989,,"Armata, Ludmila",Ludmila Armata,Armata,"Polish, born 1954",1,1954,,1951 to 1975,Polish,Other,individual,
 23990,,"Dobosz, Agnieszka",Agnieszka Dobosz,Dobosz,"Polish, born 1969",1,1969,,1951 to 1975,Polish,Other,individual,
 23992,,"Surzycki, Marcin",Marcin Surzycki,Surzycki,"Polish, born 1963",1,1963,,1951 to 1975,Polish,Other,individual,
@@ -13512,7 +13512,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 24005,,"Grabowski, Jerzy",Jerzy Grabowski,Grabowski,"Polish, born 1933",1,1933,,1926 to 1950,Polish,Other,individual,Q51557074
 24006,,"Olejniczak, Zdzislaw",Zdzislaw Olejniczak,Olejniczak,"Polish, active second half 20th century",1,1950,2000,1926 to 1950,Polish,Other,individual,
 24007,,"Wawrzyniak, Krzysztof",Krzysztof Wawrzyniak,Wawrzyniak,"Polish, born 1954",1,1954,,1951 to 1975,Polish,Other,individual,
-24008,,"Zawadzka, Ewa",Ewa Zawadzka,Zawadzka,"Polish, born 1950",1,1950,,1926 to 1950,Polish,Other,individual,
+24008,,"Zawadzka, Ewa",Ewa Zawadzka,Zawadzka,"Polish, born 1950",1,1950,,1926 to 1950,Polish,Other,individual,Q63872494
 24009,,"Gieryszewski, Ryszard",Ryszard Gieryszewski,Gieryszewski,"Polish, born 1936",1,1936,,1926 to 1950,Polish,Other,individual,Q51552324
 24013,500029706,"Boulanger, Louis-Candide",Louis-Candide Boulanger,Boulanger,"French, 1806 - 1867",1,1806,1867,1801 to 1825,French,French,individual,Q524582
 24015,,"Caron, Adolphe Alexandre Joseph",Adolphe Alexandre Joseph  Caron,Caron,"French, 1797 - 1867",1,1797,1867,1776 to 1800,French,French,individual,Q52149476
@@ -14037,7 +14037,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 24887,,"Truksová, Jana",Jana Truksová,Truksová,"Czech, born 1947",1,1947,,1926 to 1950,Czech,Czech,individual,
 24888,,"Otava, Jan",Jan Otava,Otava,"Czech, born 1950",1,1950,,1926 to 1950,Czech,Czech,individual,
 24889,500129280,"Dusek, Lubomír",Lubomír Dusek,Dusek,"Czech, born 1951",1,1951,,1951 to 1975,Czech,Czech,individual,
-24890,,"Zenatá, Kamila",Kamila Zenatá,Zenatá,"Czech, born 1953",1,1953,,1951 to 1975,Czech,Czech,individual,
+24890,,"Zenatá, Kamila",Kamila Zenatá,Zenatá,"Czech, born 1953",1,1953,,1951 to 1975,Czech,Czech,individual,Q12027909
 24891,,"Sukdoláková, Milada",Milada Sukdoláková,Sukdoláková,"Czech, born 1956",1,1956,,1951 to 1975,Czech,Czech,individual,
 24892,,"Vilhelmovà, Lenka",Lenka Vilhelmovà,Vilhelmovà,"Czech, born 1957",1,1957,,1951 to 1975,Czech,Czech,individual,
 24893,,"Axmann, Mikolás",Mikolás Axmann,Axmann,"Czech, born 1955",1,1955,,1951 to 1975,Czech,Czech,individual,
