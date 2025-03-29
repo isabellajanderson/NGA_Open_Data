@@ -297,7 +297,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 319,,"Harrison, Leland, Mrs.",Mrs. Leland Harrison,Harrison,,0,,,,,Other,individual,
 320,,"Haslem Gallery, Jane",Jane Haslem Gallery,,,0,,,,,Other,corporate,
 321,,"Hassett, Jr., William T.","William T. Hassett, Jr.",Hassett,,0,,,,,Other,individual,
-322,,"Hatch, Sr., Francis Whiting, Mrs.","Mrs. Francis Whiting Hatch, Sr.",Hatch,,0,,,,,Other,individual,
+322,,"Hatch, Francis Whiting Sr. Mr. and Mrs.",Mr. and Mrs. Francis Whiting Hatch Sr.,Hatch,,0,,,,,Other,couple,
 323,500024290,"Baldung Grien, Hans",Hans Baldung Grien,Baldung Grien,"German, 1484/1485 - 1545",1,1484,1545,1401 to 1500,German,German,individual,Q164696
 345,,Istituto Nazionale per la Grafica,Istituto Nazionale per la Grafica,,,0,,,,,Other,corporate,
 381,,"Lehrer, Leonard, Mr. and Mrs.",Mr. and Mrs. Leonard Lehrer,Lehrer,he: born 1935,0,1935,,1926 to 1950,,Other,couple,
@@ -27063,6 +27063,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53410,,"Goll van Franckenstein, Johann",Johann Goll van Franckenstein,Goll van Franckenstein,"Dutch, 1722 - 1785",0,1722,1785,1701 to 1725,Dutch,Dutch,individual,
 53411,500076292,Adál,Adál,,"Puerto Rican, 1948 - 2020",1,1948,2020,1926 to 1950,American,American,individual,Q4678508
 53412,,"Heidsieck, E. John Mrs.",Mrs. E. John Heidsieck,Heidsieck,American,0,,,,American,American,individual,
+53414,500122504,"Julien, Isaac",Isaac Julien,Julien,"British, born 1960",1,1960,,1951 to 1975,British,British,individual,Q328137
 53416,,Venetian 18th/19th Century,Venetian 18th/19th Century,Venetian 18th/19th Century,,1,1700,1899,1651 to 1700,,Other,anonymous,
 53417,,"Gaber, Felix",Felix Gaber,Gaber,,1,,,,,Other,individual,
 53419,,Klinkhardt & Biermann Verlag,Klinkhardt & Biermann Verlag,,,1,,,,,Other,corporate,

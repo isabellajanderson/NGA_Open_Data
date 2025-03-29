@@ -288,7 +288,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 312,319,Harrison,"Harrison, Leland, Mrs.",,Preferred Name
 313,320,,"Haslem Gallery, Jane",,Preferred Name
 314,321,Hassett,"Hassett, Jr., William T.",,Preferred Name
-315,322,Hatch,"Hatch, Sr., Francis Whiting, Mrs.",,Preferred Name
+315,322,Hatch,"Hatch, Francis Whiting Sr. Mr. and Mrs.",,Preferred Name
 316,323,Baldung Grien,"Baldung Grien, Hans",,Preferred Name
 317,324,Havemeyer,"Havemeyer, Horace",,Preferred Name
 318,325,Havemeyer,"Havemeyer, Horace, Mrs.",,Preferred Name
@@ -34131,6 +34131,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62727,53411,,Adál,,Preferred Name
 62728,53411,Maldonado,"Maldonado, Adál",,Variant
 62729,53412,Heidsieck,"Heidsieck, E. John Mrs.",,Preferred Name
+62731,53414,Julien,"Julien, Isaac",,Preferred Name
+62732,53414,Julien,,,Variant
 62734,53416,Venetian 18th/19th Century,Venetian 18th/19th Century,,Preferred Name
 62738,46720,Shaffer,,,Variant
 62739,53417,Gaber,"Gaber, Felix",,Preferred Name
