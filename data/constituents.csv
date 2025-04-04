@@ -2418,7 +2418,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 2549,500005516,"Labille-Guiard, Adélaïde",Adélaïde Labille-Guiard,Labille-Guiard,"French, 1749 - 1803",1,1749,1803,1726 to 1750,French,French,individual,Q235647
 2550,500022749,"Guttuso, Renato",Renato Guttuso,Guttuso,"Italian, 1911 - 1987",1,1911,1987,1901 to 1925,Italian,Italian,individual,Q381277
 2551,500002003,"Guys, Constantin",Constantin Guys,Guys,"French, 1805 - 1892",1,1805,1892,1801 to 1825,French,French,individual,Q662943
-2552,500031546,"Haass, Terry",Terry Haass,Haass,"French, born Czechoslovakia, 1923 - 2016",1,1923,2016,1901 to 1925,American,American,individual,Q2405602
+2552,500031546,"Haass, Terry",Terry Haass,Haass,"French, born Czechoslovakia, 1923 - 2016",1,1923,2016,1901 to 1925,French,French,individual,Q2405602
 2553,500021004,"Haden, Francis Seymour",Francis Seymour Haden,Haden,"British, 1818 - 1910",1,1818,1910,1801 to 1825,British,British,individual,Q946578
 2554,,"Hafley, Bruce",Bruce Hafley,Hafley,"American, active 1972",1,1950,1990,1926 to 1950,American,American,individual,
 2555,500011974,"Haines, Richard",Richard Haines,Haines,"American, 1906 - 1984",1,1906,1984,1901 to 1925,American,American,individual,Q19662170
@@ -2431,7 +2431,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 2608,,"Lanfranco, Giovanni",Giovanni Lanfranco,Lanfranco,"Italian, 1582 - 1647",1,1582,1647,1551 to 1600,Italian,Italian,individual,Q447730
 2609,500014557,"Laroon II, Marcellus",Marcellus Laroon II,Laroon II,"English, 1679 - 1774",1,1679,1774,1651 to 1700,English,English,individual,Q6756472
 2610,500010480,"Laurens, Henri",Henri Laurens,Laurens,"French, 1885 - 1954",1,1885,1954,1876 to 1900,French,French,individual,Q738892
-9170,,"Tompkins, Robert Schuyler",Robert Schuyler Tompkins,,active 1949,0,,,,,Other,corporate,
+4910,,Master MZ,Master MZ,Master MZ,"German, active c. 1500",1,1420,1560,1401 to 1500,German,German,individual,
 2561,500010689,"Hayter, Stanley William",Stanley William Hayter,Hayter,"British, 1901 - 1988",1,1901,1988,1901 to 1925,British,British,individual,Q641304
 2562,500032971,"Heckel, Erich",Erich Heckel,Heckel,"German, 1883 - 1970",1,1883,1970,1876 to 1900,German,German,individual,Q156700
 2563,500124291,"Heemskerck, Maerten van",Maerten van Heemskerck,Heemskerck,"Netherlandish, 1498 - 1574",1,1498,1574,1401 to 1500,Netherlandish,Netherlandish,individual,Q538350
@@ -2509,7 +2509,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 2644,500016727,"Marsh, Reginald",Reginald Marsh,Marsh,"American, born France, 1898 - 1954",1,1898,1954,1876 to 1900,American,American,individual,Q7308806
 2645,500024489,"Martin, Agnes",Agnes Martin,Martin,"American, born Canada, 1912 - 2004",1,1912,2004,1901 to 1925,American,American,individual,Q275610
 2646,500049951,"Martin, David Stone",David Stone Martin,Martin,"American, 1913 - 1992",1,1913,1992,1901 to 1925,American,American,individual,Q1176753
-4910,,Master MZ,Master MZ,Master MZ,"German, active c. 1500",1,1420,1560,1401 to 1500,German,German,individual,
+7171,,"Bogdonoff, Samuel, Dr. and Mrs.",Dr. and Mrs. Samuel Bogdonoff,Bogdonoff,,0,,,,,Other,couple,
 2647,500012061,"Martin, Homer Dodge",Homer Dodge Martin,Martin,"American, 1836 - 1897",1,1836,1897,1826 to 1850,American,American,individual,Q3139663
 2648,,"Martin, Keith",Keith Martin,Martin,"American, 1911 - 1983",1,1911,1983,1901 to 1925,American,American,individual,Q21012580
 2649,,"Marullo, Angelo",Angelo Marullo,Marullo,"Neapolitan, active late 17th century - early 18th century",1,1630,1710,1601 to 1650,Italian,Italian,individual,
@@ -2574,7 +2574,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 2700,500014694,"Puget, Pierre",Pierre Puget,Puget,"French, 1620 - 1694",1,1620,1694,1601 to 1650,French,French,individual,Q371979
 2701,500018583,"Quarenghi, Giacomo",Giacomo Quarenghi,Quarenghi,"Venetian, 1744 - 1817",1,1744,1817,1726 to 1750,Italian,Italian,individual,Q128623
 2702,500016042,"Quast, Pieter Jansz",Pieter Jansz Quast,Quast,"Dutch, 1606 - 1647",1,1606,1647,1601 to 1650,Dutch,Dutch,individual,Q874537
-7171,,"Bogdonoff, Samuel, Dr. and Mrs.",Dr. and Mrs. Samuel Bogdonoff,Bogdonoff,,0,,,,,Other,couple,
+7172,,"Cutler, B. J., Mr. and Mrs.",Mr. and Mrs. B. J. Cutler,Cutler,,0,,,,,Other,couple,
 2710,500014455,"Richards, William Trost",William Trost Richards,Richards,"American, 1833 - 1905",1,1833,1905,1826 to 1850,American,American,individual,Q1985982
 2711,,"Richardson, Margaret Foster",Margaret Foster Richardson,Richardson,"American, 1881 - c.1945",1,1881,1945,1876 to 1900,American,American,individual,Q23498081
 2712,,"Roberts, Elinor",Elinor Roberts,Roberts,"American, born 1918",1,1918,,1901 to 1925,American,American,individual,
@@ -2681,7 +2681,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 2859,500464856,"Abrams, Ross",Ross Abrams,Abrams,"American, 1920 - 2007",1,1920,2007,1901 to 1925,American,American,individual,
 2860,,"Abranos, Nino",Nino Abranos,Abranos,"Italian, active 1955",1,1900,2000,1876 to 1900,Italian,Italian,individual,
 2861,500118427,"Abularach, Rodolfo",Rodolfo Abularach,Abularach,"Guatemalan, 1933 - 2020",1,1933,2020,1926 to 1950,Guatemalan,Other,individual,Q7357131
-7172,,"Cutler, B. J., Mr. and Mrs.",Mr. and Mrs. B. J. Cutler,Cutler,,0,,,,,Other,couple,
+9170,,"Tompkins, Robert Schuyler",Robert Schuyler Tompkins,,active 1949,0,,,,,Other,corporate,
 2811,500004402,"Youngerman, Jack",Jack Youngerman,Youngerman,"American, 1926 - 2020",1,1926,2020,1926 to 1950,American,American,individual,Q6115904
 2812,500020194,"Zuccaro, Federico",Federico Zuccaro,Zuccaro,"Roman, 1542/1543 - 1609",1,1542,1609,1501 to 1550,Italian,Italian,individual,Q345605
 2813,500011296,"Zuccaro, Taddeo",Taddeo Zuccaro,Zuccaro,"Roman, 1529 - 1566",1,1529,1566,1501 to 1550,Italian,Italian,individual,Q434058
@@ -27347,6 +27347,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53967,,"Sanders, Piet and Ida",Piet and Ida Sanders,Sanders,,0,,,,Dutch,Dutch,couple,
 53968,,"Schindler, Dietrich",Dietrich Schindler,Schindler,"Swiss, 1795-1882",0,1795,1882,1776 to 1800,Swiss,Swiss,individual,
 53969,,"Bonaparte, Elisa",Elisa Bonaparte,Bonaparte,1777-1820,0,,,,,Other,individual,
+53972,,"Martin, Delita",Delita Martin,Martin,"American, born 1972",1,1972,,1951 to 1975,American,American,individual,Q63224838
 53975,500084625,"Burke, Bill",Bill Burke,Burke,"American, born 1943",1,1943,,1926 to 1950,American,American,individual,Q26883736
 53979,,"Bremer, Sebastiaan",Sebastiaan Bremer,Bremer,"Dutch, born 1970",1,1970,,1951 to 1975,Dutch,Dutch,individual,Q7442346
 53988,,"Bryan, Ashley",Ashley Bryan,Bryan,"American, 1923 - 2022",1,1923,2022,1901 to 1925,American,American,individual,Q4805375
@@ -27451,3 +27452,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54368,,Auktionshaus zeitGenossen,Auktionshaus zeitGenossen,,,0,,,,,Other,corporate,
 54371,,"Albrizzi, Alvise",Alvise Albrizzi,Albrizzi,"Italian, 1779 - post 1841",0,1779,1841,1776 to 1800,Italian,Italian,individual,
 54372,,Sanquirico Brothers,Sanquirico Brothers,,Italian,0,,,,Italian,Italian,individual,
+54379,,Black Box Press Studio,Black Box Press Studio,,,1,,,,,Other,corporate,
