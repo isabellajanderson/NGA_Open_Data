@@ -6636,6 +6636,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 6961,6968,Ariosto,"Ariosto, Lodovico",,Preferred Name
 6962,6969,Audiganne,"Audiganne, Armand",,Preferred Name
 6963,6970,Basedow,"Basedow, Johann Bernhard",,Preferred Name
+6964,6971,Baudelaire,"Baudelaire, Charles",,Preferred Name
 6965,6972,Benserade,"Benserade, Isaac de",,Preferred Name
 6966,6973,Berlese,"Berlese, Lorenzo",,Preferred Name
 6967,6974,Berquin,"Berquin, Arnaud",,Preferred Name
@@ -34533,6 +34534,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63462,53989,Delagrive,"Delagrive, Jean",,Preferred Name
 63463,53990,Smith,"Smith, Sunny A.",,Preferred Name
 63464,53991,Kessenides,"Kessenides, Liz",,Preferred Name
+63465,53992,Morley,"Morley, Harry",,Preferred Name
 63466,53993,Shay,"Shay, Daniel",,Preferred Name
 63467,53994,Hoffman Gallery,"Hoffman Gallery, Nancy",,Preferred Name
 63468,53995,Cervera Galería,"Cervera Galería, Marta",,Preferred Name
@@ -34651,6 +34653,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63785,54241,,Koplin Gallery,,Preferred Name
 63789,54245,Singdahlsen,"Singdahlsen, Paul",,Preferred Name
 63791,23747,Nares,"Nares, James",,Birth Name
+63792,54247,,Association of Print Scholars,,Preferred Name
 63795,54249,,Fazakas Gallery,,Preferred Name
 63796,54250,French,"French, Marina",,Preferred Name
 63797,54251,Mars,"Mars, Jacquie",,Preferred Name
