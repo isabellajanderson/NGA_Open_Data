@@ -4405,6 +4405,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 4637,4644,Lemesle,Lemesle,,Preferred Name
 4639,4646,Le Mire,"Le Mire, Noël",,Preferred Name
 4641,4648,Lemoine,"Lemoine, Jacques Antoine Marie",,Preferred Name
+4642,4649,Lempereur,"Lempereur, Catherine Elisabeth",,Preferred Name
 4643,4650,Lempereur,"Lempereur, Louis-Simon",,Preferred Name
 4645,4652,Leoni,"Leoni, Giacomo",,Preferred Name
 4646,4653,Lepautre,"Lepautre, Jacques",,Preferred Name
@@ -19574,6 +19575,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33471,4633,Legrand,"Legrand, Louis",,Variant
 33472,4639,Leighton,"Leighton, Clare Veronica Hope",,Variant
 33473,4640,Leinberger,"Leinberger, Hans",,Variant
+33474,4649,Cousinet,"Cousinet, Catherine Elisabeth",,Variant
 33475,4652,Leoni,"Leoni, James",,Variant
 33476,4654,Le Pautre,"Le Pautre, Jean",,Variant
 33477,4658,Lépicié,"Lépicié, François Bernard",,Variant
@@ -26668,6 +26670,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 48302,41511,Parker,"Parker, Olivia",,Preferred Name
 48305,41514,Salgado,"Salgado, Sebastião",,Preferred Name
 48308,41517,Webb,"Webb, Alex",,Preferred Name
+48325,41534,Chapman,"Chapman, Jake and Dinos",,Preferred Name
 48328,41537,Khebrehzadeh,"Khebrehzadeh, Avish",,Preferred Name
 48330,41539,Larkey,"Larkey, Molly",,Preferred Name
 48340,41549,Essaydi,"Essaydi, Lalla",,Preferred Name
@@ -34218,6 +34221,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62830,53492,,"Poeschel & Trepte, Leipzig",,Preferred Name
 62833,53495,Busch,"Busch, Rudolf",,Preferred Name
 62834,13404,Le Secq,"Le Secq, Jean-Louis-Henri des Tournelles",,Variant
+62835,53496,,Caleb Rare Books,,Preferred Name
 62836,53497,,"Frauenbund zur Förderung neuer deutscher Kunst, Hamburg",,Preferred Name
 62837,53498,,"Verlag Arndt Beyer, Leipzig",,Preferred Name
 62838,53499,Grandi Family,Grandi Family,,Preferred Name
@@ -34271,6 +34275,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62898,53535,,"Flatbed Press, Austin, Texas",,Preferred Name
 62899,53536,Mesa-Bains,"Mesa-Bains, Amalia",,Preferred Name
 62900,53537,,Rena Bransten Gallery,,Preferred Name
+62901,53538,Sepúlveda,"Sepúlveda, Mariano González de",,Preferred Name
 62902,52937,Francis,"Francis, James Ray",,Variant
 62903,53539,,"Between the Covers Rare Books, Inc.",,Preferred Name
 62904,53540,,"Spectrum Press, Anaheim, CA",,Preferred Name
@@ -34530,7 +34535,13 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63442,53969,Bonaparte,"Bonaparte, Elisa",,Preferred Name
 63445,53972,Martin,"Martin, Delita",,Preferred Name
 63448,53975,Burke,"Burke, Bill",,Preferred Name
+63449,53976,Stillman,"Stillman, Marie Spartali",,Preferred Name
 63452,53979,Bremer,"Bremer, Sebastiaan",,Preferred Name
+63456,53983,Gibson,"Gibson, Mark Thomas",,Preferred Name
+63457,53984,Harvey,"Harvey, Ellen",,Preferred Name
+63458,53985,Kass,"Kass, Deborah",,Preferred Name
+63459,53986,Locke,"Locke, Hew",,Preferred Name
+63460,53987,Martinez,"Martinez, Narsiso",,Preferred Name
 63461,53988,Bryan,"Bryan, Ashley",,Preferred Name
 63462,53989,Delagrive,"Delagrive, Jean",,Preferred Name
 63463,53990,Smith,"Smith, Sunny A.",,Preferred Name
@@ -34617,6 +34628,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63622,54094,Stein,"Stein, Leonard L.",,Preferred Name
 63623,54095,Henraux,"Henraux, Lucien",,Preferred Name
 63625,54097,,Print Makers Society of California,,Preferred Name
+63628,54100,Wellman,"Wellman, Joyce",,Preferred Name
 63635,54107,Bonvallet,"Bonvallet, Louis",,Preferred Name
 63637,54109,Bright,"Bright, Sheila Pree",,Preferred Name
 63638,54110,,Calcografia di Roma,,Preferred Name
