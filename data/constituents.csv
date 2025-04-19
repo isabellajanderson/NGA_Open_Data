@@ -27373,6 +27373,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53993,,"Shay, Daniel",Daniel Shay,Shay,"American, born 1947",1,1947,,1926 to 1950,American,American,individual,
 53994,,"Hoffman Gallery, Nancy",Nancy Hoffman Gallery,Hoffman Gallery,"American, founded 1972",0,1972,,1951 to 1975,American,American,corporate,
 53995,,"Cervera Galería, Marta",Marta Cervera Galería,Cervera Galería,"Spanish, founded 1996",0,1996,,1976 to 2000,Spanish,Spanish,corporate,
+54001,500125318,"Roche-Rabell, Arnaldo",Arnaldo Roche-Rabell,Roche-Rabell,"Puerto Rican, 1955 - 2018",1,1955,2018,1951 to 1975,American,American,individual,Q5704871
 54002,500348816,"Morales, José",José Morales,Morales,"American, born 1947",1,1947,,1926 to 1950,American,American,individual,
 54006,500127992,"Ramos, Sandra",Sandra Ramos,Ramos,"Cuban, born 1969",1,1969,,1951 to 1975,Cuban,Other,individual,Q22279899
 54011,,"Scott, Elizabeth Talford",Elizabeth Talford Scott,Scott,"American, 1916 - 2011",1,1916,2011,1901 to 1925,American,American,individual,Q19667371
@@ -27482,3 +27483,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54371,,"Albrizzi, Alvise",Alvise Albrizzi,Albrizzi,"Italian, 1779 - post 1841",0,1779,1841,1776 to 1800,Italian,Italian,individual,
 54372,,Sanquirico Brothers,Sanquirico Brothers,,Italian,0,,,,Italian,Italian,individual,
 54379,,Black Box Press Studio,Black Box Press Studio,,,1,,,,,Other,corporate,
+54404,,"Tang, Susan L.",Susan L. Tang,Tang,,0,,,,,Other,purchase_fund,
