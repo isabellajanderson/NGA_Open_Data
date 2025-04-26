@@ -8143,7 +8143,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 8567,8574,Campe,"Campe, Heinrich Wilhelm",,Preferred Name
 8568,8575,Vieweg,"Vieweg, Heinrich",,Preferred Name
 8569,8576,von Reidemann,"von Riedemann, Anton (Tonio)",,Preferred Name
-8570,8577,,"Mont, Inc., Frederick",,Preferred Name
+8570,8577,,"Mont, Frederick",,Preferred Name
 8571,8578,,Kleinberger Gallery,,Preferred Name
 8572,8579,,"San Lázaro, Church of",,Preferred Name
 8573,8580,Torres Martín,"Torres Martín, Arcadio",,Preferred Name
@@ -34723,3 +34723,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63969,54404,Tang,"Tang, Susan L.",,Preferred Name
 63982,54417,Lathrop,"Lathrop, George Alfred Dr.",,Preferred Name
 63983,54418,Muzahhib,"Muzahhib, Mahmud",,Preferred Name
+63984,8577,Mondschein,"Mondschein, Fritz",,Variant
+63985,54419,,Unknown,,Preferred Name
