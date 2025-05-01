@@ -29098,6 +29098,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55497,48067,Saint-Gois,Saint-Gois,,Preferred Name
 55498,48068,Crodel,"Crodel, Charles",,Preferred Name
 55499,48069,Kirchner,"Kirchner, Erna",,Preferred Name
+55501,48071,Ross,"Ross, Benjamin",,Preferred Name
 55502,48072,Deitch,"Deitch, Kim",,Preferred Name
 55503,48072,Means,"Means, Fowlton",,Nickname/Pseudonym
 55505,522,Dreyfus,"Dreyfus, Lili-Charlotte",,Maiden Name
@@ -30148,6 +30149,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56888,49013,,Licht Editions,,Preferred Name
 56889,49014,,"Colorado State University, Department of Art",,Preferred Name
 56890,48557,Heinrici,"Heinrici, Alexander",,Variant
+56891,49015,Guastalla,"Guastalla, Pierre",,Preferred Name
+56892,49016,Kealoha,"Kealoha, Keiki",,Preferred Name
 56894,49018,Wood,"Wood, Clyde",,Preferred Name
 56895,49019,,Mary Ryan Gallery,,Preferred Name
 56896,49020,,Seabird Editions,,Preferred Name
@@ -30747,6 +30750,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57825,49692,Stiegelmeyer,"Stiegelmeyer, Norman",,Preferred Name
 57828,49695,,2RC Gallery,,Preferred Name
 57829,43916,,Handprint Workshop International,,Variant
+57830,49696,Rosenberg,"Rosenberg, J. W.",,Preferred Name
+57831,49697,Randall,"Randall, G. H.",,Preferred Name
 57833,49699,Jacquin,"Jacquin, Ch.",,Preferred Name
 57834,49700,Kolko,"Kolko, Bernice",,Preferred Name
 57835,49701,Lehmann,"Lehmann, Henri",,Preferred Name
@@ -32043,6 +32048,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59532,50962,Erickson,"Erickson, Erwin",,Preferred Name
 59533,33203,Bloom,"Bloom, John",,Variant
 59534,33218,Bowling,"Bowling, Charles Taylor",,Variant
+59535,50963,Mawhinney,"McWhinney, Sally",,Preferred Name
+59536,50964,Login,"Login, Martin",,Preferred Name
 59537,50965,Goertz,"Goertz, W.",,Preferred Name
 59538,50966,,Edition der Galerie Heiner Friedrich,,Preferred Name
 59539,50967,,Bernstein Brothers,,Preferred Name
@@ -33985,6 +33992,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62520,3134,Stoessel,"Stoessel, Oskar",,Variant
 62521,39540,Farny,"Farny, Henry François",,Variant
 62522,53264,Leclerc,"Leclerc, Georges Louis, comte de Buffon",,Preferred Name
+62524,53265,Parks,"Parks, Emily",,Preferred Name
 62526,44043,Higgins,"Higgins, Chester Archer Jr.",,Variant
 62527,53266,Lanier,"Lanier, Nicholas",,Preferred Name
 62534,53271,,Lemercier & Cie,,Preferred Name
@@ -34726,3 +34734,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63983,54418,Muzahhib,"Muzahhib, Mahmud",,Preferred Name
 63984,8577,Mondschein,"Mondschein, Fritz",,Variant
 63985,54419,,Unknown,,Preferred Name
+63986,54420,Palumbo,"Palumbo, Dan",,Preferred Name
