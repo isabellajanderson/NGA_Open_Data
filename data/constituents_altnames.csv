@@ -28018,6 +28018,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54003,46997,Meier,"Meier, Laurette",,Preferred Name
 54004,46998,Putman,"Putman, Neal",,Preferred Name
 54005,46999,Podesta,"Podesta, Heather",,Preferred Name
+54006,47000,Schultz,"Schultz, William",,Preferred Name
 54007,47001,Core,"Core, Sharon",,Preferred Name
 54009,47003,Cafaggiolo 16th Century,Cafaggiolo 16th Century,,Preferred Name
 54010,40310,Mandel,"Mandel, Mike",,Preferred Name
@@ -33643,6 +33644,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62084,52882,Borroni,"Borroni, Paolo",,Preferred Name
 62086,52884,,Compañía para el grabado de los cuadros de los Reales Palacios,,Preferred Name
 62088,52886,Cheyne,"Cheyne, Christopher Ethelbert",,Preferred Name
+62089,52887,Smith,"Smith, Norbert",,Preferred Name
 62090,48647,,,,Variant Index Name
 62091,52888,,James and Christiane Valone Fund,,Preferred Name
 62093,52889,,Michael Findlay and Victoria Findlay Wolfe Fund,,Preferred Name
@@ -34645,6 +34647,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63623,54095,Henraux,"Henraux, Lucien",,Preferred Name
 63625,54097,,Print Makers Society of California,,Preferred Name
 63626,54098,Horton,"Horton, Berry",,Preferred Name
+63627,54099,Mays,"Mays, Ealy",,Preferred Name
 63628,54100,Wellman,"Wellman, Joyce",,Preferred Name
 63629,54101,Bailey,"Bailey, Herman Kofi",,Preferred Name
 63630,54102,Ellison,"Ellison, Michael Edward",,Preferred Name
@@ -34709,6 +34712,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63870,53040,,,,Nickname/Pseudonym
 63878,54322,Underhill,"Underhill, Francis J",,Preferred Name
 63882,54325,Sieger,"Sieger, Victor",,Preferred Name
+63890,54331,Conti,"Conti, Enrico",,Preferred Name
 63894,54335,Jourde,"Jourde, Henri",,Preferred Name
 63897,54338,Parigi,"Parigi, Giulio",,Preferred Name
 63900,54341,Von Derwies,"Von Derwies, Serge",,Preferred Name
@@ -34735,3 +34739,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63984,8577,Mondschein,"Mondschein, Fritz",,Variant
 63985,54419,,Unknown,,Preferred Name
 63986,54420,Palumbo,"Palumbo, Dan",,Preferred Name
+63991,54422,Soifer,"Soifer, Howard",,Preferred Name
