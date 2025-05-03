@@ -6885,7 +6885,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 7234,7241,Bartz,"Bartz, Eugene",,Preferred Name
 7235,7242,Bashaw,"Bashaw, Edward",,Preferred Name
 7236,7243,Bashian,"Bashian, Helen D.",,Preferred Name
-7237,7244,Bates,"Bates, Dorothea",,Preferred Name
+7237,7244,Bates,"Bates, Dorothee L.",,Preferred Name
 7238,7245,Battee,"Battee, Leonard",,Preferred Name
 7240,7247,Beck,"Beck, Harvey",,Preferred Name
 7241,7248,Beer,"Beer, Doris",,Preferred Name
@@ -34679,6 +34679,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63717,54178,,Galerie De Jonckheere,,Preferred Name
 63723,54184,,Harding & Lepard,,Preferred Name
 63724,54185,Darton,"Darton, William",,Preferred Name
+63725,1014,,,,Variant
 63727,54186,,"Convent of Santa Maria delle Grazie, Milan",,Preferred Name
 63752,54210,Holland,"Holland, Compton",,Preferred Name
 63755,11136,,"Staatliche Museen zu Berlin, Vorderasiatisches Museum",,Variant
@@ -34702,11 +34703,14 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63817,54270,,"KJH Press, Austin, TX",,Preferred Name
 63818,54271,,"Edition Heiner Friedrich, Munich",,Preferred Name
 63819,53990,Smith,"Smith, Allison",,Variant
+63832,52318,Derby,,,Full Name
 63835,34154,Zaidenberg,"Zaidenberg, A.",,Variant
 63837,54287,,"University of Nebraska, Omaha",,Preferred Name
 63840,53526,Martínez,"Martínez, César Augusto",,Variant
 63844,54293,Goldstein,"Goldstein, Robert D.",,Preferred Name
 63849,54298,d'Argenville,"d'Argenville, Antoine Joseph Dezallier",,Preferred Name
+63850,52752,Alu,,,Variant
+63851,52752,Alou,,,Variant
 63852,54299,Baratta,"Baratta, Alessandro",,Preferred Name
 63863,54309,,Cardinal Point Press,,Preferred Name
 63870,53040,,,,Nickname/Pseudonym
@@ -34733,6 +34737,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63934,54371,Albrizzi,"Albrizzi, Alvise",,Preferred Name
 63935,54372,,Sanquirico Brothers,,Preferred Name
 63942,54379,,Black Box Press Studio,,Preferred Name
+63949,7937,Perky,Perky Ms.,,Variant
+63955,40122,Stanley,"Stanley, Jane M.",,Variant
 63969,54404,Tang,"Tang, Susan L.",,Preferred Name
 63982,54417,Lathrop,"Lathrop, George Alfred Dr.",,Preferred Name
 63983,54418,Muzahhib,"Muzahhib, Mahmud",,Preferred Name

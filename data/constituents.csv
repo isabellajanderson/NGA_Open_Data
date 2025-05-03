@@ -270,7 +270,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 286,,"Fullinwider, Edwin Gaines, Admiral and Mrs.",Admiral and Mrs. Edwin Gaines Fullinwider,Fullinwider,he: died 1982,0,,,,,Other,couple,
 287,,"Futoran, Robert J., Dr. and Mrs.",Dr. and Mrs. Robert J. Futoran,Futoran,,0,,,,,Other,couple,
 288,,"Kilmer, Kenton, Mrs.",Mrs. Kenton Kilmer,Kilmer,,0,,,,,Other,individual,
-289,,"Gallatin, Albert Eugene",Albert Eugene Gallatin,Gallatin,"American, 1881 - 1952",0,1881,1952,1876 to 1900,American,American,individual,
+289,,"Gallatin, Albert Eugene",Albert Eugene Gallatin,Gallatin,"American, 1881 - 1952",0,1881,1952,1876 to 1900,American,American,individual,Q2117132
 290,,"Gallatin, R. Horace",R. Horace Gallatin,Gallatin,"American, 1871 - 1948",0,1871,1948,1851 to 1875,American,American,individual,
 291,,"Gallois, John E., Mrs.",Mrs. John E. Gallois,Gallois,,0,,,,,Other,individual,
 292,,"Garbisch, Edgar William, Mr. and Mrs.",Mr. and Mrs. Edgar William Garbisch,Garbisch,he: 1899 - 1979; she: 1907 - 1979,0,1899,1979,1876 to 1900,,Other,couple,
@@ -6887,7 +6887,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 7202,,"Allen, Eldon",Eldon Allen,Allen,"American, 1920 - 1998",1,1920,1998,1901 to 1925,American,American,individual,
 7203,,"Almgren, Jenny",Jenny Almgren,Almgren,"American, 1881 - 1962",1,1881,1962,1876 to 1900,American,American,individual,
 7243,,"Bashian, Helen D.",Helen D. Bashian,Bashian,"American, 1903 - 1991",1,1903,1991,1901 to 1925,American,American,individual,
-7244,,"Bates, Dorothea",Dorothea Bates,Bates,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual,
+7244,,"Bates, Dorothee L.",Dorothee L. Bates,Bates,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual,
 28080,,"Persigny, Duc de",Duc de Persigny,Persigny,French,0,,,,French,French,individual,
 7204,,"Aloisi, Anna",Anna Aloisi,Aloisi,"American, born c. 1890, died early 1950s",1,1885,1955,1876 to 1900,American,American,individual,
 7205,,"Alvarez, Francisco",Francisco Alvarez,Alvarez,"American, born Cuba, 1907 - 1990",1,1907,1990,1901 to 1925,American,American,individual,
@@ -25215,7 +25215,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50509,,"Zelck, Wilma",Wilma Zelck,Zelck,,0,,,,,Other,individual,
 50511,,"Godwin, Judith",Judith Godwin,Godwin,"American, 1930 - 2021",1,1930,2021,1926 to 1950,American,American,individual,
 50513,,"Courmont, Henri",Henri Courmont,Courmont,"French, 1813 - 1891",1,1813,1891,1801 to 1825,French,French,individual,
-50515,,"Augustodunensis, Honorius",Honorius Augustodunensis,Augustodunensis,1080 - 1154,1,1080,1154,before 1300,,Other,individual,
+50515,,"Augustodunensis, Honorius",Honorius Augustodunensis,Augustodunensis,1080 - 1154,1,1080,1154,before 1300,,Other,individual,Q543586
 50516,,J. Pocker & Son,J. Pocker & Son,,,0,,,,,Other,corporate,
 50517,,"Trökes, Heinz",Heinz Trökes,Trökes,1913 - 1997,0,1913,1997,1901 to 1925,,Other,individual,
 50519,,"Mellon, Gertrud",Gertrud Mellon,Mellon,1909 - 2005,0,1909,2005,1901 to 1925,,Other,individual,
