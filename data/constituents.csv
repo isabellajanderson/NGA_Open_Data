@@ -1256,7 +1256,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1334,500115562,"Gericault, Théodore",Théodore Gericault,Gericault,"French, 1791 - 1824",1,1791,1824,1776 to 1800,French,French,individual,Q184212
 1335,500006246,"Gertner, Peter",Peter Gertner,Gertner,"German, active 1530/1540",1,1460,1590,1401 to 1500,German,German,individual,Q2075149
 1350,,"Goode, M.A.",M.A. Goode,Goode,"American, active second half 19th century",1,1819,1910,1801 to 1825,American,American,individual,Q21498086
-1351,500021392,"Gorky, Arshile",Arshile Gorky,Gorky,"American, born Van Province, Ottoman Empire (now Turkey), c. 1904 - 1948",1,1904,1948,1901 to 1925,American,American,individual,Q165648
+1351,500021392,"Gorky, Arshile",Arshile Gorky,Gorky,"American, born Van Province, Ottoman Empire (now Turkey), c. 1904 - 1948",1,1904,1948,1901 to 1925,American,American,individual,
 1336,500115228,"Ghirlandaio, Domenico",Domenico Ghirlandaio,Ghirlandaio,"Florentine, 1449 - 1494",1,1449,1494,1401 to 1500,Italian,Italian,individual,Q191423
 1337,500002132,"Ghirlandaio, Ridolfo",Ridolfo Ghirlandaio,Ghirlandaio,"Florentine, 1483 - 1561",1,1483,1561,1401 to 1500,Italian,Italian,individual,Q64881
 1338,500014740,"Ghislandi, Giuseppe",Giuseppe Ghislandi,Ghislandi,"Italian, 1655 - 1743",1,1655,1743,1651 to 1700,Italian,Italian,individual,Q1440305
@@ -23317,7 +23317,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 47648,,"Seymon, Eleanor",Eleanor Seymon,Seymon,American,0,,,,American,American,individual,
 47650,,Hewitt & Jaques,Hewitt & Jaques,,"American, 1837 - 1841",1,1837,1841,1826 to 1850,American,American,corporate,
 47652,,Oehme Graphics,Oehme Graphics,,,1,,,,,Other,corporate,
-47656,,"Grain, David",David Grain,Grain,,0,,,,,Other,individual,
+47656,,"Grain, David J.",David J. Grain,Grain,,0,,,,,Other,individual,
 47660,,"Fox, Herb",Herb Fox,Fox,"American, active late 20th century",1,,,,American,American,individual,
 47661,,APC Editions,APC Editions,,,1,,,,,Other,corporate,
 47663,,Thayer's Lithography,Thayer's Lithography,,"American, 1840 - 1853",1,1840,1853,1826 to 1850,American,American,corporate,
@@ -23592,6 +23592,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 48067,,Saint-Gois,Saint-Gois,Saint-Gois,"French, active 1760s/1770s",1,1760,1779,1751 to 1775,French,French,individual,
 48068,,"Crodel, Charles",Charles Crodel,Crodel,"German, 1894 - 1973",0,1894,1973,1876 to 1900,German,German,individual,
 48069,,"Kirchner, Erna",Erna Kirchner,Kirchner,German,0,,,,German,German,individual,
+48070,,"Russell, Philip",Philip Russell,Russell,"American, active 1950s",1,1950,1959,1926 to 1950,American,American,individual,
 48071,,"Ross, Benjamin",Benjamin Ross,Ross,"American, active 1940s",1,1940,1949,1926 to 1950,American,American,individual,
 48072,,"Deitch, Kim",Kim Deitch,Deitch,"American, born 1944",1,1944,,1926 to 1950,American,American,individual,
 48074,,"Koch, Louis",Louis Koch,Koch,"German, 1862 - 1930",0,1862,1930,1851 to 1875,German,German,individual,
@@ -23881,6 +23882,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 48388,,"Caldwell, John F.",John F. Caldwell,Caldwell,"American, 1946 - 2016",1,1946,2016,1926 to 1950,American,American,individual,
 48389,,Screw Magazine,Screw Magazine,,"American, 1968 - 2003",1,1968,2003,1951 to 1975,American,American,corporate,Q4358461
 48391,,"Catrani, Tommaso",Tommaso Catrani,Catrani,"Italian, 1732 - 1824",1,1732,1824,1726 to 1750,Italian,Italian,individual,
+48392,,"Smith, May Aimée",May Aimée Smith,Smith,"British, 1886 - 1962",1,1886,1962,1876 to 1900,British,British,individual,
 48393,,"Smith, Michael C.",Michael C. Smith,Smith,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
 48394,,"Biernoff, Elisheva",Elisheva Biernoff,Biernoff,"American, born 1980",1,1980,,1976 to 2000,American,American,individual,
 48396,,PRPH Books,PRPH Books,,,0,,,,,Other,corporate,
@@ -24282,6 +24284,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 49073,,"Almasy, Peter",Peter Almasy,Almasy,active 1960s,1,1960,1969,1951 to 1975,,Other,individual,
 49076,,"Freeman, J.",J. Freeman,Freeman,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
 49078,500102190,"Dietzsch, Johann Albrecht",Johann Albrecht Dietzsch,Dietzsch,"German, 1720 - 1782",1,1720,1782,1701 to 1725,German,German,individual,
+49079,,"Johnson, Marion",Marion Johnson,Johnson,"American, active 20th century",1,,,,American,American,individual,
 49080,,"Batcheller, Frederick Stone",Frederick Stone Batcheller,Batcheller,"American, 1837 - 1889",1,1837,1889,1826 to 1850,American,American,individual,
 49081,500105651,"Dunning, Robert Spear",Robert Spear Dunning,Dunning,"American, 1829 - 1905",1,1829,1905,1826 to 1850,American,American,individual,
 49082,500028866,"Forster, George",George Forster,Forster,"American, 1817 - 1896",1,1817,1896,1801 to 1825,American,American,individual,
@@ -27502,3 +27505,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54419,,Unknown,Unknown,,(probably American),1,,,,(probably American),Other,individual,
 54420,,"Palumbo, Dan",Dan Palumbo,Palumbo,American,1,,,,American,American,individual,
 54422,,"Soifer, Howard",Howard Soifer,Soifer,"American, active 20th century",1,,,,American,American,individual,
+54426,,and Workshop of Donatello,and Workshop of Donatello,,Florentine,1,,,,Florentine,Other,corporate,

@@ -28719,7 +28719,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54944,47650,,Hewitt & Jaques,,Preferred Name
 54946,47652,,Oehme Graphics,,Preferred Name
 54949,43007,Eustis,"Eustis, William Corcoran Mr. and Mrs.",,Full Name
-54952,47656,Grain,"Grain, David",,Preferred Name
+54952,47656,Grain,"Grain, David J.",,Preferred Name
 54955,40180,Snelson,"Snelson, Kenneth Duane",,Full Name
 54957,47660,Fox,"Fox, Herb",,Preferred Name
 54958,47661,,APC Editions,,Preferred Name
@@ -29099,6 +29099,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55497,48067,Saint-Gois,Saint-Gois,,Preferred Name
 55498,48068,Crodel,"Crodel, Charles",,Preferred Name
 55499,48069,Kirchner,"Kirchner, Erna",,Preferred Name
+55500,48070,Russell,"Russell, Philip",,Preferred Name
 55501,48071,Ross,"Ross, Benjamin",,Preferred Name
 55502,48072,Deitch,"Deitch, Kim",,Preferred Name
 55503,48072,Means,"Means, Fowlton",,Nickname/Pseudonym
@@ -29540,6 +29541,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 55986,48389,,Screw Magazine,,Preferred Name
 55987,48389,,Milky Way Productions,,Variant
 55989,48391,Catrani,"Catrani, Tommaso",,Preferred Name
+55990,48392,Smith,"Smith, May Aimée",,Preferred Name
 55991,48393,Smith,"Smith, Michael C.",,Preferred Name
 55992,15435,Goldowsky,"Goldowsky, Noah",,Variant
 55993,48394,Biernoff,"Biernoff, Elisheva",,Preferred Name
@@ -30205,6 +30207,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56956,49073,Almasy,"Almasy, Peter",,Preferred Name
 56960,49076,Freeman,"Freeman, J.",,Preferred Name
 56962,49078,Dietzsch,"Dietzsch, Johann Albrecht",,Preferred Name
+56963,49079,Johnson,"Johnson, Marion",,Preferred Name
 56964,49080,Batcheller,"Batcheller, Frederick Stone",,Preferred Name
 56965,49080,Batcheller,"Batcheller, Frederick S.",,Variant
 56966,49081,Dunning,"Dunning, Robert Spear",,Preferred Name
@@ -34746,3 +34749,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63985,54419,,Unknown,,Preferred Name
 63986,54420,Palumbo,"Palumbo, Dan",,Preferred Name
 63991,54422,Soifer,"Soifer, Howard",,Preferred Name
+63995,54426,,and Workshop of Donatello,,Preferred Name
