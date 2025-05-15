@@ -27418,6 +27418,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 50739,43948,Bell,"Bell, William H.",,Preferred Name
 50752,43961,Shindler,"Shindler, Antonio Zeno",,Preferred Name
 50762,13511,O'Sullivan,"O'Sullivan, Timothy",,Variant
+50801,44010,Hasbun,"Hasbun, Muriel",,Preferred Name
 50828,44037,Caffery,"Caffery, Debbie Fleming",,Preferred Name
 50832,44041,Gedney,"Gedney, William",,Preferred Name
 50834,44043,Higgins,"Higgins, Chester",,Preferred Name
@@ -27512,6 +27513,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 52523,45732,Yoshida,"Yoshida, Ray",,Preferred Name
 52555,45764,Davis,Davis,,Preferred Name
 52567,45776,Bodine,"Bodine, A. Aubrey",,Preferred Name
+52595,45804,Jones,"Jones, Tom",,Preferred Name
 52629,45838,Steinmetz,"Steinmetz, Mark",,Preferred Name
 52632,45841,Tolliver,"Tolliver, Mose",,Preferred Name
 52679,45888,Parr,"Parr, Martin",,Preferred Name
@@ -27912,6 +27914,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53824,1181,Credi,"Credi, Lorenzo di",,Variant
 53829,38198,Faccioli,"Faccioli, Girolamo",,Variant
 53830,22351,Storrs,"Storrs, John Henry Bradley",,Full Name
+63725,1014,,,,Variant
 53831,46856,Lalaisse,"Lalaisse, Hippolyte",,Preferred Name
 53832,46857,Rossi,"Rossi, Barbara",,Preferred Name
 53836,46861,Thomas,"Thomas, James ""Son Ford""",,Preferred Name
@@ -34361,6 +34364,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63033,53631,,Galerie Anita Beckers,,Preferred Name
 63034,53632,Chambefort,"Chambefort, Maria",,Preferred Name
 63035,53633,Tartarin,"Tartarin, Bruno",,Preferred Name
+63039,53635,Lehr,"Lehr, Janet",,Preferred Name
 63042,53638,Patton,"Patton, James Calvin",,Preferred Name
 63043,53639,,H. J. McCabe & Co.,,Preferred Name
 63044,53640,,Baker's Art Gallery,,Preferred Name
@@ -34681,7 +34685,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63717,54178,,Galerie De Jonckheere,,Preferred Name
 63723,54184,,Harding & Lepard,,Preferred Name
 63724,54185,Darton,"Darton, William",,Preferred Name
-63725,1014,,,,Variant
 63727,54186,,"Convent of Santa Maria delle Grazie, Milan",,Preferred Name
 63752,54210,Holland,"Holland, Compton",,Preferred Name
 63755,11136,,"Staatliche Museen zu Berlin, Vorderasiatisches Museum",,Variant

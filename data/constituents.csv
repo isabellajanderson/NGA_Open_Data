@@ -22422,6 +22422,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 43945,500005101,"Savage, Charles R.",Charles R. Savage,Savage,"American, born Britain, 1832 - 1909",1,1832,1909,1826 to 1850,American,American,individual,
 43948,500055414,"Bell, William H.",William H. Bell,Bell,"American, born England, 1830 - 1910",1,1830,1910,1826 to 1850,American,American,individual,Q1755030
 43961,,"Shindler, Antonio Zeno",Antonio Zeno Shindler,Shindler,"American, 1823 - 1899",1,1823,1899,1801 to 1825,American,American,individual,
+44010,500680655,"Hasbun, Muriel",Muriel Hasbun,Hasbun,"American, born El Salvador, 1961",1,1961,,1951 to 1975,American,American,individual,Q62036483
 44037,500330755,"Caffery, Debbie Fleming",Debbie Fleming Caffery,Caffery,"American, born 1948",1,1948,,1926 to 1950,American,American,individual,Q21288740
 44041,500333532,"Gedney, William",William Gedney,Gedney,"American, 1932 - 1989",1,1932,1989,1926 to 1950,American,American,individual,Q8009745
 44043,500343399,"Higgins, Chester",Chester Higgins,Higgins,"American, born 1946",1,1946,,1926 to 1950,American,American,individual,
@@ -22497,6 +22498,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 45732,500016363,"Yoshida, Ray",Ray Yoshida,Yoshida,"American, 1930 - 2009",1,1930,2009,1926 to 1950,American,American,individual,
 45764,,Davis,Davis,Davis,American,0,,,,American,American,individual,
 45776,,"Bodine, A. Aubrey",A. Aubrey Bodine,Bodine,"American, 1906 - 1970",1,1906,1970,1901 to 1925,American,American,individual,
+45804,,"Jones, Tom",Tom Jones,Jones,"Ho-Chunk Nation, born 1964",1,1964,,1951 to 1975,American,American,individual,
 45838,500467997,"Steinmetz, Mark",Mark Steinmetz,Steinmetz,"American, born 1961",1,1961,,1951 to 1975,American,American,individual,
 45841,500125726,"Tolliver, Mose",Mose Tolliver,Tolliver,"American, 1918 - 2006",1,1918,2006,1901 to 1925,American,American,individual,Q4274641
 45888,,"Parr, Martin",Martin Parr,Parr,"British, born 1952",1,1952,,1951 to 1975,British,British,individual,
@@ -27230,6 +27232,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53630,,La Galerie Rouge,La Galerie Rouge,,,0,,,,,Other,corporate,
 53632,,"Chambefort, Maria",Maria Chambefort,Chambefort,"French, 1840 - 1893",1,1840,1893,1826 to 1850,French,French,individual,Q105729568
 53633,,"Tartarin, Bruno",Bruno Tartarin,Tartarin,,0,,,,,Other,individual,
+53635,,"Lehr, Janet",Janet Lehr,Lehr,,0,,,,,Other,individual,
 53638,,"Patton, James Calvin",James Calvin Patton,Patton,"American, 1882 - 1958",1,1882,1958,1876 to 1900,American,American,individual,Q98841147
 53639,,H. J. McCabe & Co.,H. J. McCabe & Co.,,"American, active 1910s",1,,,,American,American,corporate,
 53640,,Baker's Art Gallery,Baker's Art Gallery,,"American, 1862 - 1955",1,1862,1955,1851 to 1875,American,American,corporate,Q4849114
