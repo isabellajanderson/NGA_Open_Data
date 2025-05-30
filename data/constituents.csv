@@ -10923,6 +10923,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 13503,,"Vance, Robert H.",Robert H. Vance,Vance,"American, 1825 - 1876",1,1825,1876,1801 to 1825,American,American,individual,
 13504,500126201,"Brady, Mathew B.",Mathew B. Brady,Brady,"American, 1822 - 1896",1,1822,1896,1801 to 1825,American,American,individual,
 13527,,"Seeley, George H.",George H. Seeley,Seeley,"American, 1880 - 1955",1,1880,1955,1876 to 1900,American,American,individual,Q780677
+13528,,"Meyer, Adolph de",Adolph de Meyer,Meyer,"American, born France, 1868 - 1946",1,1868,1946,1851 to 1875,American,American,individual,
 13532,500041221,"Becher, Bernd and Hilla",Bernd and Hilla Becher,Becher,"German, he: 1931 - 2007, she: 1934 - 2015",1,1931,2015,1926 to 1950,German,German,couple,Q705085
 13534,500010446,"Evans, Frederick H.",Frederick H. Evans,Evans,"British, 1853 - 1943",1,1853,1943,1851 to 1875,British,British,individual,Q1452901
 13536,500013817,"Day, F. Holland",F. Holland Day,Day,"American, 1864 - 1933",1,1864,1933,1851 to 1875,American,American,individual,Q555442
@@ -26349,6 +26350,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52294,,Gefn Janus Unlimited,Gefn Janus Unlimited,,,1,,,,,Other,corporate,
 52295,,Stinehour Press,Stinehour Press,,,1,,,,,Other,corporate,
 52296,,"Gottlieb, Esther",Esther Gottlieb,Gottlieb,"American, 1907 - 1988",1,1907,1988,1901 to 1925,American,American,individual,
+52302,,"Barnor, James",James Barnor,Barnor,"Ghanaian, born 1929",1,1929,,1926 to 1950,Ghanaian,Other,individual,
 52304,,"Brathwaite, Kwame",Kwame Brathwaite,Brathwaite,"American, 1938 - 2023",1,1938,2023,1926 to 1950,American,American,individual,Q28860536
 52305,,Philip Martin Gallery,Philip Martin Gallery,,,0,,,,,Other,corporate,
 52310,,"Clark, June",June Clark,Clark,"American, b. 1941",1,1941,,1926 to 1950,American,American,individual,
@@ -26903,7 +26905,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53168,500037066,"Ranney, Edward",Edward Ranney,Ranney,"American, born 1942",1,1942,,1926 to 1950,American,American,individual,
 53169,500461704,"Spear, David M.",David M. Spear,Spear,"American, born 1937",1,1937,,1926 to 1950,American,American,individual,
 53170,,"Stewart, Sharon",Sharon Stewart,Stewart,"American, born 1955",1,1955,,1951 to 1975,American,American,individual,
-54372,,Sanquirico Brothers,Sanquirico Brothers,,Italian,0,,,,Italian,Italian,individual,
 53171,500036893,"Gottscho, Samuel H.",Samuel H. Gottscho,Gottscho,"American, 1875 - 1971",1,1875,1971,1851 to 1875,American,American,individual,
 53172,500002696,"Taber, Isaiah West",Isaiah West Taber,Taber,"American, 1830 - 1912",1,1830,1912,1826 to 1850,American,American,individual,
 53173,500037047,"Gudmundson, Wayne",Wayne Gudmundson,Gudmundson,"American, born 1949",1,1949,,1926 to 1950,American,American,individual,
@@ -27331,6 +27332,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53754,500385842,"Aguilar, Laura",Laura Aguilar,Aguilar,"American, 1959 - 2018",1,1959,2018,1951 to 1975,American,American,individual,Q3827717
 53755,,The Laura Aguilar Trust,The Laura Aguilar Trust,,,0,,,,,Other,corporate,
 53756,,"Sherman, Chloe",Chloe Sherman,Sherman,"American, born 1969",1,1969,,1951 to 1975,American,American,individual,
+53760,500114746,"Shambroom, Paul",Paul Shambroom,Shambroom,"American, born 1956",1,1956,,1951 to 1975,American,American,individual,Q7153537
+53772,,"Mortenson, Ray",Ray Mortenson,Mortenson,"American, born 1944",1,1944,,1926 to 1950,American,American,individual,Q7297867
 53773,,Catherine Fosnot Gallery,Catherine Fosnot Gallery,,,0,,,,,Other,corporate,
 53774,,Black Art Auction,Black Art Auction,,,0,,,,,Other,corporate,
 53775,,Leland LIttle Auctions,Leland LIttle Auctions,,,0,,,,,Other,corporate,
@@ -27347,6 +27350,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53787,,"Samuels, Julia",Julia Samuels,Samuels,"American, born 1985",1,1985,,1976 to 2000,American,American,individual,
 53790,,"Hill, Mary L.",Mary L. Hill,Hill,,0,,,,,Other,individual,
 53910,,Chief Curator Discretionary Fund,Chief Curator Discretionary Fund,,,0,,,,,Other,purchase_fund,
+53912,,Galerie Clémentine de la Féronnière,Galerie Clémentine de la Féronnière,,,0,,,,,Other,corporate,
 53917,,"Blanco, Lázaro",Lázaro Blanco,Blanco,"Mexican, 1938 - 2011",1,1938,2011,1926 to 1950,Mexican,Mexican,individual,Q5816398
 53918,,"Garcia, Maria",María García,García,"Mexican, born 1938",1,1938,,1926 to 1950,Mexican,Mexican,individual,
 53929,,"Hawley, Michael",Michael Hawley,Hawley,,0,,,,,Other,individual,
@@ -27458,6 +27462,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54143,,"The ""Chief Framer""","The ""Chief Framer""","The ""Chief Framer""","Italian, 1500 - 1600",1,1500,1600,1401 to 1500,italian,italian,individual,
 54146,,Stayner & Smith,Stayner & Smith,,"American, active 1860s",1,,,,American,American,individual,
 54148,,"Maneely, H. F.",H. F. Maneely,Maneely,"American, 1852 - 1930",1,1852,1930,1851 to 1875,American,American,individual,
+54149,,"Her, Pao Houa",Pao Houa Her,Her,"American, born Laos, born 1982",1,1982,,1976 to 2000,American,American,individual,Q64009661
 54150,,"Evermon, Robert",Robert Evermon,Evermon,"American, born 1941",1,1941,,1926 to 1950,American,American,individual,
 54151,,"Wong, Martin, Estate of","Wong, Martin, Estate of",Wong,1999 - 1999,0,1999,1999,1976 to 2000,,Other,corporate,
 54152,,The Martin Wong Foundation,The Martin Wong Foundation,,,0,2003,,2001 to present,,Other,corporate,
@@ -27504,6 +27509,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54322,,"Underhill, Francis J",Francis J. Underhill,Underhill,"American, died 1938",0,,1938,,American,American,individual,
 54325,,"Sieger, Victor",Victor Sieger,Sieger,"German, 1824 - 1905",0,1824,1905,1801 to 1825,German,German,individual,
 54331,,"Conti, Enrico",Enrico Conti,Conti,,0,,,,Italian,Italian,individual,
+54332,500016616,"Hinton, Alfred Horsley",Alfred Horsley Hinton,Hinton,"British, 1863 - 1908",1,1863,1908,1851 to 1875,British,British,individual,Q4722889
+54333,500073971,"Einbeck, Georg",Georg Einbeck,Einbeck,"German, 1871 - 1951",1,1871,1951,1851 to 1875,German,German,individual,Q19959350
 54335,,"Jourde, Henri",Henri Jourde,Jourde,French,1,,,,French,French,individual,
 54338,,"Parigi, Giulio",Giulio Parigi,Parigi,Italian,1,1571,1635,1551 to 1600,Italian,Italian,individual,
 54341,,"Von Derwies, Serge",Serge von Derwies,Von Derwies,"Russian, 1863-1943",0,1863,1943,1851 to 1875,,Other,individual,
@@ -27521,6 +27528,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54367,,"Lama, Manuel de",Manuel de Lama,Lama,,0,,,,,Other,individual,
 54368,,Auktionshaus zeitGenossen,Auktionshaus zeitGenossen,,,0,,,,,Other,corporate,
 54371,,"Albrizzi, Alvise",Alvise Albrizzi,Albrizzi,"Italian, 1779 - post 1841",0,1779,1841,1776 to 1800,Italian,Italian,individual,
+54372,,Sanquirico Brothers,Sanquirico Brothers,,Italian,0,,,,Italian,Italian,individual,
 54379,,Black Box Press Studio,Black Box Press Studio,,,1,,,,,Other,corporate,
 54404,,"Tang, Susan L.",Susan L. Tang,Tang,,0,,,,,Other,purchase_fund,
 54417,,"Lathrop, George Alfred Dr.",Dr. George Alfred Lathrop,Lathrop,,0,1819,1877,1801 to 1825,American,American,individual,
@@ -27530,3 +27538,4 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54422,,"Soifer, Howard",Howard Soifer,Soifer,"American, active 20th century",1,,,,American,American,individual,
 54426,,and Workshop of Donatello,and Workshop of Donatello,,Florentine,1,,,,Florentine,Other,corporate,
 54457,,"Schneider, Christopher",Christopher Schneider,Schneider,"German, 1635 - 1701",1,1635,1701,1601 to 1650,German,German,individual,
+54459,,"Pretsch, Paul",Paul Pretsch,Pretsch,"Austrian, 1803 - 1873",1,1803,1873,1801 to 1825,Austrian,Austrian,individual,

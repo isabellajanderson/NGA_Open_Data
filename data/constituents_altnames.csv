@@ -10872,6 +10872,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 13517,13524,Wright,"Wright, Frank Lloyd",,Preferred Name
 13519,13526,White,"White, Clarence H.",,Preferred Name
 13520,13527,Seeley,"Seeley, George H.",,Preferred Name
+13521,13528,Meyer,"Meyer, Adolph de",,Preferred Name
 13525,13532,Becher,"Becher, Bernd and Hilla",,Preferred Name
 13527,13534,Evans,"Evans, Frederick H.",,Preferred Name
 13529,13536,Day,"Day, F. Holland",,Preferred Name
@@ -28298,7 +28299,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54363,47269,Gibson-Craig,"Gibson-Craig, James T.",,Preferred Name
 54365,47271,Coats,"Coats, William A.",,Preferred Name
 54366,47271,Coats,"Coats, W. A.",,Variant
-63493,52463,Robertson Kuhn,,,Maiden Name
 54368,47273,Keiller,"Keiller, James M. Mr. and Mrs.",,Preferred Name
 54370,47275,Kropatscheck,"Kropatscheck, Walter",,Preferred Name
 54371,47276,Potocki,"Potocki, Leon",,Preferred Name
@@ -33196,6 +33196,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61315,52294,,Gefn Janus Unlimited,,Preferred Name
 61316,52295,,Stinehour Press,,Preferred Name
 61317,52296,Gottlieb,"Gottlieb, Esther",,Preferred Name
+61323,52302,Barnor,"Barnor, James",,Preferred Name
 61325,52304,Brathwaite,"Brathwaite, Kwame",,Preferred Name
 61326,52305,,Philip Martin Gallery,,Preferred Name
 61330,19648,Ransonette,"Ransonette, Pierre Nicolas",,Variant
@@ -34494,6 +34495,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63204,53754,Aguilar,"Aguilar, Laura",,Preferred Name
 63205,53755,,The Laura Aguilar Trust,,Preferred Name
 63206,53756,Sherman,"Sherman, Chloe",,Preferred Name
+63210,53760,Shambroom,"Shambroom, Paul",,Preferred Name
+63222,53772,Mortenson,"Mortenson, Ray",,Preferred Name
 63223,53773,,Catherine Fosnot Gallery,,Preferred Name
 63224,53774,,Black Art Auction,,Preferred Name
 63225,53775,,Leland LIttle Auctions,,Preferred Name
@@ -34515,6 +34518,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63247,53774,,Tyler Fine Art,,Variant
 63316,50167,Steinmetz,"Steinmetz, Philip",,Birth Name
 63369,53910,,Chief Curator Discretionary Fund,,Preferred Name
+63371,53912,,Galerie Clémentine de la Féronnière,,Preferred Name
 63376,53917,Blanco,"Blanco, Lázaro",,Preferred Name
 63377,53918,García,"Garcia, Maria",,Preferred Name
 63384,37098,,,,Variant
@@ -34581,6 +34585,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63489,53993,Shay,,,Variant
 63490,54013,Dick,"Dick, Beau",,Preferred Name
 63491,54014,,Andrew Kreps Gallery,,Preferred Name
+63493,52463,Robertson Kuhn,,,Maiden Name
 63496,54018,Schell,"Schell, Sherril V.",,Preferred Name
 63497,54019,Berchet,"Berchet, Pierre",,Preferred Name
 63498,54020,Blanc,"Blanc, Paul Dr.",,Preferred Name
@@ -34685,6 +34690,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63673,54143,"The ""Chief Framer""","The ""Chief Framer""",,Preferred Name
 63676,54146,,Stayner & Smith,,Preferred Name
 63680,54148,Maneely,"Maneely, H. F.",,Preferred Name
+63683,54149,Her,"Her, Pao Houa",,Preferred Name
 63686,54150,Evermon,"Evermon, Robert",,Preferred Name
 63687,54151,Wong,"Wong, Martin, Estate of",,Preferred Name
 63688,54152,,The Martin Wong Foundation,,Preferred Name
@@ -34742,6 +34748,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63878,54322,Underhill,"Underhill, Francis J",,Preferred Name
 63882,54325,Sieger,"Sieger, Victor",,Preferred Name
 63890,54331,Conti,"Conti, Enrico",,Preferred Name
+63891,54332,Hinton,"Hinton, Alfred Horsley",,Preferred Name
+63892,54333,Einbeck,"Einbeck, Georg",,Preferred Name
 63894,54335,Jourde,"Jourde, Henri",,Preferred Name
 63897,54338,Parigi,"Parigi, Giulio",,Preferred Name
 63900,54341,Von Derwies,"Von Derwies, Serge",,Preferred Name
@@ -34781,3 +34789,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64040,54457,Schneider,"Schneider, Christopher",,Preferred Name
 64042,1056,Weston,"Weston, Dody",,Nickname/Pseudonym
 64043,1056,Woodward,"Woodward, Margaret",,Maiden Name
+64049,54459,Pretsch,"Pretsch, Paul",,Preferred Name
