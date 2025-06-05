@@ -10785,7 +10785,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 12999,,Sonnabend Gallery,Sonnabend Gallery,,,1,,,,,Other,corporate,
 13000,,"Maugham, William Somerset",William Somerset Maugham,Maugham,"British, 1874 - 1965",1,1874,1965,1851 to 1875,British,British,individual,Q134942
 13001,,"Paul, C. Michael",C. Michael Paul,Paul,American,0,,,,American,American,individual,
-13002,,"Schreiber, Taft B.",Taft B. Schreiber,Schreiber,"American, 1908 - 1976",0,1908,1976,1901 to 1925,American,American,individual,
+13002,,"Schreiber, Taft B.",Taft B.,Schreiber,"American, 1908 - 1976",0,1908,1976,1901 to 1925,American,American,individual,
 13010,,"Vignardonne, Jean, Dr.",Dr. Jean Vignardonne,Vignardonne,"French, 1780 - 1854",0,1780,1854,1776 to 1800,French,French,individual,
 13011,,"Béraudière, Jacques-Victor, comte de la","Jacques-Victor, comte de la Béraudière",Béraudière,"French, 1808 - 1884",0,1808,1884,1801 to 1825,French,French,individual,
 13012,,"Béraudière, comte de la",comte de la Béraudière,Béraudière,French,0,,,,French,French,individual,
@@ -27290,7 +27290,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53704,,"Dugan, Jess T.",Jess T. Dugan,Dugan,"American, born 1986",1,1986,,1976 to 2000,American,American,individual,
 53705,,"Maravilla, Guadalupe",Guadalupe Maravilla,Maravilla,"American, born El Salvador, 1975",1,1975,,1951 to 1975,American,American,individual,Q107436373
 53706,,Clamp Art,Clamp Art,,,0,,,,,Other,corporate,
-53707,,"Schweiglin, Elias",Elias Schweiglin,Schweiglin,"German, 1565 - 1614",1,1565,1614,1551 to 1600,German,German,individual,
+53707,,"Schweiglin, Elias",Elias Schweiglin,Schweiglin,"German, active c. 1565 - 1614",1,1550,1614,1501 to 1550,German,German,individual,
 53708,,"Stewart, L. R.",L. R. Stewart,Stewart,"American, active c. 1890s",1,,,,American,American,individual,
 53709,,"Godefroy, Louis",Louis Godefroy,Godefroy,"French, 1885 - 1934",0,1885,1934,1876 to 1900,French,French,individual,
 53712,500004640,"Poitevin, Alphonse",Alphonse-Louis Poitevin,Poitevin,"French, 1819 - 1882",1,1819,1882,1801 to 1825,French,French,individual,Q1356899
