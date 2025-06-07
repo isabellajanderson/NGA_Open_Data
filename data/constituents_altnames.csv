@@ -3121,7 +3121,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 3286,3293,Veyrassat,"Veyrassat, Jules Jacques",,Preferred Name
 3287,3294,Vicente,"Vicente, Esteban",,Preferred Name
 3288,3295,Vico,"Vico, Enea",,Preferred Name
-3289,3296,Vidal,"Vidal, Geraud",,Preferred Name
+3289,3296,Vidal,"Vidal, Gérard",,Preferred Name
 3290,3297,Vieillard,"Vieillard, Roger",,Preferred Name
 3291,3298,Vielfaure,"Vielfaure, Jean-Pierre",,Preferred Name
 3292,3299,Vien,"Vien, Joseph-Marie",,Preferred Name
@@ -26093,6 +26093,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 45643,38862,Maloney,"Maloney, Joe",,Preferred Name
 45647,38865,Cunningham,"Cunningham, Richenda",,Preferred Name
 45648,38866,The Zamorensis Master,The Zamorensis Master,,Preferred Name
+61993,52827,USCO,USCO,,Preferred Name
 45649,36259,Kennedy,"Kennedy, Patrick and Patricia",,Variant
 45650,38867,Morini,"Morini, Cesare",,Preferred Name
 45655,38872,Metthey,"Metthey, Jean",,Preferred Name
@@ -26476,7 +26477,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 47209,40418,Frankel,"Frankel, Godfrey",,Preferred Name
 47213,40422,Bodrov,"Bodrov, Gennadi",,Preferred Name
 47232,40441,Moukhin,"Moukhin, Igor",,Preferred Name
-61993,52827,USCO,USCO,,Preferred Name
 47233,40442,Wall,"Wall, William Allen",,Preferred Name
 47237,40446,Lanker,"Lanker, Brian",,Preferred Name
 47248,40457,Kalisher,"Kalisher, Simpson",,Preferred Name
@@ -34796,3 +34796,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64042,1056,Weston,"Weston, Dody",,Nickname/Pseudonym
 64043,1056,Woodward,"Woodward, Margaret",,Maiden Name
 64049,54459,Pretsch,"Pretsch, Paul",,Preferred Name
+64053,54178,De Jonckheere,"De Jonckheere, Georges Mr.",,Variant
+64054,54463,Serre,"Serre, Jean-Claude",,Preferred Name
