@@ -34584,6 +34584,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63468,53995,Cervera Galería,"Cervera Galería, Marta",,Preferred Name
 63476,54001,Roche-Rabell,"Roche-Rabell, Arnaldo",,Preferred Name
 63477,54002,Morales,"Morales, José",,Preferred Name
+63479,54004,,Los Carpinteros,,Preferred Name
 63482,54006,Ramos,"Ramos, Sandra",,Preferred Name
 63487,54011,Scott,"Scott, Elizabeth Talford",,Preferred Name
 63488,54012,Timmons,"Timmons, Keith",,Preferred Name
@@ -34702,6 +34703,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63686,54150,Evermon,"Evermon, Robert",,Preferred Name
 63687,54151,Wong,"Wong, Martin, Estate of",,Preferred Name
 63688,54152,,The Martin Wong Foundation,,Preferred Name
+63706,54169,,Galería Ángel Romero,,Preferred Name
 63709,54171,Steiner,"Steiner, Paul",,Preferred Name
 63711,54173,Noterman,"Noterman, Zacherie",,Preferred Name
 63714,54176,Forster,"Forster, C.",,Preferred Name
@@ -34804,6 +34806,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63995,54426,,and Workshop of Donatello,,Preferred Name
 64000,26870,Levis,"Levis, Joseph de",,Variant
 64009,8968,Paterson,"Paterson, W.B.",,Variant
+64010,54437,,Espacio 1414,,Preferred Name
+64019,54004,Arrechea Zambrano,"Arrechea Zambrano, Alexander Jésus",,Member of
+64020,54004,Castillo Valdés,"Castillo Valdés, Marco Antonio",,Member of
+64021,54004,Rodriguez Sánchez,"Rodriguez Sánchez, Dagoberto",,Member of
 64024,23407,Stegeman,"Stegeman, Melissa J.",,Variant
 64038,8214,Becht,"Becht, Marguerite Carmel",,Maiden Name
 64039,8214,Wilson,"Wilson, Marguerite Carmel",,Variant
