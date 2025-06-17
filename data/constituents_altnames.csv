@@ -267,7 +267,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 285,292,Garbisch,"Garbisch, Edgar William, Mr. and Mrs.",,Preferred Name
 286,293,Gardner,"Gardner, Martin",,Preferred Name
 287,294,Kelly,"Kelly, George P., Mr.",,Preferred Name
-29630,29637,Gaál,Gaál,,Preferred Name
+28938,28945,,Vai,,Preferred Name
 289,296,Gebel,"Gebel, Paul, Mr. and Mrs.",,Preferred Name
 290,297,,Gemini G.E.L.,,Preferred Name
 291,298,Gensburg,"Gensburg, David",,Preferred Name
@@ -450,6 +450,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 478,485,,Professional Art Group I,,Preferred Name
 479,486,Pucker,"Pucker, B. H., Mr. and Mrs.",,Preferred Name
 480,487,Putnam,"Putnam, Esther W.",,Preferred Name
+28939,28946,,Ridolfi,,Preferred Name
 481,488,Pyne,"Pyne, Henry Rogers, Mrs.",,Preferred Name
 483,490,Rea,"Rea, Henry R., Mrs.",,Preferred Name
 484,491,,"Reader's Digest Association, Inc.",,Preferred Name
@@ -633,6 +634,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 670,677,,Galerie Beyeler,,Preferred Name
 671,678,Bier,"Bier, Herbert N., Mr.",,Preferred Name
 672,679,Bimm,"Bimm, H. Lee, Mr.",,Preferred Name
+31961,490,Rea,"Rea, Edith",,Variant
 673,680,Bonafous-Murat,"Bonafous-Murat, Arsene, Monsieur",,Preferred Name
 674,681,,"Botton Associates, De",,Preferred Name
 675,682,,Private Collection c/o Mr. F. Lorenceau,,Variant
@@ -1473,6 +1475,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1566,1573,,"Protetch Gallery, Max",,Preferred Name
 1567,1574,Fishman,"Fishman, Robert, Dr. and Mrs.",,Preferred Name
 1568,1575,,"Sourget, Patrick et Elisabeth",,Preferred Name
+32739,2116,Picard,"Picard, Le",,Variant
 1569,1576,,"Nahum at the Leicester Galleries, Peter",,Preferred Name
 1570,1577,Drummond,"Drummond, Thomas, Dr.",,Preferred Name
 1571,1578,,"Dance, Inc., Robert",,Preferred Name
@@ -1566,6 +1569,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1660,1667,Hazen,"Hazen, Robert, Mr. and Mrs.",,Preferred Name
 1661,1668,Rosenberg,"Rosenberg, Elaine, Mrs.",,Preferred Name
 1662,1669,Boone,"Boone, Mary",,Preferred Name
+33555,4952,Ascian,Ascian,,Variant
 1663,1670,Young,"Young, Diana, Ms.",,Preferred Name
 1664,1671,,"Smithson, Robert, Estate of",,Preferred Name
 1665,1672,Spearing,"Spearing, Cecilia W., Ms.",,Preferred Name
@@ -1751,6 +1755,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1856,1863,Schäufelein,"Schäufelein, Hans Leonard",,Preferred Name
 1857,1864,Scliar,"Scliar, Carlos",,Preferred Name
 1858,1865,Scorel,"Scorel, Jan van",,Preferred Name
+34391,9111,,Fenway Art Center,,Variant
 1859,1866,Sebastiano del Piombo,Sebastiano del Piombo,,Preferred Name
 1860,1867,Seitz,"Seitz, William Chapin",,Preferred Name
 1861,1868,Sellaio,"Sellaio, Jacopo del",,Preferred Name
@@ -15468,9 +15473,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 27737,27744,Torrigiani,"Torrigiani, Luigi, Marquis",,Preferred Name
 27738,27745,Torrigiani,"Torrigiani, Raffaele",,Preferred Name
 27739,27746,Morgan,"Morgan, Jr., John Pierpont",,Preferred Name
-27740,27747,Drury-Lowe,"Drury-Lowe, William",,Preferred Name
-27741,27748,Drury-Lowe,"Drury-Lowe, William Drury Nathaniel",,Preferred Name
-27742,27749,Drury-Lowe,"Drury-Lowe, William Drury",,Preferred Name
 27744,27751,Giustiniani,"Giustiniani, Contessa",,Preferred Name
 27745,27752,,Church of San Marco,,Preferred Name
 27746,27753,,Galleria dell'Accademia,,Preferred Name
@@ -16275,8 +16277,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 28935,28942,,Mylius,,Preferred Name
 28936,28943,,"Art market, Milan, Italy",,Preferred Name
 28937,28944,,Verrazzano,,Preferred Name
-28938,28945,,Vai,,Preferred Name
-28939,28946,,Ridolfi,,Preferred Name
 28940,28947,Sonnino,"Sonnino, G.",,Preferred Name
 28941,28948,,"Modestini, Mario",,Preferred Name
 28942,28949,,Académie Royale,,Preferred Name
@@ -16740,6 +16740,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 29627,29634,Pembroke,"Pembroke, Robert Henry Herbert, 12th Earl of",,Preferred Name
 29628,29635,Pembroke,"Pembroke, George Robert Charles Herbert, 13th Earl of",,Preferred Name
 29629,29636,Pembroke,"Pembroke, Sidney Herbert, 14th Earl of",,Preferred Name
+29630,29637,Gaál,Gaál,,Preferred Name
 29631,29638,Keleman,"Keleman, Ludwig, Dr.",,Preferred Name
 29633,29640,Smith-Barry,"Smith-Barry, John",,Preferred Name
 29634,29641,Smith-Barry,"Smith-Barry, James Hugh",,Preferred Name
@@ -16927,7 +16928,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 29898,29905,Nué,"Nué, Hélène",,Preferred Name
 29899,29906,Raftery,"Raftery, Andrew",,Preferred Name
 29900,29907,Stout,"Stout, Renée",,Preferred Name
-30025,30032,Bourke,"Bourke, Edmund de, Count",,Preferred Name
 29905,29912,Leuchtenberg,"Leuchtenberg, Maria de, Grand Duchess",,Preferred Name
 29906,29913,Leuchtenberg,"Leuchtenberg, Nicholas Maximilianovich, 4th duc de",,Preferred Name
 29907,29914,Leuchtenberg,"Leuchtenberg, Nicholas Nicolaievich, duc de",,Preferred Name
@@ -17018,6 +17018,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 30022,30029,,Chiesa di Monte Oliveto,,Preferred Name
 30023,30030,Haro y Guzmán,"Haro y Guzmán, Duquesa de Alba, Catalina Méndez de",,Preferred Name
 30024,30031,Silva y Alvarez de Toledo,"Silva y Alvarez de Toledo, Duquesa de Alba, María del Pilar Teresa Cayetana de",,Preferred Name
+30025,30032,Bourke,"Bourke, Edmund de, Count",,Preferred Name
 30026,30033,Labensky,"Labensky, M.",,Preferred Name
 30027,30034,Clavering-Cowper,"Clavering-Cowper, 3rd Earl Cowper, George Nassau",,Preferred Name
 30028,30035,Pousette-Dart,"Pousette-Dart, Richard",,Preferred Name
@@ -17111,7 +17112,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 30250,30257,Collard,"Collard, Hippolyte-Auguste",,Preferred Name
 30251,30258,Disdéri,"Disdéri, André Adolphe-Eugène",,Preferred Name
 30252,30259,Chapuis,"Chapuis, E.",,Preferred Name
-31961,490,Rea,"Rea, Edith",,Variant
 30253,30260,Rochecouste,"Rochecouste, Marquis de",,Preferred Name
 30254,30261,Murer,"Murer, Eugène",,Preferred Name
 30257,30264,Schneeberger,"Schneeberger, Adolf",,Preferred Name
@@ -18039,7 +18039,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 31856,223,Boardman,"Boardman, Josephine Porter",,Variant
 31857,232,Davis,"Davis, Pauline Morton Sabin",,Variant
 31858,232,Morton,"Morton, Pauline",,Maiden Name
-32739,2116,Picard,"Picard, Le",,Variant
 31859,232,Sabin,"Sabin, Charles Hamilton Mrs.",,Married Name
 31860,232,Sabin,"Sabin, Pauline Morton",,Variant
 31861,234,Delano,"Delano, Frederic Adrian",,Full Name
@@ -18702,7 +18701,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32539,1804,Predis,"Predis, Giovanni Ambrogio de",,Variant
 32540,1809,Pijnacker,"Pijnacker, Adam",,Variant
 32541,1812,Raffaëlli,"Raffaëlli, Jean-François",,Variant Index Name
-33555,4952,Ascian,Ascian,,Variant
 32542,1815,Raleigh,"Raleigh, Charles Sidney",,Variant
 32543,1818,Santi,"Santi, Raphael",,Variant
 32544,1821,Reinhardt,"Reinhardt, Adolph Frederick",,Variant
@@ -18795,7 +18793,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32637,1953,Vigée Le Brun,"Vigée Le Brun, Marie Louise Élisabeth",,Full Name
 32638,1953,Vigée-Lebrun,"Vigée-Lebrun, Élisabeth Louise",,Variant
 32639,1954,Vivarini,"Vivarini, Luigi",,Variant
-34391,9111,,Fenway Art Center,,Variant
 32641,1956,Bartolomeo da Murano,Bartolomeo da Murano,,Variant
 32642,1966,Warhola,"Warhola, Andrew",,Variant
 32643,1967,Watteau,"Watteau, Jean Antoine",,Variant

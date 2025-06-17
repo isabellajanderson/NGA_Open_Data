@@ -348,7 +348,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 370,,"Lasker Fund, Loula D.",Loula D. Lasker Fund,,,0,,,,,Other,purchase_fund,
 371,,"Latterman, Earl M., Mr. and Mrs.",Mr. and Mrs. Earl M. Latterman,Latterman,,0,,,,,Other,couple,
 372,,"Lawrence, Frederic C., Rt. Rev.",Rt. Rev. Frederic C. Lawrence,Lawrence,1850 - 1941,0,1850,1941,1826 to 1850,,Other,individual,
-51417,,Sarah Sauvin,Sarah Sauvin,,,0,,,,,Other,corporate,
+50369,,Joan Whalen,Joan Whalen Fine Arts,,,0,,,,,Other,corporate,
 382,,"Nef, John Ulric, Mr. and Mrs.",Mr. and Mrs. John Ulric Nef,Nef,he: 1899 - 1988; she: 1913 - 2009,0,1909,2009,1901 to 1925,,Other,couple,
 383,,"Lepman, Sara L., Mrs.",Mrs. Sara L. Lepman,Lepman,,0,,,,,Other,individual,
 384,,"Lesley, Parker, Mr.",Mr. Parker Lesley,Lesley,,0,,,,,Other,individual,
@@ -400,7 +400,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 430,,"Metcalf, Houghton P., Mrs.",Mrs. Houghton P. Metcalf,Metcalf,,0,,,,,Other,individual,
 456,,"Ober, Harold, Mrs.",Mrs. Harold Ober,Ober,,0,,,,,Other,individual,
 457,,"Obermer, Seymour, Mrs.",Mrs. Seymour Obermer,Obermer,"British, 1896 - 1984",0,1896,1984,1876 to 1900,British,British,individual,
-52875,,L. Sachse & Co.,L. Sachse & Co.,,,1,,,,,Other,corporate,
 431,,"Meyer, Agnes Ernst",Agnes Ernst Meyer,Meyer,"American, 1887 - 1970",1,1887,1970,1876 to 1900,American,American,individual,Q394508
 432,,"Meyer, Dieter Erich, Dr.",Dr. Dieter Erich Meyer,Meyer,"German, 1926 - 1982",0,1926,1982,1926 to 1950,German,German,individual,
 433,,Mickelson Gallery,Mickelson Gallery,,,0,,,,,Other,corporate,
@@ -5707,7 +5706,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 5970,500067253,"Voerst, Robert van",Robert van Voerst,Voerst,"Dutch, 1597 - 1635/1636",1,1597,1636,1551 to 1600,Dutch,Dutch,individual,Q18527472
 5971,500030670,"Neeffs, Jacobus",Jacobus Neeffs,Neeffs,"Flemish, 1610 - 1660 or after",1,1610,1660,1601 to 1650,Flemish,Flemish,individual,
 5972,,"Blakey, Nicholas",Nicholas Blakey,Blakey,"British, active 1752 - 1758",1,1732,1758,1726 to 1750,British,British,individual,Q18530484
-28080,,"Persigny, Duc de",Duc de Persigny,Persigny,French,0,,,,French,French,individual,
+27795,,"Solomon, Dan and Mary",Dan and Mary Solomon,Solomon,,0,,,,,Other,couple,
 5987,500011706,"Caillebotte, Gustave",Gustave Caillebotte,Caillebotte,"French, 1848 - 1894",1,1848,1894,1826 to 1850,French,French,individual,Q295144
 5988,500001464,"Graves, Nancy",Nancy Graves,Graves,"American, 1939 - 1995",1,1939,1995,1926 to 1950,American,American,individual,Q541831
 5989,500000179,"Nicholson, Ben",Ben Nicholson,Nicholson,"British, 1894 - 1982",1,1894,1982,1876 to 1900,British,British,individual,Q281637
@@ -5742,7 +5741,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 6043,500116236,"Clemente, Francesco",Francesco Clemente,Clemente,"Italian, born 1952",1,1952,,1951 to 1975,Italian,Italian,individual,Q698667
 6044,500018494,"Heindorff, Michael",Michael Heindorff,Heindorff,"German, born 1949",1,1949,,1926 to 1950,German,German,individual,
 6045,500027570,"Hodgkin, Howard",Howard Hodgkin,Hodgkin,"British, 1932 - 2017",1,1932,2017,1926 to 1950,British,British,individual,Q950746
-28081,,Gillet,Gillet,Gillet,,0,,,,,Other,individual,
+27957,,Thornton Realty Co.,Thornton Realty Co.,,,0,,,,,Other,corporate,
 6017,500009014,"Keyser, Thomas de",Thomas de Keyser,Keyser,"Dutch, 1596 - 1667",1,1596,1667,1551 to 1600,Dutch,Dutch,individual,Q932263
 6018,,"Merck, Jacob Fransz van der",Jacob Fransz van der Merck,Merck,"Dutch, c. 1610 - 1664",1,1610,1664,1601 to 1650,Dutch,Dutch,individual,
 6019,,"Pot, Hendrik Gerritsz",Hendrik Gerritsz Pot,Pot,"Dutch, c. 1585 - 1657",1,1585,1657,1551 to 1600,Dutch,Dutch,individual,
@@ -5965,7 +5964,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 6245,500071605,"Hopwood I, James",James Hopwood I,Hopwood I,"British, 1752 - 1819",1,1752,1819,1751 to 1775,British,British,individual,Q16239954
 6246,500081610,"Houve, Paul de la",Paul de la Houve,Houve,"French, active 17th century",1,1580,1699,1551 to 1600,French,French,individual,
 6247,500094438,"Hove, Frederik Hendrik van den",Frederik Hendrik van den Hove,Hove,"Dutch, c. 1628 - 1698",1,1628,1698,1601 to 1650,Dutch,Dutch,individual,
-28252,,"David, W., Mr.",Mr. W. David,David,British,0,,,,British,British,individual,
+27958,,"Peters, Louis, Dr.",Dr. Louis Peters,Peters,,0,,,,,Other,individual,
 6248,500004514,"Hulsen, Frederik van",Frederik van Hulsen,Hulsen,"Dutch, c. 1580 - c. 1660",1,1580,1660,1551 to 1600,Dutch,Dutch,individual,
 6249,500111893,"Ireland, Samuel",Samuel Ireland,Ireland,"British, died 1800",1,1720,1800,1701 to 1725,British,British,individual,Q7411777
 6250,500120870,"Isselburg, Peter",Peter Isselburg,Isselburg,"German, born 1580",1,1580,1660,1551 to 1600,German,German,individual,
@@ -6128,7 +6127,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 6410,500083035,"Putnam, Stephen Greeley",Stephen Greeley Putnam,Putnam,"American, born 1852",1,1852,1932,1851 to 1875,American,American,individual,Q105580672
 6411,500101007,"Kruell, Gustav",Gustav Kruell,Kruell,"American, 1843 - 1907",1,1843,1907,1826 to 1850,American,American,individual,Q16031454
 6412,,"Johnson, Thomas",Thomas Johnson,Johnson,"British, active c. 1878",1,1798,1938,1776 to 1800,British,British,individual,
-28253,500442049,"Pizzetta, Urbino",Urbino Pizzetta,Pizzetta,,0,,,,,Other,individual,
+28558,,"Mansbach, Steven",Steven Mansbach,Mansbach,,0,,,,,Other,individual,
 6413,,"Beckwith, James Carroll",James Carroll Beckwith,Beckwith,"American, 1852 - 1917",1,1852,1917,1851 to 1875,American,American,individual,Q2061583
 6414,,"Crane, Bruce",Bruce Crane,Crane,"American, 1857 - 1937",1,1857,1937,1851 to 1875,American,American,individual,Q4977314
 6415,500069919,"Davis, John Parker",John Parker Davis,Davis,"American, 1832 - 1910",1,1832,1910,1826 to 1850,American,American,individual,Q45026506
@@ -6379,7 +6378,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 6661,,"Meyrl, Johann",Johann Meyrl,Meyrl,"German, active second half 18th century",1,1719,1810,1701 to 1725,German,German,individual,
 6662,500014585,"Coypel, Antoine",Antoine Coypel,Coypel,"French, 1661 - 1722",1,1661,1722,1651 to 1700,French,French,individual,Q585926
 6663,500009936,"Puryear, Martin",Martin Puryear,Puryear,"American, born 1941",1,1941,,1926 to 1950,American,American,individual,Q6776418
-6664,500118704,"Shapiro, Joel",Joel Shapiro,Shapiro,"American, born 1941",1,1941,2025,1926 to 1950,American,American,individual,Q461178
+6664,500118704,"Shapiro, Joel",Joel Shapiro,Shapiro,"American, 1941 - 2025",1,1941,2025,1926 to 1950,American,American,individual,Q461178
 6669,500020155,"Still, Clyfford",Clyfford Still,Still,"American, 1904 - 1980",1,1904,1980,1901 to 1925,American,American,individual,Q700336
 6670,500009265,"Gramatté, Walter",Walter Gramatté,Gramatté,"German, 1897 - 1929",1,1897,1929,1876 to 1900,German,German,individual,Q639413
 6671,500022752,"Roland, Philippe-Laurent",Philippe-Laurent Roland,Roland,"French, 1746 - 1816",1,1746,1816,1726 to 1750,French,French,individual,Q3379186
@@ -6406,7 +6405,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 6717,500014482,"Mangold, Robert",Robert Mangold,Mangold,"American, born 1937",1,1937,,1926 to 1950,American,American,individual,Q686615
 6718,500115874,"Chinard, Joseph",Joseph Chinard,Chinard,"French, 1756 - 1813",1,1756,1813,1751 to 1775,French,French,individual,Q3099451
 6746,500088417,"Baumgarten, Lothar",Lothar Baumgarten,Baumgarten,"German, 1944 - 2018",1,1944,2018,1926 to 1950,German,German,individual,Q455070
-28254,,"Price, V., Miss",Miss V. Price,Price,,0,,,,,Other,individual,
+28731,,William Shearburn Gallery,William Shearburn Gallery,,,0,,,,,Other,corporate,
 6689,500028458,"Duyckinck, Gerardus",Gerardus Duyckinck,Duyckinck,"American, 1695 - 1746",1,1695,1746,1651 to 1700,American,American,individual,Q20981214
 6690,,"Schuyler Limner, The",The Schuyler Limner,Schuyler Limner,"American, active c. 1717 - 1725",1,1697,1785,1651 to 1700,American,American,individual,Q19890737
 6691,,"Partridge, Nehemiah",Nehemiah Partridge,Partridge,"American, 1683 - c. 1737",1,1683,1737,1651 to 1700,American,American,individual,
@@ -6592,7 +6591,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 6884,500015473,"Willmann, Michael Lukas Leopold",Michael Lukas Leopold Willmann,Willmann,"German, 1630 - 1706",1,1630,1706,1601 to 1650,German,German,individual,Q564143
 6885,500116242,"Friedrich, Caspar David",Caspar David Friedrich,Friedrich,"German, 1774 - 1840",1,1774,1840,1751 to 1775,German,German,individual,Q104884
 6886,500119696,Master of the Adoration of the Shepherds,Master of the Adoration of the Shepherds,Master of the Adoration of the Shepherds,"German, active c. 1520/1540",1,1460,1580,1401 to 1500,German,German,individual,Q27117856
-28554,,Mantegna School,Mantegna School,Mantegna School,,1,,,,Italian,Italian,anonymous,
+29700,,Pasini,Pasini,Pasini,Italian,0,,,,Italian,Italian,individual,
 6887,500015465,"Kern, Anton",Anton Kern,Kern,"Bohemian, 1709 - 1747",1,1709,1747,1701 to 1725,Bohemian,Bohemian,individual,Q18507789
 6888,500023590,"Fischl, Eric",Eric Fischl,Fischl,"American, born 1948",1,1948,,1926 to 1950,American,American,individual,Q936534
 6889,,"Steward, Joseph",Joseph Steward,Steward,"American, 1753 - 1822",1,1753,1822,1751 to 1775,American,American,individual,Q6287192
@@ -7016,7 +7015,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 7335,,"Bush, Rex F.",Rex F. Bush,Bush,"American, c. 1915 - 2002",1,1915,2002,1901 to 1925,American,American,individual,
 7336,,"Butlin, Earl",Earl Butlin,Butlin,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual,
 7337,,"Button, Della",Della Button,Button,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual,
-28556,,"Nasatir, Justin",Justin Nasatir,Nasatir,,0,,,,,Other,individual,
+29776,,Galerie Rudolf Springer,Galerie Rudolf Springer,,,1,,,,German,German,corporate,
 7342,,"Camilli, Albert",Albert Camilli,Camilli,"American, born Italy, c. 1905 - unknown",1,1905,1995,1901 to 1925,American,American,individual,
 7343,,"Campbell, Douglas",Douglas Campbell,Campbell,"American, active c. 1935",1,1855,1995,1851 to 1875,American,American,individual,
 7344,,"Campbell, Rollington",Rollington Campbell,Campbell,"American, born Trinidad, 1912 - 1999",1,1912,1999,1901 to 1925,American,American,individual,
@@ -7980,7 +7979,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 8364,,Italian,Italian,Italian,,1,,,,Italian,Italian,anonymous,
 8365,,Netherlandish 20th Century,Netherlandish 20th Century,Netherlandish 20th Century,,1,1900,1999,1876 to 1900,Netherlandish,Netherlandish,anonymous,
 8367,,Portuguese 15th Century,Portuguese 15th Century,Portuguese 15th Century,,1,1400,1499,1300 to 1400,Portuguese,Other,anonymous,
-28557,,"Charken, Nathan",Nathan Charken,Charken,,0,,,,,Other,individual,
+31425,,"Sheath, Mr.",Mr. Sheath,Sheath,,0,,,,,Other,individual,
 8369,,Tyrolean 15th Century,Tyrolean 15th Century,Tyrolean 15th Century,,1,1400,1499,1300 to 1400,German,German,anonymous,
 8370,,Tyrolean 16th Century,Tyrolean 16th Century,Tyrolean 16th Century,,1,1500,1599,1401 to 1500,German,German,anonymous,
 8371,,Unidentified dealer,Unidentified dealer,,,0,,,,,Other,corporate,
@@ -8082,7 +8081,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 8467,,"Borbón, Don Luis de, Infante",Infante Don Luis de Borbón,Borbón,"Spanish, 1727 - 1785",0,1727,1785,1726 to 1750,Spanish,Spanish,individual,
 8468,,"Borbón y Vallabriga, María Teresa de",María Teresa de Borbón y Vallabriga,Borbón y Vallabriga,"Spanish, 1779 - 1828",0,1779,1828,1776 to 1800,Spanish,Spanish,individual,
 8488,,"Musin-Pushkin, Aleksei Semonovich, Count",Count Aleksei Semonovich Musin-Pushkin,Musin-Pushkin,1732 - 1817,0,1732,1817,1726 to 1750,,Other,individual,
-28558,,"Mansbach, Steven",Steven Mansbach,Mansbach,,0,,,,,Other,individual,
+31426,,"Forrest, Don, Mrs.",Mrs. Don Forrest,Forrest,,0,,,,,Other,individual,
 8469,,"Godoy y Borbón, Carlota Luisa de",Carlota Luisa de Godoy y Borbón,Godoy y Borbón,"Spanish, 1800 - 1886",0,1800,1886,1776 to 1800,Spanish,Spanish,individual,
 8470,,"Ruspoli, Duque de Sueco, Conde de Chinchón, Adolfo","Adolfo Ruspoli, Duque de Sueco, Conde de Chinchón",Ruspoli,"Spanish, 1822 - 1914",0,1822,1914,1801 to 1825,Spanish,Spanish,individual,
 8471,,"Ruspoli y Alvarez de Toledo, María Teresa",María Teresa Ruspoli y Alvarez de Toledo,Ruspoli y Alvarez de Toledo,Spanish,0,,,,Spanish,Spanish,individual,
@@ -8482,7 +8481,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 8880,,"Smith, Jr., George C.","George C. Smith, Jr.",Smith,"American, alive in 1930",0,,,,American,American,individual,
 8881,,Harvey,Harvey,Harvey,active 1865,0,,,,,Other,individual,
 8882,,Rosenbach & Co.,Rosenbach & Co.,,active in 1938,0,,,,,Other,corporate,
-28731,,William Shearburn Gallery,William Shearburn Gallery,,,0,,,,,Other,corporate,
+31427,,Chute Collection,Chute Collection,Chute Collection,,0,,,,,Other,individual,
 8886,,"Lavie, Germain",Germain Lavie,Lavie,"British, died 1781",0,1681,1781,1651 to 1700,British,British,individual,
 8887,,"Lechmere, Emilia",Emilia Lechmere,Lechmere,"British, 18th century",0,,,,British,British,individual,
 8888,,"Lechmere, John",John Lechmere,Lechmere,"British, died c. 1890",0,1790,1890,1776 to 1800,British,British,individual,
@@ -8586,7 +8585,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 8999,,"Hackett Galleries, The",The Hackett Galleries,,active 1932,0,,,,,Other,corporate,
 9000,,"Wood, Chambers, Mrs.",Mrs. Chambers Wood,Wood,active 1932,0,,,,,Other,individual,
 9001,,"Urquhart, 2nd Laird of Craigston, William","William Urquhart, 2nd Laird of Craigston",Urquhart,"Scottish, active 1794",0,,,,Scottish,Scottish,individual,
-29700,,Pasini,Pasini,Pasini,Italian,0,,,,Italian,Italian,individual,
+31565,,"Taylor, Mr. Roger",Mr. Roger Taylor,Taylor,,0,,,,,Other,individual,
 9002,,"Pollard-Urquhart, 8th Laird of Craigston, Michael Bruce, Captain","Captain Michael Bruce Pollard-Urquhart, 8th Laird of Craigston",Pollard-Urquhart,"Scottish, 1879 - 1940",0,1879,1940,1876 to 1900,Scottish,Scottish,individual,
 9003,,"Reid, David",David Reid,Reid,"Scottish, active 1800",0,,,,Scottish,Scottish,individual,
 9004,,"Pryce, John, Mrs.",Mrs. John Pryce,Pryce,"British, born after 1806",0,,,,British,British,individual,
@@ -8633,6 +8632,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 9051,,"Vernon, Henry, 3rd Baron","Henry, 3rd Baron Vernon",Vernon,"British, 1747 - 1829",0,1747,1829,1726 to 1750,British,British,individual,
 9052,,"Vernon, George Charles, 4th Baron","George Charles, 4th Baron Vernon",Vernon,"British, 1779 - 1835",0,1779,1835,1776 to 1800,British,British,individual,
 9074,,"Ward, 3rd Viscount Bangor, Edward Southwell","Edward Southwell Ward, 3rd Viscount Bangor",Ward,"British, 1790 - 1837",0,1790,1837,1776 to 1800,British,British,individual,
+33104,,Kasmin Limited,Kasmin Limited,,,0,,,,,Other,corporate,
 9053,,"Vernon, George John, 5th baron Vernon","George John Vernon, 5th baron Vernon",Vernon,"British, 1803 - 1866",0,1803,1866,1801 to 1825,British,British,individual,
 9054,,"Vernon, Augustus Henry, 6th Baron","Augustus Henry, 6th Baron Vernon",Vernon,"British, 1829 - 1883",0,1829,1883,1826 to 1850,British,British,individual,
 9055,,"Vernon, George William Henry, 7th Baron","George William Henry, 7th Baron Vernon",Vernon,"British, 1854 - 1898",0,1854,1898,1851 to 1875,British,British,individual,
@@ -8899,7 +8899,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 9322,,"Johnson, Fred J.",Fred J. Johnson,,active 1950,0,,,,,Other,corporate,
 9384,,"Schultz, Howard Mr. and Mrs.",Mr. and Mrs. Howard Schultz,Schultz,active c. 1920,0,,,,,Other,couple,
 9385,,"Barsanti, Alfredo",Alfredo Barsanti,Barsanti,"Italian, active 1920s",0,,,,Italian,Italian,individual,
-29776,,Galerie Rudolf Springer,Galerie Rudolf Springer,,,1,,,,German,German,corporate,
+35419,,"Cremieux, Pierre",Pierre Cremieux,Cremieux,,0,,,,,Other,individual,
 9323,,Post family,Post family,,"American, est. 1708",0,1708,,1701 to 1725,American,American,corporate,
 9324,,"Heffner, C.M.",C.M. Heffner,Heffner,active 1942,0,,,,,Other,individual,
 9325,,"Williams, Mary Ellen",Mary Ellen Williams,,active 1962,0,,,,,Other,corporate,
@@ -8969,7 +8969,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 9395,,"Seligmann & Cie., Arnold",Arnold Seligmann & Cie.,,est. 1912,0,1912,,1901 to 1925,,Other,corporate,
 9471,,"Campbell, Frederick, Lord",Lord Frederick Campbell,Campbell,"British, died 1816",0,1716,1816,1701 to 1725,British,British,individual,
 9472,,"Pitt, 1st Earl of Amherst, William","William Pitt, 1st Earl of Amherst",Pitt,"British, 1773 - 1857",0,1773,1857,1751 to 1775,British,British,individual,
-31425,,"Sheath, Mr.",Mr. Sheath,Sheath,,0,,,,,Other,individual,
+35545,,"Rubenstein, David M.",David M. Rubenstein,Rubenstein,,0,,,,,Other,individual,
 9396,,"Du Sommerard, Alexandre",Alexandre Du Sommerard,Du Sommerard,"French, 1779 - 1842",0,1779,1842,1776 to 1800,French,French,individual,
 9397,,"Spitzer, Frédéric, Baron",Baron Frédéric Spitzer,Spitzer,"Austrian, 1815 - 1890",0,1815,1890,1801 to 1825,Austrian,Austrian,individual,
 9398,,"Du Sommerard, Edmond",Edmond Du Sommerard,Du Sommerard,"French, 1817 - 1885",0,1817,1885,1801 to 1825,French,French,individual,
@@ -10015,7 +10015,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 10793,,"Clot, Auguste",Auguste Clot,Clot,"French, 1858 - 1936",1,1858,1936,1851 to 1875,French,French,individual,Q2871130
 10794,,"Vaughan, John",John Vaughan,Vaughan,British,0,,,,British,British,individual,
 10855,,"Ricketts, Francis",Francis Ricketts,Ricketts,"British, active 1810",0,1730,1870,1726 to 1750,British,British,individual,
-31426,,"Forrest, Don, Mrs.",Mrs. Don Forrest,Forrest,,0,,,,,Other,individual,
+35553,,"Kurt E. Schon, Ltd.","Kurt E. Schon, Ltd.",,American,0,,,,American,American,corporate,
 10796,,"Vaughan, William",William Vaughan,Vaughan,"British, 1752 - 1850",0,1752,1850,1751 to 1775,British,British,individual,
 10797,,"Harrison, Jr., Joseph","Joseph Harrison, Jr.",Harrison,"American, 1810 - 1874",0,1810,1874,1801 to 1825,American,American,individual,
 10798,500005499,"Pfriem, Bernard",Bernard Pfriem,Pfriem,"American, 1916 - 1996",1,1916,1996,1901 to 1925,American,American,individual,Q2898425
@@ -10396,7 +10396,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 11629,,"Walter, Caspar",Caspar Walter,Walter,"German, 1701 - 1768",1,1701,1768,1701 to 1725,German,German,individual,Q16318732
 11630,,"Zabaglia, Niccola",Niccola Zabaglia,Zabaglia,"Italian, 1664 - 1750",1,1664,1750,1651 to 1700,Italian,Italian,individual,Q3876392
 11631,,"Zanotti, Giampietro",Giampietro Zanotti,Zanotti,"Italian, 1674 - 1765",1,1674,1765,1651 to 1700,Italian,Italian,individual,Q3105136
-31427,,Chute Collection,Chute Collection,Chute Collection,,0,,,,,Other,individual,
+37808,,Schlessinger,Schlessinger,Schlessinger,,0,,,,,Other,individual,
 11632,500024453,"Angus, William",William Angus,Angus,"British, 1751 or 1752 - 1821",1,1751,1821,1751 to 1775,British,British,individual,
 11633,,"Baldi, Bernardino",Bernardino Baldi,Baldi,"Italian, 1553 - 1617",1,1553,1617,1551 to 1600,Italian,Italian,individual,Q560613
 11634,500005410,"Bertano, Giovanni Battista",Giovanni Battista Bertano,Bertano,"Italian, 1516 - 1576",1,1516,1576,1501 to 1550,Italian,Italian,individual,Q3766052
@@ -10449,7 +10449,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 12003,,King,King,King,active 1855,0,,,,,Other,individual,
 12004,,"Fine Discretionary Fund, Ruth",Ruth Fine Discretionary Fund,,,0,,,,,Other,purchase_fund,
 12006,,"Silvestre, Suzanne Elisabeth",Suzanne Elisabeth Silvestre,Silvestre,"French, born 1694",1,1694,1774,1651 to 1700,French,French,individual,Q105834399
-31565,,"Taylor, Mr. Roger",Mr. Roger Taylor,Taylor,,0,,,,,Other,individual,
+37809,,"Unger, E.R.A.",E.R.A. Unger,Unger,,0,,,,,Other,individual,
 11685,,"Beauchamp, Else, Countess","Else, Countess Beauchamp",Beauchamp,"British, 1895 - 1989",0,1895,1989,1876 to 1900,British,British,individual,
 11686,,"Temple, 3rd Viscount Palmerston, Henry John","Henry John Temple, 3rd Viscount Palmerston",Temple,"British, 1784 - 1865",0,1784,1865,1776 to 1800,British,British,individual,
 11687,,James MacDonald Company,James MacDonald Company,,,1,,,,American,American,corporate,
@@ -10574,7 +10574,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 12201,,Tournai,Tournai,Tournai,"Flemish, 16th century",1,1500,1599,1401 to 1500,Flemish,Flemish,individual,
 12212,,"Moore, Maria T.",Maria T. Moore,Moore,"American, 1816 - 1906",0,1816,1906,1801 to 1825,American,American,individual,
 12217,,"Moore, Francis Van Rensselaer, Rev.",Rev. Francis Van Rensselaer Moore,Moore,"American, 1872 - 1849",0,1872,1949,1851 to 1875,American,American,individual,
-33104,,Kasmin Limited,Kasmin Limited,,,0,,,,,Other,corporate,
 12219,,"Greene, Augusta Elizabeth Borland",Augusta Elizabeth Borland Greene,Greene,"American, 1795 - 1861",0,1795,1861,1776 to 1800,American,American,individual,
 12221,,"Greene, William Parkinson",William Parkinson Greene,Greene,"American, 1795 - 1864",0,1795,1864,1776 to 1800,American,American,individual,
 12222,,"Greene, Gardiner",Gardiner Greene,Greene,"American, 1822 - 1895",0,1822,1895,1801 to 1825,American,American,individual,
@@ -10605,7 +10604,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 12265,,"Egerton, 3rd Duke of Bridgewater, Francis","Francis Egerton, 3rd Duke of Bridgewater",Egerton,"British, 1736 - 1803",0,1736,1803,1726 to 1750,British,British,individual,
 12266,,"Coxe, Burrell, and Foster","Coxe, Burrell, and Foster",,,0,,,,,Other,corporate,
 12268,,"Maitland, John",John Maitland,Maitland,"British, died 1831",0,1731,1831,1726 to 1750,British,British,individual,
-35419,,"Cremieux, Pierre",Pierre Cremieux,Cremieux,,0,,,,,Other,individual,
+37810,,"Gábor, Ignaz",Ignaz Gábor,Gábor,Hungarian,0,,,,Hungarian,Other,individual,
 12272,,"Neeld, 2nd Bt., Algernon William, Sir","Sir Algernon William Neeld, 2nd Bt.",Neeld,"British, died 1900",0,1800,1900,1776 to 1800,British,British,individual,
 12273,,"Neeld, 3rd Bt., Audley Dallas, Sir","Sir Audley Dallas Neeld, 3rd Bt.",Neeld,"British, died 1944",0,1844,1944,1826 to 1850,British,British,individual,
 12274,,"Neeld, Lionel William",Lionel William Neeld,Neeld,British,0,,,,British,British,individual,
@@ -10682,7 +10681,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 12674,,"Ambatielos, Nicolas",Nicolas Ambatielos,Ambatielos,,0,,,,,Other,individual,
 12675,,Aubert,Aubert,Aubert,French,1,,,,French,French,individual,
 12677,,"Maximilian III Joseph, Elector of Bavaria","Maximilian III Joseph, Elector of Bavaria",Maximilian III Joseph,"Bavarian, died 1777",0,1677,1777,1651 to 1700,Bavarian,Other,individual,
-35545,,"Rubenstein, David M.",David M. Rubenstein,Rubenstein,,0,,,,,Other,individual,
+37812,,Chigi Collection,Chigi Collection,,,0,,,,,Other,corporate,
 12460,,"Kélékian, Dikran Khan",Dikran Khan Kélékian,Kélékian,"Turkish, 1868 - 1951",0,1868,1951,1851 to 1875,Turkish,Other,individual,
 12461,,"Breton, André",André Breton,Breton,"French, 1896 - 1966",0,1896,1966,1876 to 1900,French,French,individual,
 12462,500014841,"Höch, Hannah",Hannah Höch,Höch,"German, 1889 - 1978",1,1889,1978,1876 to 1900,German,German,individual,Q463411
@@ -10849,6 +10848,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 13360,500115603,"Henneman, Nicolaas",Nicolaas Henneman,Henneman,"Dutch, 1813 - 1898",1,1813,1898,1801 to 1825,Dutch,Dutch,individual,Q1726164
 13362,500019476,"Hill, David Octavius",David Octavius Hill,Hill,"Scottish, 1802 - 1870",1,1802,1870,1801 to 1825,Scottish,Scottish,individual,Q722792
 13363,500010587,"Adamson, Robert",Robert Adamson,Adamson,"Scottish, 1821 - 1848",1,1821,1848,1801 to 1825,Scottish,Scottish,individual,Q509636
+38150,,"Luk, Janine",Janine Luk,Luke,,0,,,,,Other,purchase_fund,
 13370,500036990,"Howlett, Robert",Robert Howlett,Howlett,"British, 1831 - 1858",1,1831,1858,1826 to 1850,British,British,individual,Q7345653
 13373,500011898,"Ross, Horatio, Captain",Captain Horatio Ross,Ross,"Scottish, 1801 - 1886",1,1801,1886,1801 to 1825,Scottish,Scottish,individual,
 13374,500000062,"Robinson, Henry Peach",Henry Peach Robinson,Robinson,"British, 1830 - 1901",1,1830,1901,1826 to 1850,British,British,individual,Q574144
@@ -11329,7 +11329,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 16470,500018648,"Haynes, F. Jay",F. Jay Haynes,Haynes,"American, 1853 - 1921",1,1853,1921,1851 to 1875,American,American,individual,Q5487536
 16471,500000126,"Henri, Florence",Florence Henri,Henri,"Swiss, born United States, 1893 - 1982",1,1893,1982,1876 to 1900,Swiss,Swiss,individual,Q443429
 16472,500018125,"Marey, Étienne Jules",Étienne Jules Marey,Marey,"French, 1830 - 1904",1,1830,1904,1826 to 1850,French,French,individual,Q289217
-35553,,"Kurt E. Schon, Ltd.","Kurt E. Schon, Ltd.",,American,0,,,,American,American,corporate,
+38573,,"Appert, Maurice",Maurice Appert,Appert,French,0,,,,French,French,individual,
 16473,500022569,"Marville, Charles",Charles Marville,Marville,"French, 1813 - 1879",1,1813,1879,1801 to 1825,French,French,individual,Q329387
 16474,500115207,"Muybridge, Eadweard",Eadweard Muybridge,Muybridge,"American, born England, 1830 - 1904",1,1830,1904,1826 to 1850,American,American,individual,Q190568
 16499,,"Tenison, Edward King",Edward King Tenison,Tenison,"Irish, 1805 - 1878",1,1805,1878,1801 to 1825,Irish,Other,individual,Q26689750
@@ -11448,7 +11448,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 17369,500033453,"Kluge, Gustav",Gustav Kluge,Kluge,"German, born 1947",1,1947,,1926 to 1950,German,German,individual,Q1328382
 17370,500016375,"von Wicht, John",John von Wicht,von Wicht,"American, born Germany, 1888 - 1970",1,1888,1970,1876 to 1900,American,American,individual,Q19753342
 17450,,"Rose, Pearl Joslin Tarbox Sunderland",Pearl Joslin Tarbox Sunderland Rose,Rose,"American, c. 1903 - 1989",0,1903,1989,1901 to 1925,American,American,individual,
-37808,,Schlessinger,Schlessinger,Schlessinger,,0,,,,,Other,individual,
+38574,,Marcelin M.,M. Marcelin,Marcelin,Paris,0,,,,French,French,individual,
 17456,,"Conant, Hezekiah",Hezekiah Conant,Conant,"American, 1827 - 1902",0,1827,1902,1826 to 1850,American,American,individual,
 17457,,Leonard & Co.,Leonard & Co.,,,0,,,,,Other,corporate,
 17458,,"Sunderland, William Leroy",William Leroy Sunderland,Sunderland,"American, died 1938",0,1858,1938,1851 to 1875,American,American,individual,
@@ -11581,7 +11581,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 18412,,"Benard, Robert",Robert Benard,Benard,"French, born 1734",1,1734,1834,1726 to 1750,French,French,individual,Q16672950
 18413,,"Lucotte, J.-R.",J.-R. Lucotte,Lucotte,"French, active 1760 - 1789",1,1760,1789,1751 to 1775,French,French,individual,
 18414,,"Goussier, Louis-Jacques",Louis-Jacques Goussier,Goussier,"French, 1722 - 1799",1,1722,1799,1701 to 1725,French,French,individual,Q1341431
-37809,,"Unger, E.R.A.",E.R.A. Unger,Unger,,0,,,,,Other,individual,
+38579,,Lafon,Lafon,Lafon,French,0,,,,French,French,individual,
 17906,,Galerie Goupil,Galerie Goupil & Cie,,"French, est. 1827 - renamed 1884",1,1827,1884,1826 to 1850,French,French,corporate,
 17938,,"Galimberti, Francesco",Francesco Galimberti,Galimberti,"Italian, 1755 - 1803",1,1755,1803,1751 to 1775,Italian,Italian,individual,
 17939,500002319,"Schnorr von Carolsfeld, Julius",Julius Schnorr von Carolsfeld,Schnorr von Carolsfeld,"German, 1794 - 1872",1,1794,1872,1776 to 1800,German,German,individual,Q703458
@@ -11711,7 +11711,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 18951,,"Cooper, Ned",Ned Cooper,Cooper,American,0,,,,American,American,individual,
 18953,,"Semler, Herbert and Shirley Dr.",Dr. Herbert and Shirley Semler,Semler,,0,,,,,Other,couple,
 18954,,"L'Estrange, Roger, Sir",Sir Roger L'Estrange,L'Estrange,"English, 1616 - 1704",1,1616,1704,1601 to 1650,English,English,individual,Q334268
-37810,,"Gábor, Ignaz",Ignaz Gábor,Gábor,Hungarian,0,,,,Hungarian,Other,individual,
+38580,,"Hyde, Earl Mr. and Mrs.",Mr. and Mrs. Earl Hyde,Hyde,,0,,,,,Other,couple,
 18961,,"Tiers, Rosalie Valence",Rosalie Valence Tiers,Tiers,"American, 1852 - 1944",0,1852,1944,1851 to 1875,American,American,individual,
 18965,,"Greenwood, Ethan Allen",Ethan Allen Greenwood,Greenwood,"American, 1779 - 1856",0,1779,1856,1776 to 1800,American,American,individual,
 18967,,"Havemeyer, William Frederick",William Frederick Havemeyer,Havemeyer,"American, 1850 - 1913",0,1850,1913,1826 to 1850,American,American,individual,
@@ -11746,7 +11746,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 19041,,"Butler & Co., D.B.",D.B. Butler & Co.,,,0,,,,,Other,corporate,
 19200,,J. Carter Brown Fund,J. Carter Brown Fund,,,0,,,,,Other,purchase_fund,
 19205,,"Kertesz, André, Estate of",Estate of André Kertesz,,,0,,,,,Other,corporate,
-37812,,Chigi Collection,Chigi Collection,,,0,,,,,Other,corporate,
 19063,,"Heistand, Elizabeth F.G.",Elizabeth F.G. Heistand,Heistand,"American, born 1872",0,1872,1972,1851 to 1875,American,American,individual,
 19064,,"Grosvenor, 1st Earl Grosvenor, Richard","Richard Grosvenor, 1st Earl Grosvenor",Grosvenor,"British, 1731 - 1802",0,1731,1802,1726 to 1750,British,British,individual,
 19065,,"Grosvenor, 1st marquis of Westminster, Robert","Robert Grosvenor, 1st marquis of Westminster",Grosvenor,"British, 1767 - 1845",0,1767,1845,1751 to 1775,British,British,individual,
@@ -11856,7 +11855,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 19740,,"Cungi, Camillio",Camillio Cungi,Cungi,"Italian, active 1640s",1,1562,1702,1551 to 1600,Italian,Italian,individual,
 19741,,"Greuter, Johann Friedrich",Johann Friedrich Greuter,Greuter,"Italian, 1590/1593 - 1663",1,1590,1663,1551 to 1600,Italian,Italian,individual,Q3808856
 19742,,"Camassei, Andrea",Andrea Camassei,Camassei,"Italian, 1602 - 1649",1,1602,1649,1601 to 1650,Italian,Italian,individual,Q3615565
-38150,,"Luk, Janine",Janine Luk,Luke,,0,,,,,Other,purchase_fund,
+38581,,Philibiblon Gallery S.r.l.,Philibiblon Gallery S.r.l.,,,0,,,,,Other,corporate,
 19743,,"Gagliardi, Filippo",Filippo Gagliardi,Gagliardi,"Italian, died 1659",1,1600,1659,1551 to 1600,Italian,Italian,individual,Q3071892
 19744,,"Castellucci, Salvo",Salvo Castellucci,Castellucci,"Italian, 1608 - 1672",1,1608,1672,1601 to 1650,Italian,Italian,individual,Q7406721
 19745,,"Abbatini, Guido Ubaldo",Guido Ubaldo Abbatini,Abbatini,"Italian, c. 1600 - 1656",1,1600,1656,1551 to 1600,Italian,Italian,individual,Q282810
@@ -11933,7 +11932,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 20011,,"Manoogian, Richard A., Mr. and Mrs.",Mr. and Mrs. Richard A. Manoogian,Manoogian,,0,,,,,Other,couple,
 20014,,"Weber Gallery, John",John Weber Gallery,,,0,,,,,Other,corporate,
 20015,,"Spector, Naomi",Naomi Spector,Spector,,0,,,,,Other,individual,
-38573,,"Appert, Maurice",Maurice Appert,Appert,French,0,,,,French,French,individual,
+38911,,"Waters, Dennis",Dennis Waters,Waters,,0,,,,,Other,individual,
 20017,500030886,Jess,Jess,Jess,"American, 1923 - 2004",1,1923,2004,1901 to 1925,American,American,individual,Q4228019
 20018,,Archivio Novelli,Archivio Novelli,Archivio Novelli,,0,,,,,Other,individual,
 20021,,"Brown, Andrew M.",Andrew M. Brown,Brown,American,0,,,,American,American,individual,
@@ -12062,7 +12061,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 20570,,"Exeter, Marquess of",Marquess of Exeter,Exeter,,0,,,,,Other,individual,
 20573,,"Hawksmoor, Nicholas",Nicholas Hawksmoor,Hawksmoor,"British, 1661 - 1736",1,1661,1736,1651 to 1700,British,British,individual,Q366674
 20583,,"Michetti, Nicola",Nicola Michetti,Michetti,"Italian, 1675 - 1759",1,1675,1759,1651 to 1700,Italian,Italian,individual,Q1383123
-38574,,Marcelin M.,M. Marcelin,Marcelin,Paris,0,,,,French,French,individual,
+38913,,"Williams, E.T. Jr.",E.T. Williams Jr.,Williams,,0,,,,,Other,individual,
 20585,500091174,"Dekkers, Ad",Ad Dekkers,Dekkers,"Dutch, 1938 - 1974",1,1938,1974,1926 to 1950,Dutch,Dutch,individual,Q827088
 20587,500068586,"Shea, Judith",Judith Shea,Shea,"American, born 1948",1,1948,,1926 to 1950,American,American,individual,Q6303669
 20588,500024433,"Neumann, Balthasar",Balthasar Neumann,Neumann,"German, 1687 - 1753",1,1687,1753,1651 to 1700,German,German,individual,Q61349
@@ -12180,7 +12179,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 21163,,"Christian, Dotremont",Dotremont Christian,Christian,"Belgian, 1922 - 1979",1,1922,1979,1901 to 1925,Belgian,Belgian,individual,Q2038439
 21168,,"Ignatow, David",David Ignatow,Ignatow,"American, 1914 - 1997",1,1914,1997,1901 to 1925,American,American,individual,Q5235338
 21170,,"Weiss, Theodore Russell",Theodore Russell Weiss,Weiss,"American, 1916 - 2003",1,1916,2003,1901 to 1925,American,American,individual,
-38579,,Lafon,Lafon,Lafon,French,0,,,,French,French,individual,
+42714,,"Lampert, Richard",Richard Lampert,Lampert,,0,,,,,Other,individual,
 21181,,"Aufsess, Hans Freiherr von und zu",Hans Freiherr von und zu Aufsess,Aufsess,"German, 1801 - 1872",0,1801,1872,1801 to 1825,German,German,individual,
 21191,,"Moore, Jr. (US Ret.), Merl M., Colonel","Colonel Merl M. Moore, Jr. (US Ret.)",Moore,,0,,,,,Other,individual,
 21192,500034010,"Bierstadt, Charles",Charles Bierstadt,Bierstadt,"American, born Prussia, 1819 - 1903",1,1819,1903,1801 to 1825,American,American,individual,Q5075604
@@ -12635,7 +12634,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 22215,,"Kahn, Gustave",Gustave Kahn,Kahn,"French, 1859 - 1936",1,1859,1936,1851 to 1875,French,French,individual,Q462364
 22216,,"Schwob, Marcel",Marcel Schwob,Schwob,"French, 1867 - 1905",1,1867,1905,1851 to 1875,French,French,individual,Q472697
 22219,,"Hitch, Kenneth S., Mr. and Mrs.",Mr. and Mrs. Kenneth S. Hitch,Hitch,,0,,,,,Other,couple,
-38580,,"Hyde, Earl Mr. and Mrs.",Mr. and Mrs. Earl Hyde,Hyde,,0,,,,,Other,couple,
+43169,,"Lewis, Josephine M.",Josephine M. Lewis,Lewis,,0,,,,,Other,individual,
 22220,,"Champsaur, Félicien",Félicien Champsaur,Champsaur,"French, 1859 - 1934",1,1859,1934,1851 to 1875,French,French,individual,Q338922
 22222,,Coe Kerr Gallery,Coe Kerr Gallery,,,0,,,,,Other,corporate,
 22224,,"Porter, Barbara Bladen",Barbara Bladen Porter,Porter,,0,,,,,Other,individual,
@@ -13363,7 +13362,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 23706,500009148,"Sigrist the Elder, Franz",Franz Sigrist the Elder,Sigrist the Elder,"Austrian, 1727 - 1803",1,1727,1803,1726 to 1750,Austrian,Austrian,individual,Q22704236
 23708,,"Beheim, Johann",Johann Beheim,Beheim,"Austrian, c. 1730 - after 1770",1,1730,1770,1726 to 1750,Austrian,Austrian,individual,
 23709,,"Danckerts, Dancker",Dancker Danckerts,Danckerts,,1,,,,,Other,individual,Q3013397
-38581,,Philibiblon Gallery S.r.l.,Philibiblon Gallery S.r.l.,,,0,,,,,Other,corporate,
+43170,,"Friedenberg, Howard",Mr. and Mrs. Howard Friedenberg,Friedenberg,"",0,,,,,Other,couple,
 23710,,"Quarenghi, Giulio, Cavaliere",Cavaliere Giulio Quarenghi,Quarenghi,"Italian, active c. 1821",1,1800,1850,1776 to 1800,Italian,Italian,individual,
 23714,,"Kadar, G.",G. Kadar,Kadar,French,1,,,,French,French,individual,
 23718,,Galerie Patrice Bellanger,Galerie Patrice Bellanger,,,0,,,,,Other,corporate,
@@ -13476,7 +13475,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 23932,500125873,"Brodovitch, Alexey",Alexey Brodovitch,Brodovitch,"American, born Russia, 1898 - 1971",1,1898,1971,1876 to 1900,American,American,individual,Q525387
 23936,500032855,"Grospietsch, Florian",Florian Grospietsch,Grospietsch,"German, 1789 - 1830",1,1789,1820,1776 to 1800,German,German,individual,Q1429692
 23937,500406722,"Adam, Victor",Victor Adam,Adam,"French, 1801 - 1866",1,1801,1866,1801 to 1825,French,French,individual,Q939589
-38911,,"Waters, Dennis",Dennis Waters,Waters,,0,,,,,Other,individual,
+43586,,"Lowinsky, Simon",Simon Lowinsky,Lowinsky,,0,,,,,Other,individual,
 23939,500015839,"Bellangé, Hippolyte",Hippolyte Bellangé,Bellangé,"French, 1800 - 1860",1,1800,1860,1776 to 1800,French,French,individual,Q3136027
 23940,,"le Robert, P.",P. le Robert,le Robert,"French, active 19th century",1,1800,1900,1776 to 1800,French,French,individual,
 23941,500013651,"Le Sidaner, Henri Eugéne",Henri Eugéne Le Sidaner,Le Sidaner,"French, 1862 - 1939",1,1862,1939,1851 to 1875,French,French,individual,Q577050
@@ -14157,7 +14156,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 25121,500358935,"Steiner, Johann Conrad",Johann Conrad Steiner,Steiner,"Swiss, 1757 - 1818",1,1757,1818,1751 to 1775,Swiss,Swiss,individual,Q56006915
 25122,,Galerie Barbazanges,Galerie Barbazanges,,"French, est. c. 1909",0,1909,,1901 to 1925,French,French,corporate,
 25123,,"Passamonti, Stefano",Stefano Passamonti,Passamonti,"Italian, active c. 1816 - 1851",1,1771,1876,1751 to 1775,Italian,Italian,individual,
-38913,,"Williams, E.T. Jr.",E.T. Williams Jr.,Williams,,0,,,,,Other,individual,
+43587,,"Chadbourne, Emily Crane",Emily Crane Chadbourne,Chadbourne,,0,,,,,Other,individual,
 25124,500102675,"Oesterle, Wilhelm",Wilhelm Oesterle,Oesterle,"German, 1876 - 1928",1,1876,1928,1876 to 1900,German,German,individual,Q18508721
 25125,500017381,"Seiwert, Franz Wilhelm",Franz Wilhelm Seiwert,Seiwert,"German, 1894 - 1933",1,1894,1933,1876 to 1900,German,German,individual,Q89311
 25126,500020091,"Mataré, Ewald",Ewald Mataré,Mataré,"German, 1887 - 1965",1,1887,1965,1876 to 1900,German,German,individual,Q700094
@@ -15352,7 +15351,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 27227,,"Judd, Ardath",Ardath Judd,Judd,American,1,,,,American,American,individual,
 27228,500033014,"Ward, Charles Caleb",Charles Caleb Ward,Ward,"Canadian, 1831 - 1896",1,1831,1896,1826 to 1850,Canadian,Canadian,individual,Q21497714
 27230,,"Cohen, Collection, Karen B.","Karen B. Cohen, Collection",Cohen,,0,,,,,Other,individual,
-27949,,Varin Frères,Varin Frères,,"French, active 1853 - 1897",1,1853,1897,1851 to 1875,French,French,corporate,
+27819,,"Daxer and Marschall Kunsthandels, GmbH","Daxer and Marschall Kunsthandels, GmbH",,,0,,,,,Other,corporate,
 27232,500025211,"Eugene, Frank",Frank Eugene,Eugene,"German, 1865 - 1936",1,1865,1936,1851 to 1875,German,German,individual,Q67378
 27236,,"Sobotik, Kent",Kent Sobotik,Sobotik,20th century,0,,,,,Other,individual,
 27239,,"Private Collection, Paris","Private Collection, Paris","Private Collection, Paris",,0,,,,,Other,individual,
@@ -15511,9 +15510,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 27744,,"Torrigiani, Luigi, Marquis",Marquis Luigi Torrigiani,Torrigiani,"Italian, 1804 - 1869",0,1804,1869,1801 to 1825,Italian,Italian,individual,
 27745,,"Torrigiani, Raffaele",Raffaele Torrigiani,Torrigiani,"Italian, 1853 - 1927",0,1853,1927,1851 to 1875,Italian,Italian,individual,
 27746,,"Morgan, Jr., John Pierpont","John Pierpont Morgan, Jr.",Morgan,"American, 1867 - 1943",0,1867,1943,1851 to 1875,American,American,individual,
-27747,,"Drury-Lowe, William",William Drury-Lowe,Drury-Lowe,"British, 1802 - 1877",0,1802,1877,1801 to 1825,British,British,individual,
-27748,,"Drury-Lowe, William Drury Nathaniel",William Drury Nathaniel Drury-Lowe,Drury-Lowe,"British, died 1906",0,1806,1906,1801 to 1825,British,British,individual,
-27749,,"Drury-Lowe, William Drury",William Drury Drury-Lowe,Drury-Lowe,"British, died 1916",0,1816,1916,1801 to 1825,British,British,individual,
 27751,,"Giustiniani, Contessa",Contessa Giustiniani,Giustiniani,Italian,0,,,,Italian,Italian,individual,
 27752,,Church of San Marco,Church of San Marco,,,0,,,,,Other,corporate,
 27753,,Galleria dell'Accademia,Galleria dell'Accademia,,,0,,,,,Other,corporate,
@@ -15539,8 +15535,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 27788,500095565,"Baudous, Robert de",Robert de Baudous,Baudous,"Flemish, 1574/1575 - after 1655",1,1574,1655,1551 to 1600,Flemish,Flemish,individual,Q18516800
 27790,,"Bottenwieser, Paul",Paul Bottenwieser,,German,0,,,,German,German,corporate,
 27792,,"Casseres, de",de Casseres,Casseres,,0,,,,,Other,individual,
-27795,,"Solomon, Dan and Mary",Dan and Mary Solomon,Solomon,,0,,,,,Other,couple,
-27819,,"Daxer and Marschall Kunsthandels, GmbH","Daxer and Marschall Kunsthandels, GmbH",,,0,,,,,Other,corporate,
 27820,500013497,"Borsato, Giuseppe",Giuseppe Borsato,Borsato,"Italian, 1770 - 1849",1,1770,1849,1751 to 1775,Italian,Italian,individual,Q552873
 27827,,"Veil-Picard, Arthur",Arthur Veil-Picard,Veil-Picard,"French, died 1944",0,1854,1944,1851 to 1875,French,French,individual,
 27831,,"Ceputis, Eric, Mr.",Mr. Eric Ceputis,Ceputis,,0,,,,,Other,individual,
@@ -15568,7 +15562,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 27880,,"Guicciardini, Francesco, Count",Count Francesco Guicciardini,Guicciardini,"Italian, 1618 - 1677",0,1618,1677,1601 to 1650,Italian,Italian,individual,
 27881,,"Guicciardini, Lorenzo, Count",Count Lorenzo Guicciardini,Guicciardini,"Italian, 1652 - 1710",0,1652,1710,1651 to 1700,Italian,Italian,individual,
 27882,,"Guicciardini, Francesco Gaetano, Count",Count Francesco Gaetano Guicciardini,Guicciardini,"Italian, 1699 - 1780",0,1699,1780,1651 to 1700,Italian,Italian,individual,
-28079,,Forestier,Forestier,Forestier,"French, died c. 1871",0,1771,1871,1751 to 1775,French,French,individual,
 27883,,"Guicciardini, Lorenzo, Count",Count Lorenzo Guicciardini,Guicciardini,"Italian, 1743 - 1812",0,1743,1812,1726 to 1750,Italian,Italian,individual,
 27884,,"Guicciardini, Francesco, Count",Count Francesco Guicciardini,Guicciardini,"Italian, 1776 - 1838",0,1776,1838,1776 to 1800,Italian,Italian,individual,
 27885,,"Guicciardini, Ferdinando, Colonel",Colonel Ferdinando Guicciardini,Guicciardini,"Italian, 1782 - 1833",0,1782,1833,1776 to 1800,Italian,Italian,individual,
@@ -15617,12 +15610,11 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 27937,,"Leger and Son, J.",J. Leger and Son,,,0,,,,,Other,corporate,
 27938,,"Oldham, Frank",Frank Oldham,Oldham,British,0,,,,British,British,individual,
 27947,500026683,"Brown, Bolton",Bolton Brown,Brown,"American, 1865 - 1936",1,1865,1936,1851 to 1875,American,American,individual,Q4940144
+27949,,Varin Frères,Varin Frères,,"French, active 1853 - 1897",1,1853,1897,1851 to 1875,French,French,corporate,
 27950,,"Monson, 5th baron Monson, Frederick John","Frederick John Monson, 5th baron Monson",Monson,"British, 1809 - 1841",0,1809,1841,1801 to 1825,British,British,individual,
 27951,,"Monson, 6th baron Monson, William John","William John Monson, 6th baron Monson",Monson,"British, 1796 - 1862",0,1796,1862,1776 to 1800,British,British,individual,
 27952,,"Monson, William John 7th Baron Monson and Viscount Oxenbridge",William John Monson 7th Baron Monson and Viscount Oxenbridge,Monson,"British, 1829 - 1898",0,1829,1898,1826 to 1850,British,British,individual,
 27956,,"Pellegrini, Dr.",Dr. Pellegrini,Pellegrini,,0,,,,,Other,individual,
-27957,,Thornton Realty Co.,Thornton Realty Co.,,,0,,,,,Other,corporate,
-27958,,"Peters, Louis, Dr.",Dr. Louis Peters,Peters,,0,,,,,Other,individual,
 27959,,"Harding, J. Horace, Mrs.",Mrs. J. Horace Harding,Harding,American,0,,,,American,American,individual,
 27960,,Simmons,Simmons,,,0,,,,,Other,corporate,
 27961,500191072,"Ligon, Glenn",Glenn Ligon,Ligon,"American, born 1960",1,1960,,1951 to 1975,American,American,individual,Q5568956
@@ -15666,6 +15658,10 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 28014,,"Eberbach, Walter",Walter Eberbach,Eberbach,"German, 1866 - 1944",1,1866,1944,1851 to 1875,German,German,individual,
 28015,500090527,"Gies, Ludwig",Ludwig Gies,Gies,"German, 1887 - 1966",1,1887,1966,1876 to 1900,German,German,individual,Q315506
 28016,500123462,"Goetz, Karl",Karl Goetz,Goetz,"German, 1875 - 1950",1,1875,1950,1851 to 1875,German,German,individual,Q1565448
+28082,,"Káldor, László",László Káldor,Káldor,"Hungarian, 1905 - 1963",1,1905,1963,1901 to 1925,Hungarian,Other,individual,Q84753894
+28083,,"Sassoon, 2nd Bt., Edward Albert","Edward Albert Sassoon, 2nd Bt.",Sassoon,"British, 1856 - 1912",0,1856,1912,1851 to 1875,British,British,individual,
+28084,,"Kálmán, Kata",Kata Kálmán,Kálmán,"Hungarian, 1909 - 1978",1,1909,1978,1901 to 1925,Hungarian,Other,individual,Q1122976
+43588,,Diane Brown Gallery,Diane Brown Gallery,,,0,,,,,Other,corporate,
 28021,,"Wesendonk, Otto",Otto Wesendonk,Wesendonk,"German, 1815 - 1896",0,1815,1896,1801 to 1825,German,German,individual,
 28022,,"Mündler, Otto",Otto Mündler,Mündler,"German, 1811 - 1870",0,1811,1870,1801 to 1825,German,German,individual,
 28023,,"Sambon, Guilio",Guilio Sambon,Sambon,Italian,0,,,,Italian,Italian,individual,
@@ -15700,9 +15696,9 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 28075,500105496,"Berda, Erno",Erno Berda,Berda,"Hungarian, 1914 - 1961",1,1914,1961,1901 to 1925,Hungarian,Other,individual,Q109830032
 28076,,"Kicken Gallery Berlin, OHC","Kicken Gallery Berlin, OHC",,,0,,,,,Other,corporate,
 28078,500338314,"Haar, Francis",Francis Haar,Haar,"American, born Hungary, 1908 - 1997",1,1908,1997,1901 to 1925,American,American,individual,Q5481211
-28082,,"Káldor, László",László Káldor,Káldor,"Hungarian, 1905 - 1963",1,1905,1963,1901 to 1925,Hungarian,Other,individual,Q84753894
-28083,,"Sassoon, 2nd Bt., Edward Albert","Edward Albert Sassoon, 2nd Bt.",Sassoon,"British, 1856 - 1912",0,1856,1912,1851 to 1875,British,British,individual,
-28084,,"Kálmán, Kata",Kata Kálmán,Kálmán,"Hungarian, 1909 - 1978",1,1909,1978,1901 to 1925,Hungarian,Other,individual,Q1122976
+28079,,Forestier,Forestier,Forestier,"French, died c. 1871",0,1771,1871,1751 to 1775,French,French,individual,
+28080,,"Persigny, Duc de",Duc de Persigny,Persigny,French,0,,,,French,French,individual,
+28081,,Gillet,Gillet,Gillet,,0,,,,,Other,individual,
 28085,,"Sassoon, 3rd Bt., Philip Albert Gustave David, Sir","Sir Philip Albert Gustave David Sassoon, 3rd Bt.",Sassoon,"British, died 1939",0,1839,1939,1826 to 1850,British,British,individual,
 28086,,"Bonington, Richard",Richard Bonington,Bonington,British,0,,,,British,British,individual,
 28087,,"Agar, 6th Earl of Normanton, Shaun James Christian Welbore Ellis","Shaun James Christian Welbore Ellis Agar, 6th Earl of Normanton",Agar,"British, born 1945",0,1945,,1926 to 1950,British,British,individual,
@@ -15790,10 +15786,10 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 28180,,Weissberger,Weissberger,,,0,,,,,Other,corporate,
 28183,,"Cheneviere, Antoine de",Antoine de Cheneviere,Cheneviere,Swiss,0,,,,Swiss,Swiss,individual,
 28184,,"Strozzi, Ferdinando Lorenzo, Prince",Prince Ferdinando Lorenzo Strozzi,Strozzi,"Italian, 1821 - 1878",0,1821,1878,1801 to 1825,Italian,Italian,individual,
-28251,,"Fonspertuis, Angran, vicomte de","Angran, vicomte de Fonspertuis",Fonspertuis,French,0,,,,French,French,individual,
 28185,,"Exeter, John Cecil, 5th Earl of","John Cecil, 5th Earl of Exeter",Exeter,"British, died 1700",0,1600,1700,1551 to 1600,British,British,individual,
 28186,,"Exeter, John Cecil, 6th Earl of","John Cecil, 6th Earl of Exeter",Exeter,"British, 1674 - 1721",0,1674,1721,1651 to 1700,British,British,individual,
 28187,,"Exeter, John Cecil, 7th Earl of","John Cecil, 7th Earl of Exeter",Exeter,"British, died 1722",0,1622,1722,1601 to 1650,British,British,individual,
+28557,,"Charken, Nathan",Nathan Charken,Charken,,0,,,,,Other,individual,
 28188,,"Exeter, Brownlow Cecil, 8th Earl of","Brownlow Cecil, 8th Earl of Exeter",Exeter,"British, died 1754",0,1654,1754,1651 to 1700,British,British,individual,
 28189,,"Exeter, Brownlow Cecil, 9th Earl of","Brownlow Cecil, 9th Earl of Exeter",Exeter,"British, 1725 - 1793",0,1725,1793,1701 to 1725,British,British,individual,
 28190,,"Exeter, Henry Cecil, 1st marquess of","Henry Cecil, 1st marquess of Exeter",Exeter,"British, 1754 - 1804",0,1754,1804,1751 to 1775,British,British,individual,
@@ -15837,6 +15833,10 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 28247,,"Benivieni, Domenico",Domenico Benivieni,Benivieni,Italian,1,,,,Italian,Italian,individual,
 28249,,"Fontenay-Mareuil, François du Val, marquis de","François du Val, marquis de Fontenay-Mareuil",Fontenay-Mareuil,French,0,,,,French,French,individual,
 28250,,Le Danois,Le Danois,Le Danois,French,0,,,,French,French,individual,
+28251,,"Fonspertuis, Angran, vicomte de","Angran, vicomte de Fonspertuis",Fonspertuis,French,0,,,,French,French,individual,
+28252,,"David, W., Mr.",Mr. W. David,David,British,0,,,,British,British,individual,
+28253,500442049,"Pizzetta, Urbino",Urbino Pizzetta,Pizzetta,,0,,,,,Other,individual,
+28254,,"Price, V., Miss",Miss V. Price,Price,,0,,,,,Other,individual,
 28255,,"Zickler, Leo E., Mr. and Mrs.",Mr. and Mrs. Leo E. Zickler,Zickler,,0,,,,,Other,couple,
 28256,,"Frederick, 6th bt., Richard, Sir","Sir Richard Frederick, 6th bt.",Frederick,1780 - 1873,0,1780,1873,1776 to 1800,,Other,individual,
 28257,,Thibeaudeau,Thibeaudeau,Thibeaudeau,,0,,,,,Other,individual,
@@ -16022,6 +16022,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 28549,,Cattaneo della Volta,Cattaneo della Volta,Cattaneo della Volta,,0,,,,,Other,individual,
 28550,,"Monti, Antonio",Antonio Monti,Monti,Italian,0,,,,Italian,Italian,individual,
 28551,,"d'Aubigny, 6th duke of Lennox, 3rd Duke of Richmond, Charles Stuart, Lord","Charles Stuart, Lord d'Aubigny, 6th duke of Lennox, 3rd Duke of Richmond",d'Aubigny,"British, 1639 - 1672",0,1639,1672,1601 to 1650,British,British,individual,
+28554,,Mantegna School,Mantegna School,Mantegna School,,1,,,,Italian,Italian,anonymous,
+28556,,"Nasatir, Justin",Justin Nasatir,Nasatir,,0,,,,,Other,individual,
 28559,500322442,"Meneller, Caspar",Caspar Meneller,Meneller,"German, 1575 - 1630",1,1575,1630,1551 to 1600,German,German,individual,
 28560,,"d'Aubigny, Catherine Howard, Lady","Catherine Howard, Lady d'Aubigny",d'Aubigny,"British, 1620 - 1650",0,1620,1650,1601 to 1650,British,British,individual,
 28561,,"Richmond and Lennox, Frances Teresa Stuart, Dowager Duchess of","Frances Teresa Stuart, Dowager Duchess of Richmond and Lennox",Richmond and Lennox,"British, 1648 - 1702",0,1648,1702,1601 to 1650,British,British,individual,
@@ -16495,7 +16497,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 29274,,"Blumenthal, George, Mrs.",Mrs. George Blumenthal,Blumenthal,American,0,,,,American,American,individual,
 29275,,"Wrangell, Baroness",Baroness Wrangell,Wrangell,,0,,,,,Other,individual,
 29276,,"Novak, J.V.",J.V. Novak,Novak,1842 - 1918,0,1842,1918,1826 to 1850,,Other,individual,
-42714,,"Lampert, Richard",Richard Lampert,Lampert,,0,,,,,Other,individual,
+43589,,"Herbert, R. Beverly",R. Beverly Herbert,Herbert,,0,,,,,Other,individual,
 29277,,"Mouriau, Adolphe",Adolphe Mouriau,Mouriau,"Belgian, 1805-1865?",0,1805,1865,1801 to 1825,,Other,individual,
 29278,,"Bayser, Bruno de",Bruno de Bayser,Bayser,,0,,,,,Other,individual,
 29279,,"Sven Gahlin, Ltd.","Sven Gahlin, Ltd.",,,0,,,,,Other,corporate,
@@ -17103,7 +17105,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 30153,,"Goldschmidt, Arthur",Arthur Goldschmidt,Goldschmidt,,0,,,,,Other,individual,
 30155,500036524,"Oakeley, Richard Banner",Richard Banner Oakeley,Oakeley,"British, 1834 - 1914",1,1834,1914,1826 to 1850,British,British,individual,
 30156,,Goodman Gallery,The Goodman Gallery,,,0,,,,,Other,corporate,
-43169,,"Lewis, Josephine M.",Josephine M. Lewis,Lewis,,0,,,,,Other,individual,
+43590,,"Eichner, Sarah Craven",Sarah Craven Eichner,Eichner,,0,,,,,Other,individual,
 30157,500356032,"Leiter, Saul",Saul Leiter,Leiter,"American, 1923 - 2013",1,1923,2013,1901 to 1925,American,American,individual,Q459273
 30158,,"Forbin, Comte de",Comte de Forbin,Forbin,"French, born c. 1721",1,1721,1821,1701 to 1725,French,French,individual,
 30164,,"Melhuish, Arthur J.",Arthur J. Melhuish,Melhuish,"British, 1829 - 1895",1,1829,1895,1826 to 1850,British,British,individual,Q52305863
@@ -17984,7 +17986,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 32829,,"Howolka, Oscar",Oscar Howolka,Howolka,,0,,,,,Other,individual,
 32830,,"Baer, Katherine",Katherine Baer,Baer,,0,,,,,Other,individual,
 32831,,"Quadrani, Alexia",Alexia Quadrani,Quadrani,,0,,,,,Other,individual,
-43170,,"Friedenberg, Howard",Mr. and Mrs. Howard Friedenberg,Friedenberg,"",0,,,,,Other,couple,
+43706,,"Moskovitz, Irving",Irving Moskovitz,Moskovitz,,0,,,,,Other,individual,
 32833,500021013,"Hess, Ludwig",Ludwig Hess,Hess,"Swiss, 1760 - 1800",1,1760,1800,1751 to 1775,Swiss,Swiss,individual,Q917118
 32834,,Nathan A. Berstein & Co. Ltd,Nathan A. Berstein & Co. Ltd,,,0,,,,,Other,corporate,
 32835,,"Haviland, Paul Burty",Paul Burty Haviland,Haviland,"French, 1880 - 1950",1,1880,1950,1876 to 1900,French,French,individual,Q2580510
@@ -18545,7 +18547,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 33584,,"Huntoon, Mary",Mary Huntoon,Huntoon,"American, 1896 - 1970",1,1896,1970,1876 to 1900,American,American,individual,Q51719439
 33585,500075639,"Hurtig, Martin Russell",Martin Russell Hurtig,Hurtig,"American, born 1929",1,1929,,1926 to 1950,American,American,individual,
 33586,500468895,"Husband, Dalla",Dalla Husband,Husband,"Canadian, 1899 - 1940",1,1899,1940,1876 to 1900,Canadian,Canadian,individual,Q21079573
-43586,,"Lowinsky, Simon",Simon Lowinsky,Lowinsky,,0,,,,,Other,individual,
+43708,,Maynard Walker Gallery,Maynard Walker Gallery,,,0,,,,,Other,corporate,
 33588,,"Iliff (Koehler), Cynthia Willard",Cynthia Willard Iliff (Koehler),Iliff (Koehler),"American, 1906 - 1998",1,1906,1998,1901 to 1925,American,American,individual,Q50356754
 33589,500056879,"Imhof, Joseph A.",Joseph A. Imhof,Imhof,"American, 1871 - 1955",1,1871,1955,1851 to 1875,American,American,individual,Q52150510
 33590,500054413,"Imler, Edgar",Edgar Imler,Imler,"American, 1890 - 1973",1,1890,1973,1876 to 1900,American,American,individual,
@@ -18638,7 +18640,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 33680,500012487,"Laning, Edward",Edward Laning,Laning,"American, 1906 - 1981",1,1906,1981,1901 to 1925,American,American,individual,Q5344053
 33681,,"Lansing, Cooper Nott",Cooper Nott Lansing,Lansing,"American, 1910 - 1992",1,1910,1992,1901 to 1925,American,American,individual,
 33682,,"Lansing, Margaret Hunt",Margaret Hunt Lansing,Lansing,"American, 1914 - 1997",1,1914,1997,1901 to 1925,American,American,individual,
-43587,,"Chadbourne, Emily Crane",Emily Crane Chadbourne,Chadbourne,,0,,,,,Other,individual,
+43709,,"Clement, Alice",Alice Clement,Clement,,0,,,,,Other,individual,
 33683,500008065,"Lanyon, Ellen",Ellen Lanyon,Lanyon,"American, 1926 - 2013",1,1926,2013,1926 to 1950,American,American,individual,Q13560692
 33684,,"Larsen, Nils Paul",Nils Paul Larsen,Larsen,"American, 1890 - 1964",1,1890,1964,1876 to 1900,American,American,individual,Q109830095
 33685,500074596,"Latham, Barbara",Barbara Latham,Latham,"American, 1896 - 1989",1,1896,1989,1876 to 1900,American,American,individual,Q19664332
@@ -18775,7 +18777,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 33820,500052290,"Mrozewski, Stefan",Stefan Mrozewski,Mrozewski,"American, 1894 - 1975",1,1894,1975,1876 to 1900,American,American,individual,Q9345224
 33821,,"Mueller, Henrietta Waters",Henrietta Waters Mueller,Mueller,"American, born 1915",1,1915,2015,1901 to 1925,American,American,individual,
 33822,500054489,"Mugnaini, Joseph A.",Joseph A. Mugnaini,Mugnaini,"American, 1912 - 1992",1,1912,1992,1901 to 1925,American,American,individual,Q3180141
-43588,,Diane Brown Gallery,Diane Brown Gallery,,,0,,,,,Other,corporate,
+43710,,"Curtis, Ruth Sully",Mrs. Ruth Sully Curtis,Curtis,,0,,,,,Other,individual,
 33823,,"Mullineux, Mary",Mary Mullineux,Mullineux,"American, 1875 - 1965",1,1875,1965,1851 to 1875,American,American,individual,Q52150598
 33824,,"Mundt, Donald",Donald Mundt,Mundt,"American, 1911 - 1987",1,1911,1987,1901 to 1925,American,American,individual,Q21785688
 33825,500051548,"Murphy, Alice Harold",Alice Harold Murphy,Murphy,"American, 1890 - 1966",1,1890,1966,1876 to 1900,American,American,individual,
@@ -19418,7 +19420,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 34613,,"Barber, Jack",Jack Barber,Barber,"American, 1918 - 2003",1,1918,2003,1901 to 1925,American,American,individual,
 34614,500015185,"Baker, Oliver Mozart",Oliver Baker,Baker,"British, 1856 - 1939",1,1856,1939,1851 to 1875,British,British,individual,Q7087398
 34615,,"Beal, William Goodrich",William Goodrich Beal,Beal,"American, active 1880 - 1892",1,1850,1900,1826 to 1850,American,American,individual,
-43589,,"Herbert, R. Beverly",R. Beverly Herbert,Herbert,,0,,,,,Other,individual,
+43711,,"Firestein, Cecily B.",Cecily B. Firestein,Firestein,,0,,,,,Other,individual,
 34616,,"Albee, Percy F.",Percy F. Albee,Albee,"American, 1883 - 1959",1,1883,1959,1876 to 1900,American,American,individual,Q52156459
 34617,,"Baranceaneau, Belle",Belle Baranceaneau,Baranceaneau,"American, 1902 - 1988",1,1902,1988,1901 to 1925,American,American,individual,
 34618,,"Anisfield, Boris",Boris Anisfield,Anisfield,"American, 1897 - 1973",1,1897,1973,1876 to 1900,American,American,individual,
@@ -19883,7 +19885,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 35326,500330563,Plutarch,Plutarch,Plutarch,"Greek, c. 45 - c. 125",1,45,125,before 1300,Greek,Other,individual,Q41523
 35327,,"Schindler, Osmar",Osmar Schindler,Schindler,"German, 1869 - 1927",1,1869,1927,1851 to 1875,German,German,individual,Q2034362
 35328,,"Schlenzig, Eva Marie",Eva Marie Schlenzig,Schlenzig,"German, active 1946",1,1946,1946,1926 to 1950,German,German,individual,
-43590,,"Eichner, Sarah Craven",Sarah Craven Eichner,Eichner,,0,,,,,Other,individual,
+43712,,"Johnson, Lisa",Lisa Johnson,Johnson,,0,,,,,Other,individual,
 35329,500011589,"Schreyer, Lothar",Lothar Schreyer,Schreyer,"German, 1886 - 1966",1,1886,1966,1876 to 1900,German,German,individual,Q255662
 35330,500005420,"Schumacher, Emil",Emil Schumacher,Schumacher,"German, 1912 - 1999",1,1912,1999,1901 to 1925,German,German,individual,Q449119
 35332,500077831,"Thiemann, Carl",Carl Thiemann,Thiemann,"German, 1881 - 1966",1,1881,1966,1876 to 1900,German,German,individual,Q1040828
@@ -20173,7 +20175,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 36322,500115333,"Desportes, Alexandre-François",Alexandre-François Desportes,Desportes,"French, 1661 - 1743",1,1661,1743,1651 to 1700,French,French,individual,Q1359864
 36330,,"Samuels, J.",J. Samuels,Samuels,"American, active 1930s",1,1910,2010,1901 to 1925,American,American,individual,
 36336,500007600,"Brigman, Anne W.",Anne W. Brigman,Brigman,"American, 1869 - 1950",1,1869,1950,1851 to 1875,American,American,individual,Q434674
-43706,,"Moskovitz, Irving",Irving Moskovitz,Moskovitz,,0,,,,,Other,individual,
+43713,,"Jervis, Ida and Sidney",Ida and Sidney Jervis,Jervis,,0,,,,,Other,couple,
 36345,500253067,"Lambrecht, Laurie",Laurie Lambrecht,Lambrecht,"American, born 1955",1,1955,,1951 to 1975,American,American,individual,
 36349,,"Sauty, Alfred De",Alfred De Sauty,Sauty,"American, 1870 - 1949",1,1870,1949,1851 to 1875,American,American,individual,
 36350,,"Ross, Clifford",Clifford Ross,Ross,"American, born 1952",1,1952,,1951 to 1975,American,American,individual,
@@ -21272,7 +21274,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 39309,500065891,"Krebs, Rockne",Rockne Krebs,Krebs,"American, 1938 - 2011",1,1938,2011,1926 to 1950,American,American,individual,Q16019121
 39311,500123671,"Landweber, Victor",Victor Landweber,Landweber,"American, born 1943",1,1943,,1926 to 1950,American,American,individual,Q66034515
 39315,500036938,"Lee, Russell",Russell Lee,Lee,"American, 1903 - 1986",1,1903,1986,1901 to 1925,American,American,individual,
-43708,,Maynard Walker Gallery,Maynard Walker Gallery,,,0,,,,,Other,corporate,
+43715,,Graphics International,Graphics International,,,1,,,,,Other,corporate,
 39317,500126037,"Liebling, Jerome",Jerome Liebling,Liebling,"American, 1924 - 2011",1,1924,2011,1901 to 1925,American,American,individual,Q15462930
 39321,500093910,"Scurlock, Addison",Addison Scurlock,Scurlock,"American, 1883 - 1964",1,1883,1964,1876 to 1900,American,American,individual,Q20965551
 39322,500072900,"Power, Mark",Mark Power,Power,"American, born 1937",1,1937,,1926 to 1950,American,American,individual,
@@ -21319,7 +21321,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 39577,500193612,"Greenly, Colin",Colin Greenly,Greenly,"American, born England, 1928 - 2014",1,1928,2014,1926 to 1950,American,American,individual,Q94518704
 39581,500015514,"Hale, Philip Leslie",Philip Leslie Hale,Hale,"American, 1865 - 1931",1,1865,1931,1851 to 1875,American,American,individual,Q11706617
 39586,,"Heidenreich, Carl",Carl Heidenreich,Heidenreich,"American, born Germany, 1901 - 1965",1,1901,1965,1901 to 1925,American,American,individual,Q1038641
-43709,,"Clement, Alice",Alice Clement,Clement,,0,,,,,Other,individual,
+43716,,"Knox, Katharine McCook",Katharine McCook Knox,Knox,,0,,,,,Other,individual,
 39591,,"Murdoch, Dora Louise",Dora Louise Murdoch,Murdoch,"American, 1857 - 1933",1,1857,1933,1851 to 1875,American,American,individual,Q59662152
 39595,,"Horowitz, Leonard",Leonard Horowitz,Horowitz,"American, born 1940",1,1940,,1926 to 1950,American,American,individual,
 39597,500108404,"Hudson, Andrew",Andrew Hudson,Hudson,"American, born 1935",1,1935,,1926 to 1950,American,American,individual,
@@ -22331,12 +22333,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 43700,,"Moorman, Heath C.",Mrs. Heath C. Moorman,Moorman,,0,,,,,Other,individual,
 43702,,"Perkins, Childs Bruen",Mrs. Childs Bruen Perkins,Perkins,,0,,,,,Other,individual,
 43705,,"Feiss, Carl",Mr. and Mrs. Carl Feiss,Feiss,,0,,,,,Other,couple,
-43710,,"Curtis, Ruth Sully",Mrs. Ruth Sully Curtis,Curtis,,0,,,,,Other,individual,
-43711,,"Firestein, Cecily B.",Cecily B. Firestein,Firestein,,0,,,,,Other,individual,
-43712,,"Johnson, Lisa",Lisa Johnson,Johnson,,0,,,,,Other,individual,
-43713,,"Jervis, Ida and Sidney",Ida and Sidney Jervis,Jervis,,0,,,,,Other,couple,
-43715,,Graphics International,Graphics International,,,1,,,,,Other,corporate,
-43716,,"Knox, Katharine McCook",Katharine McCook Knox,Knox,,0,,,,,Other,individual,
 43719,,"Heath, Ferry K.",Major Ferry K. Heath,Heath,,0,,,,,Other,individual,
 43721,,"Nagy, Stephen V.",Stephen V. Nagy,Nagy,,0,,,,,Other,individual,
 43722,,"Bruno, Phillip A.",Mr. and Mrs. Phillip A. Bruno,Bruno,,0,,,,,Other,couple,
@@ -22457,6 +22453,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 44563,500128793,"Norfolk, Simon",Simon Norfolk,Norfolk,"British, born Nigeria, 1963",1,1963,,1951 to 1975,British,British,individual,
 44565,,"Sawada, Kyoichi",Kyoichi Sawada,Sawada,"Japanese, 1936 - 1970",1,1936,1970,1926 to 1950,Japanese,Japanese,individual,Q446291
 44578,,Wide World Photos,Wide World Photos,,,1,,,,,Other,corporate,
+46029,,"Brandt, Frish",Frish Brandt,Brandt,,0,,,,,Other,individual,
 44624,,"Malindine, Edward George",Edward George Malindine,Malindine,"British, 1906 - 1970",1,1906,1970,1901 to 1925,British,British,individual,Q89422711
 44640,,"Haines, Cheryl",Ms. Cheryl Haines,Haines,,0,,,,,Other,individual,
 44717,,"Archives of American Art, Smithsonian Institution","Archives of American Art, Smithsonian Institution",,,1,,,,,Other,corporate,
@@ -22516,7 +22513,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 46004,,James Cohan Gallery,James Cohan Gallery,,,0,,,,,Other,corporate,
 46022,,"Conway, Susan",Susan Conway,Conway,,0,,,,,Other,individual,
 46023,,"Cohen, Joseph",Mr. Joseph Cohen,Cohen,,0,,,,,Other,individual,
-46029,,"Brandt, Frish",Frish Brandt,Brandt,,0,,,,,Other,individual,
 46033,,"Harris, Thomas",Mr. Thomas Harris,Harris,,0,,,,,Other,individual,
 46039,,"Mahon, Annie and Paul",Mr. and Mrs. Annie and Paul Mahon,Mahon,,0,,,,,Other,couple,
 46047,,Fine Arts Museums of San Francisco,Fine Arts Museums of San Francisco,,,0,,,,,Other,corporate,
@@ -22571,6 +22567,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 46176,500488758,"Dashti, Gohar",Gohar Dashti,Dashti,"Iranian, born 1980",1,1980,,1976 to 2000,Iranian,Other,individual,Q17582699
 46177,,"Steiner, John W. and Margaret H.",John W. and Margaret H. Steiner,Steiner,,0,,,,,Other,couple,
 46178,,"Doyle, Ann",Estate of Ann Doyle,,,0,,,,,Other,corporate,
+46773,,"Wenniger, Mary Ann",Mary Ann Wenniger,Wenniger,,0,,,,,Other,individual,
 46179,,"Rath, Georg",Georg Rath,Rath,"Hungarian, 1828 - 1904",0,1828,1904,1826 to 1850,Hungarian,Other,individual,
 46181,,"Rossetti, William Michael and Lucy Madox Brown",William Michael and Lucy Madox Brown Rossetti,Rossetti,British,0,,,,British,British,couple,
 46183,500093918,"Nengudi, Senga",Senga Nengudi,Nengudi,"American, born 1943",1,1943,,1926 to 1950,American,American,individual,Q16106377
@@ -22719,10 +22716,10 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 46660,500121638,"Henderson, Mike",Mike Henderson,Henderson,born 1944,1,1944,,1926 to 1950,American,American,individual,Q100250108
 46661,,Pesaro 16th Century,Pesaro 16th Century,Pesaro 16th Century,Italian,1,,,,Italian,Italian,anonymous,
 46662,,Faenza 15th Century,Faenza 15th Century,Faenza 15th Century,Central Italian,1,1400,1499,1300 to 1400,Italian,Italian,anonymous,
-47062,,"Ditman, Roger and Barbara",Roger and Barbara Ditman,Ditman,,0,,,,,Other,couple,
 46663,,"Biddle, Edward C.",Edward C. Biddle,Biddle,"American, 1808 - 1893",1,1808,1893,1801 to 1825,American,American,individual,
 46664,,Lehman & Duval Lithographers,Lehman & Duval Lithographers,,"American, active 1834-1837",1,,,,American,American,corporate,
 46665,,"Hacker, Francis",Francis Hacker,Hacker,"American, 1827 - 1904",1,1827,1904,1826 to 1850,American,American,individual,
+47497,,Blavatnik Family Foundation,Blavatnik Family Foundation,,,0,,,,,Other,purchase_fund,
 46676,,"Mandelman, Beatrice",Beatrice Mandelman,Mandelman,"American, 1912 - 1998",1,1912,1998,1901 to 1925,American,American,individual,
 46682,500464806,"Pusey, Mavis",Mavis Pusey,Pusey,"American, 1928 - 2019",1,1928,2019,1926 to 1950,American,American,individual,Q55219662
 46688,500013549,"Rice, William S.",William S. Rice,Rice,"American, 1873 - 1963",1,1873,1963,1851 to 1875,American,American,individual,
@@ -22760,7 +22757,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 46764,500085105,"Twiggs, Russell Gould",Russell Twiggs,Twiggs,"American, 1898 - 1991",1,1898,1991,1876 to 1900,American,American,individual,
 46766,500063546,"Van Hoesen, Beth",Beth Van Hoesen,Van Hoesen,"American, 1929 - 2010",1,1929,2010,1926 to 1950,American,American,individual,
 46771,,"Weege, William",William Weege,Weege,"American, born 1935",1,1935,,1926 to 1950,American,American,individual,
-46773,,"Wenniger, Mary Ann",Mary Ann Wenniger,Wenniger,,0,,,,,Other,individual,
 46774,,"Wheelock, Bill",Bill Wheelock,Wheelock,"American, born 1969",1,1969,,1951 to 1975,American,American,individual,
 46775,,"Whitehead, Frances",Frances Whitehead,Whitehead,"American, born 1953",1,1953,,1951 to 1975,American,American,individual,Q124538960
 46786,500332699,"Aldrin, Anders",Anders Aldrin,Aldrin,"American, 1889 - 1970",1,1889,1970,1876 to 1900,American,American,individual,
@@ -22917,6 +22913,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 47059,,"Henry, Harry Samuel",Harry Samuel Henry,Henry,"American, 1856 - 1909",0,1856,1909,1851 to 1875,American,American,individual,
 47060,,"Wilson, Julia",Julia Wilson,Wilson,,0,,,,,Other,individual,
 47061,,Center Street Studio,Center Street Studio,,,1,,,,,Other,corporate,
+47062,,"Ditman, Roger and Barbara",Roger and Barbara Ditman,Ditman,,0,,,,,Other,couple,
 47063,,"Góngora, Luis de",Luis de Góngora,Góngora,"Spanish, 1561 - 1627",1,1561,1627,1551 to 1600,Spanish,Spanish,individual,
 47064,500017857,"Lory, Gabriel Ludwig",Gabriel Ludwig Lory,Lory,"Swiss, 1763 - 1840",1,1763,1840,1751 to 1775,Swiss,Swiss,individual,
 47066,,"Preyer, Gottfried von",Gottfried von Preyer,Preyer,"Austrian, 1807 - 1901",0,1807,1901,1801 to 1825,Austrian,Austrian,individual,
@@ -23023,7 +23020,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 47208,500036628,"Heinrich, Annemarie",Annemarie Heinrich,Heinrich,"Argentinean, born Germany, 1912 - 2005",1,1912,2005,1901 to 1925,Argentinean,Other,individual,
 47209,,"Guilford, Nathan, Mr. and Mrs.",Mr. and Mrs. Nathan Guilford,Guilford,"American, he: 1841 - 1907; she: born 1841",0,1841,,1826 to 1850,American,American,couple,
 47210,,"Stewart, Mary Wallace",Mary Wallace Stewart,Stewart,"American, 1872 - c. 1955",0,1872,1955,1851 to 1875,American,American,individual,
-47590,,Hand Print Workshop International,Hand Print Workshop International,,,1,,,,,Other,corporate,
 47211,,"Stewart, Guilford",Guilford Stewart,Stewart,"American, 1905 - 1968",0,1905,1968,1901 to 1925,American,American,individual,
 47212,,"Stewart, Ralph Alcade Jr.",Ralph Alcade Stewart Jr.,Stewart,"American, born 1907",0,1907,2007,1901 to 1925,American,American,individual,
 47214,,"Taylor, Robert Grant",Robert Grant Taylor,Taylor,,0,,,,,Other,individual,
@@ -23127,11 +23123,11 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 47350,,"Bordier, Claude",Claude Bordier,Bordier,"French, died 1644",0,1544,1644,1501 to 1550,French,French,individual,
 47351,,"Zarine, A.",A. Zarine,Zarine,Russian,0,,,,Russian,Russian,individual,
 47352,,"Lasquin, George Bottellier",George Bottellier Lasquin,Lasquin,"French, 1882 - 1932",0,1882,1932,1876 to 1900,French,French,individual,
-47934,,Kimmel & Voigt,Kimmel & Voigt,,,1,,,,,Other,corporate,
 47353,,"Fritsch, Katharina",Katharina Fritsch,Fritsch,"German, born 1956",1,1956,,1951 to 1975,German,German,individual,
 47354,,Al Held Foundation,Al Held Foundation,,,0,,,,,Other,corporate,
 47355,,"Nelson, Rolf G.",Rolf G. Nelson,Nelson,"American, born 1935",0,1935,,1926 to 1950,American,American,individual,
 47356,,"Codel, Martin",Mrs. Martin Codel,Codel,American,0,,,,American,American,individual,
+49003,,Atelier Georges Leblanc,Atelier Georges Leblanc,,,1,,,,French,French,corporate,
 47357,,"Liotard, Jean-Michel",Jean-Michel Liotard,Liotard,"Swiss, 1702 - 1796",1,1702,1796,1701 to 1725,Swiss,Swiss,individual,
 47358,,"Duflos, Claude-Augustin",Claude-Augustin Duflos,Duflos,"French, 1700 - 1786",1,1700,1786,1651 to 1700,French,French,individual,
 47359,,"Waggaman, Thomas E.",Thomas E. Waggaman,Waggaman,,0,,,,,Other,individual,
@@ -23184,6 +23180,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 47414,,Peruvian 19th Century,Peruvian 19th Century,Peruvian 19th Century,,1,1800,1899,1776 to 1800,Peruvian,Other,anonymous,
 47415,500297916,"Hutin, Jean-Baptiste",Jean-Baptiste Hutin,Hutin,"French, 1726 - 1786",1,1726,1786,1726 to 1750,French,French,individual,
 47419,,"Plummer, Edward Stabler",Edward Stabler Plummer,Plummer,"American, born 1825",0,1825,1925,1801 to 1825,American,American,individual,
+49004,,Galleria Schwarz,Galleria Schwarz,,,1,,,,Italian,Italian,corporate,
 47420,,"Plummer, William B.",William B. Plummer,Plummer,"American, c. 1858 - after 1930",0,1858,1930,1851 to 1875,American,American,individual,
 47422,,"Ingersoll, R. Sturgis, Mr. and Mrs.",Mr. and Mrs. R. Sturgis Ingersoll,Ingersoll,he: 1891 - 1973; she: 1893 - 1968,0,1891,1973,1876 to 1900,,Other,couple,
 47428,,"Schmidl, Josef and Maria",Josef and Maria Schmidl,Schmidl,he: 1852 - 1916; she: 1858 - 1934,0,1852,1934,1851 to 1875,,Other,couple,
@@ -23236,7 +23233,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 47488,,"Dorfinant, Gaston",Gaston Dorfinant,Dorfinant,"French, 20th century",1,1900,1999,1876 to 1900,French,French,individual,
 47489,,Wallis,Wallis,Wallis,,0,,,,,Other,individual,
 47496,,Ginori Family,Ginori Family,,Italian,0,,,,Italian,Italian,corporate,
-47497,,Blavatnik Family Foundation,Blavatnik Family Foundation,,,0,,,,,Other,purchase_fund,
 47498,500443482,"Rogers, Fairman",Fairman Rogers,Rogers,"American, 1833 - 1900",0,1833,1900,1826 to 1850,American,American,individual,
 47499,,"Heimsoeth, F. Prof. Dr.",Prof. Dr. F. Heimsoeth,Heimsoeth,German,0,,,,German,German,individual,
 47500,,Leopold I Holy Roman Emperor,Holy Roman Emperor Leopold I,Leopold I,"Austrian, 1640 - 1705",0,1640,1705,1601 to 1650,Austrian,Austrian,individual,
@@ -23287,6 +23283,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 47587,,Susan Steinhauser,Susan Steinhauser,Steinhauser,,0,,,,,Other,individual,
 47588,,Atlantic Editions,Atlantic Editions,,,1,,,,,Other,corporate,
 47589,,Tamarind Institute,Tamarind Institute,,,1,,,,,Other,corporate,
+47590,,Hand Print Workshop International,Hand Print Workshop International,,,1,,,,,Other,corporate,
 47592,500031928,"Semplice da Verona, Fra",Fra Semplice da Verona,Semplice da Verona,"Italian, c. 1589 - 1654",1,1589,1654,1551 to 1600,Italian,Italian,individual,
 47594,500117162,"Moitte, Rose Angélique",Rose Angélique Moitte,Moitte,"French, active 1768-1781",1,1740,1805,1726 to 1750,French,French,individual,
 47598,,"Ronchi, Luigi",Luigi Ronchi,Ronchi,French? active mid 19th century,1,1830,1849,1826 to 1850,French,French,individual,
@@ -23444,7 +23441,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 47868,,"Frank, Hilda",Hilda Frank,Frank,"British, active late 20th century",1,1950,1999,1926 to 1950,British,British,individual,
 47869,,"Haigh, Dorothy",Dorothy Haigh,Haigh,"British, active late 20th century",1,1950,1999,1926 to 1950,British,British,individual,
 47870,,"Hawthorn, Raymond",Raymond Hawthorn,Hawthorn,"British, active late 20th century",1,1950,1999,1926 to 1950,British,British,individual,
-47935,,"Radtke, Lauckner & Co.","Radtke, Lauckner & Co.",,,1,,,,,Other,corporate,
 47871,,"Hughes, Pamela",Pamela Hughes,Hughes,"British, active late 20th century",1,1950,1999,1926 to 1950,British,British,individual,
 47872,,Rochard,Rochard,Rochard,"French, active c. 1795",1,1770,1820,1751 to 1775,French,French,individual,
 47874,,"Jenkinson, Arnold",Arnold Jenkinson,Jenkinson,"British, active late 20th century",1,1950,1999,1926 to 1950,British,British,individual,
@@ -23496,6 +23492,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 47931,,Delphic Studios,Delphic Studios,,,1,,,,,Other,corporate,
 47932,,Cassell & Co.,Cassell & Co.,,,1,,,,,Other,corporate,
 47933,,"Chase, J. Eastman",J. Eastman Chase,Chase,"American, active c. 1870s - 1920s",1,1870,1929,1851 to 1875,American,American,individual,
+47934,,Kimmel & Voigt,Kimmel & Voigt,,,1,,,,,Other,corporate,
+47935,,"Radtke, Lauckner & Co.","Radtke, Lauckner & Co.",,,1,,,,,Other,corporate,
 47936,,"Vickery, William Kingston",William Kingston Vickery,Vickery,"American, born Ireland, 1851 - 1925",1,1851,1925,1851 to 1875,American,American,individual,
 47939,,"Cirino, Andrea",Andrea Cirino,Cirino,"Italian, 1618 - 1664",1,1618,1664,1601 to 1650,Italian,Italian,individual,
 47940,500116642,"Bradford, Mark",Mark Bradford,Bradford,"American, born 1961",1,1961,,1951 to 1975,American,American,individual,Q16193971
@@ -23604,6 +23602,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 48074,,"Koch, Louis",Louis Koch,Koch,"German, 1862 - 1930",0,1862,1930,1851 to 1875,German,German,individual,
 48075,,"Jung, Richard",Richard Jung,Jung,"German, 1911 - 1986",0,1911,1986,1901 to 1925,German,German,individual,
 48076,,"Brown, Jay and Elissa",Jay and Elissa Brown,Brown,,0,,,,,Other,couple,
+48140,,"Mitchell, Jim",Jim Mitchell,Mitchell,"American, born 1949",1,1949,,1926 to 1950,American,American,individual,
 48077,,Mitteilungen der Vereinigung Bildender Künstler Österreichs,Mitteilungen der Vereinigung Bildender Künstler Österreichs,,,1,,,,,Other,corporate,
 48079,,"Hughes, William F. Dr.",Dr. William F. Hughes,Hughes,"American, died 1929",0,1829,1929,1826 to 1850,American,American,individual,
 48080,,"Fullerton, James",James Fullerton,Fullerton,American,0,,,,American,American,individual,
@@ -23655,10 +23654,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 48131,,"Fontana, Orazio",Orazio Fontana,Fontana,"Italian, 1510 - 1571",1,1510,1571,1501 to 1550,Italian,Italian,individual,
 48133,,"West, E. Lovette Mrs.",Mrs. E. Lovette West,West,"American, 1885 - 1962",0,1885,1962,1876 to 1900,American,American,individual,
 48136,,Apex Novelties,Apex Novelties,,"American, 1968 - c.1990",1,1968,1995,1951 to 1975,American,American,corporate,
-48373,,Hamilton Easter Field Foundation,Hamilton Easter Field Foundation,,,1,,,,,Other,corporate,
 48137,,"Schrier, Fred",Fred Schrier,Schrier,"American, born 1945",1,1945,,1926 to 1950,American,American,individual,
 48138,,"Clyne, Daniel",Daniel Clyne,Clyne,"American, active 1970s",1,1970,1979,1951 to 1975,American,American,individual,
-48140,,"Mitchell, Jim",Jim Mitchell,Mitchell,"American, born 1949",1,1949,,1926 to 1950,American,American,individual,
 48141,,"Beck, Joel",Joel Beck,Beck,"American, 1943 - 1999",1,1943,1999,1926 to 1950,American,American,individual,
 48142,,"Walthers, Bruce",Bruce Walthers,Walthers,"American, born 1944",1,1944,,1926 to 1950,American,American,individual,
 48143,,"Lynch, Jay",Jay Lynch,Lynch,"American, 1945 - 2017",1,1945,2017,1926 to 1950,American,American,individual,
@@ -23872,8 +23869,10 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 48370,,Tera-Gentle,Tera-Gentle,,,1,,,,American,American,corporate,
 48371,,"Tuscher, Carl Marcus",Carl Marcus Tuscher,Tuscher,"German, 1705 - 1751",1,1705,1751,1701 to 1725,German,German,individual,
 48372,500043302,"Hutin, François",François Hutin,Hutin,"French, 1685 - 1758",1,1685,1758,1651 to 1700,French,French,individual,
+48373,,Hamilton Easter Field Foundation,Hamilton Easter Field Foundation,,,1,,,,,Other,corporate,
 48374,,Living American Art,Living American Art,,,1,,,,American,American,corporate,
 48375,,"Specchi, Michelangelo",Michelangelo Specchi,Specchi,"Italian, 1684 - 1750",1,1684,1750,1651 to 1700,Italian,Italian,individual,
+48903,,"Thall, Richard and Alice",Richard and Alice Thall,Thall,,0,,,,,Other,couple,
 48376,,"Krassner, Paul",Paul Krassner,Krassner,"American, born 1932",1,1932,,1926 to 1950,American,American,individual,
 48377,,The Viking Press,The Viking Press,,"American, founded 1925",1,1925,,1901 to 1925,American,American,corporate,
 48378,,"Ballantine Books, Inc.","Ballantine Books, Inc.",,Founded 1952,1,1952,,1951 to 1975,American,American,corporate,
@@ -23925,7 +23924,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 48435,,"Fröschel, C.",C. Fröschel,Fröschel,"German (?), active 19th century",1,1800,1900,1776 to 1800,German,German,individual,
 48436,,"Hoff, Karl",Karl Hoff,Hoff,"German (?), active 19th century",1,1800,1900,1776 to 1800,German,German,individual,
 48438,,"Munkácsy, Muhály",Muhály Munkácsy,Munkácsy,"Hungarian, 1844 - 1900",1,1844,1900,1826 to 1850,Hungarian,Other,individual,
-48504,,"Foos, Link",Link Foos,Foos,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
 48439,500026071,"Salentin, Hubert",Hubert Salentin,Salentin,"German, 1822 - 1910",1,1822,1910,1801 to 1825,German,German,individual,
 48440,,"Max, Gabriel",Gabriel Max,Max,"German, 1840 - 1915",1,1840,1915,1826 to 1850,German,German,individual,
 48441,,"Clark, James",James Clark,Clark,"British, 1789 - 1860",1,1789,1860,1776 to 1800,British,British,individual,
@@ -23978,6 +23976,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 48501,,"Big Muddy Comics Refinery, Inc.","Big Muddy Comics Refinery, Inc.",,"American, active 1970s",1,1970,1979,1951 to 1975,,Other,corporate,
 48502,,"Cosgrove, Patrick",Patrick Cosgrove,Cosgrove,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
 48503,,"Flaherty, John",John Flaherty,Flaherty,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
+48504,,"Foos, Link",Link Foos,Foos,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
 48505,,"Foos, Rick",Rick Foos,Foos,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
 48506,,"Leslie, Frank",Frank Leslie,Leslie,"American, 1821 - 1880",1,1821,1880,1801 to 1825,American,American,individual,
 48509,,"Dahlstrom, Grant",Grant Dahlstrom,Dahlstrom,"American, 1902 - 1980",1,1902,1980,1901 to 1925,American,American,individual,
@@ -24030,7 +24029,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 48585,,Kunstverein für die Rheinlande und Westfalen,Kunstverein für die Rheinlande und Westfalen,,,1,,,,,Other,corporate,
 48586,500032091,"Altobelli, Gioacchino",Gioacchino Altobelli,Altobelli,"Italian, c. 1820 - c. 1879",1,1820,1879,1801 to 1825,Italian,Italian,individual,
 48587,500003843,"Archer, Frederick Scott",Frederick Scott Archer,Archer,"British, 1813 - 1858",1,1813,1858,1801 to 1825,British,British,individual,
-49132,,"Minor, Scott",Scott Minor,Minor,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
 48588,500313201,Alinari Family,Alinari Family,,"Italian, 19th century",1,1800,1899,1776 to 1800,Italian,Italian,corporate,
 48589,500096619,"Bankart, George",George Bankart,Bankart,"British, 1829 - 1916",1,1829,1916,1826 to 1850,British,British,individual,
 48590,500002724,"Béchard, Henri",Henri Béchard,Béchard,"French, active 1869 - late 1880s",1,1875,1899,1851 to 1875,French,French,individual,Q17537842
@@ -24185,7 +24183,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 48889,500015707,"Sayer, Robert",Robert Sayer,Sayer,"British, 1725 - 1794",1,1725,1794,1701 to 1725,British,British,individual,
 48892,,"Crewe, Emma",Emma Crewe,Crewe,"British, 1780 - 1850",1,1780,1850,1776 to 1800,British,British,individual,Q5372766
 48901,,"Cummings, Frederick J.",Frederick J. Cummings,Cummings,American,0,,,,American,American,individual,
-48903,,"Thall, Richard and Alice",Richard and Alice Thall,Thall,,0,,,,,Other,couple,
 48907,,"Lelli, Oronzio",Oronzio Lelli,Lelli,"Italian, active c. 1860/1900",1,1860,1900,1851 to 1875,Italian,Italian,individual,
 48917,,"Le Vengeur d'Orsan, A. Dr.",Dr. A. Le Vengeur d'Orsan,Le Vengeur d'Orsan,"French, 1800 - 1899",1,1800,1899,1776 to 1800,French,French,individual,
 48918,,"Bennett, W. Tapley Jr., Mrs.",Mrs. W. Tapley Bennett Jr.,Bennett,"American, born 1922",0,1922,,1901 to 1925,American,American,individual,
@@ -24235,12 +24232,9 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 48993,,"Arkin, Stephen",Stephen Arkin,Arkin,,0,,,,,Other,individual,
 48997,,"Crumb, Charles",Charles Crumb,Crumb,"American, 1942 - 1993",1,1942,1993,1926 to 1950,American,American,individual,
 48998,,Metauro area,Metauro area,,"Italian, 1500 - 1599",1,1500,1599,1401 to 1500,Italian,Italian,corporate,
-49134,,"Filth, Paul",Paul Filth,Filth,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
 48999,,Kennedy for President Committee,Kennedy for President Committee,,,1,,,,American,American,corporate,
 49001,,Original Editions,Original Editions,,,1,,,,American,American,corporate,
 49002,,Knickerbocker Machine & Foundry,Knickerbocker Machine & Foundry,,,1,,,,American,American,corporate,
-49003,,Atelier Georges Leblanc,Atelier Georges Leblanc,,,1,,,,French,French,corporate,
-49004,,Galleria Schwarz,Galleria Schwarz,,,1,,,,Italian,Italian,corporate,
 49008,,"Hendershot, James L.",James L. Hendershot,Hendershot,"American, born 1941",1,1941,,1926 to 1950,American,American,individual,
 49011,,"Tunbo, Aliss",Aliss Tunbo,Tunbo,"American, active c. 1950",1,1950,,1926 to 1950,American,American,individual,
 49012,,"Martin, Julie",Julie Martin,Martin,,1,,,,American,American,individual,
@@ -24293,7 +24287,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 49072,,"Martin, Andy",Andy Martin,Martin,active 1960s,1,1960,1969,1951 to 1975,,Other,individual,
 49073,,"Almasy, Peter",Peter Almasy,Almasy,active 1960s,1,1960,1969,1951 to 1975,,Other,individual,
 49076,,"Freeman, J.",J. Freeman,Freeman,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
-49133,,"Minor, Camille",Camille Minor,Minor,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
 49078,500102190,"Dietzsch, Johann Albrecht",Johann Albrecht Dietzsch,Dietzsch,"German, 1720 - 1782",1,1720,1782,1701 to 1725,German,German,individual,
 49079,,"Johnson, Marion",Marion Johnson,Johnson,"American, active 20th century",1,,,,American,American,individual,
 49080,,"Batcheller, Frederick Stone",Frederick Stone Batcheller,Batcheller,"American, 1837 - 1889",1,1837,1889,1826 to 1850,American,American,individual,
@@ -24343,6 +24336,9 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 49129,,Ike,Ike,,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
 49130,,"Beefheart, Captain",Captain Beefheart,Beefheart,"American, 1941 - 2010",1,1941,2010,1926 to 1950,American,American,individual,
 49131,,"Acquavella, James and Constance",James and Constance Acquavella,Acquavella,,0,,,,American,American,couple,
+49132,,"Minor, Scott",Scott Minor,Minor,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
+49133,,"Minor, Camille",Camille Minor,Minor,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
+49134,,"Filth, Paul",Paul Filth,Filth,active 1970s,1,1970,1979,1951 to 1975,,Other,individual,
 49135,,"Laffan, William M.",William M. Laffan,Laffan,"American, 1848 - 1909",1,1848,1909,1826 to 1850,American,American,individual,
 49136,,"Carman, Bliss",Bliss Carman,Carman,"Canadian, 1861 - 1929",1,1861,1929,1851 to 1875,Canadian,Canadian,individual,
 49137,,"Hovey, Richard",Richard Hovey,Hovey,"American, 1864 - 1908",1,1864,1908,1851 to 1875,American,American,individual,
@@ -24499,6 +24495,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 49471,,Johnston Brothers,Johnston Brothers,Johnston Brothers,"American, active 1860s",1,1860,1869,1851 to 1875,American,American,individual,
 49472,,Editions des Quatre Chemins,Editions des Quatre Chemins,,,1,,,,French,French,corporate,
 49473,,Blauvelt & Hubbard,Blauvelt & Hubbard,Blauvelt & Hubbard,"American, active 1860s",1,1860,1869,1851 to 1875,American,American,individual,
+49576,,Delphic Arts,Delphic Arts,,,1,,,,American,American,corporate,
 49474,,"Hicks, Lemuel S.",Lemuel S. Hicks,Hicks,"American, 1826 - 1888",1,1826,1888,1826 to 1850,American,American,individual,
 49475,,"Dessaur, Fernando",Fernando Dessaur,Dessaur,"American, born Netherlands, 1840 - 1909",1,1840,1909,1826 to 1850,American,American,individual,
 49476,,Fisher Brothers,Fisher Brothers,Fisher Brothers,"American, active 1860s - 1870s",1,1860,1879,1851 to 1875,American,American,corporate,
@@ -24555,7 +24552,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 49571,,"Harry N. Abrams, Inc.","Harry N. Abrams, Inc.",,,1,,,,American,American,corporate,
 49574,,"Hochschild, Harold K.",Harold K. Hochschild,Hochschild,"American, 1892 - 1981",0,1892,1981,1876 to 1900,American,American,individual,
 49575,,"Roerick, William",William Roerick,Roerick,"American, 1913 - 1995",0,1913,1995,1901 to 1925,American,American,individual,
-49576,,Delphic Arts,Delphic Arts,,,1,,,,American,American,corporate,
 49577,,"Dormeuil, Jacques",Jacques Dormeuil,Dormeuil,"French, 1889 - 1984",0,1889,1984,1876 to 1900,French,French,individual,
 49579,,Graphic Workshop,Graphic Workshop,,,1,,,,American,American,corporate,
 49580,,"Bar, Jacques Charles",Jacques Charles Bar,Bar,"French, 1740 - 1811",1,1740,1811,1726 to 1750,French,French,individual,
@@ -24766,6 +24762,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 49929,,B. & T. Kite,B. & T. Kite,,American,1,,,,American,American,corporate,
 49930,,"Small, Maynard and Co","Small, Maynard and Co",,,1,,,,,Other,corporate,
 49931,,R. H. Russell,R. H. Russell,,American,1,,,,American,American,corporate,
+50370,,"Jackson, Girard",Girard Jackson,Jackson,American,0,,,,American,American,individual,
 49932,,"Squire, Maude Hunt",Maude Hunt Squire,Squire,"American, 1873 - 1954",1,1873,1954,1851 to 1875,American,American,individual,
 49933,,"Mars, Ethel",Ethel Mars,Mars,"American, 1876 - 1959",1,1876,1959,1876 to 1900,American,American,individual,
 49934,,"Hyneman, Herman N.",Herman N. Hyneman,Hyneman,"American, 1859 - 1907",1,1859,1907,1851 to 1875,American,American,individual,
@@ -24915,6 +24912,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50096,,Broadside Art,Broadside Art,,,1,,,,American,American,corporate,
 50097,,Felissimo Universal Corporation of America,Felissimo Universal Corporation of America,,,1,,,,Japanese,Japanese,corporate,
 50098,,"Harris, Ann Sutherland",Professor Ann Sutherland Harris,Harris,,0,,,,,Other,individual,
+50303,,"Marinkelle, Joseph",Joseph Marinkelle,Marinkelle,"Dutch, 1732 - 1776",1,1732,1776,1726 to 1750,Dutch,Dutch,individual,
 50099,500083940,"Sanders, Jeff",Jeff Sanders,Sanders,"American, active late 20th century",1,,,,American,American,individual,
 50100,,"Vlady, Andrew",Andrew Vlady,Vlady,"American, active late 20th century",1,,,,American,American,individual,
 50101,,"Porter, Marie",Marie Porter,Porter,"American, active late 20th century",1,,,,American,American,individual,
@@ -25060,7 +25058,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50300,,"Poullain, Antoine",Antoine Poullain,Poullain,"French, died 1780",0,,1780,,French,French,individual,
 50301,,Buttery,Buttery,Buttery,British,0,,,,British,British,individual,
 50302,,"Haass, Julius H.",Julius H. Haass,Haass,"American, 1856 - 1931",0,1856,1931,1851 to 1875,American,American,individual,
-50303,,"Marinkelle, Joseph",Joseph Marinkelle,Marinkelle,"Dutch, 1732 - 1776",1,1732,1776,1726 to 1750,Dutch,Dutch,individual,
 50304,,"Haass, Lillian Henkel",Lillian Henkel Haass,Haass,"American, 1879 - 1960",0,1879,1960,1876 to 1900,American,American,individual,
 50305,,"Lever, A.M.",A.M. Lever,Lever,,0,,,,,Other,individual,
 50306,,"Ranuzzini, Vincenzo",Vincenzo Ranuzzini,Ranuzzini,"Italian, 1726 - 1800",0,1726,1800,1726 to 1750,Italian,Italian,individual,
@@ -25110,8 +25107,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50364,,"Shepard, Josephine",Josephine Shepard,Shepard,American,0,,,,American,American,individual,
 50367,500079570,"Baynard, Ed",Ed Baynard,Baynard,"American, 1940 - 2016",1,1940,2016,1926 to 1950,American,American,individual,Q22116835
 50368,,"Velde III, Jan Jansz van de",Jan Jansz van de Velde III,Velde III,"Dutch, 1620 - 1662",1,1620,1662,1601 to 1650,Dutch,Dutch,individual,
-50369,,Joan Whalen,Joan Whalen Fine Arts,,,0,,,,,Other,corporate,
-50370,,"Jackson, Girard",Girard Jackson,Jackson,American,0,,,,American,American,individual,
 50373,,"Cowley, Brent",Brent Cowley,Cowley,"American, active early 21st century",1,,,,American,American,individual,
 50374,,"Kim, Myungwon",Myungwon Kim,Kim,"American, active early 21st century",1,,,,American,American,individual,
 50375,,"Srivijittakar, Kenneth",Kenneth Srivijittakar,Srivijittakar,"American, active early 21st century",1,,,,American,American,individual,
@@ -25264,6 +25259,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50570,,Karen Taylor Fine Art,Karen Taylor Fine Art,,,0,,,,,Other,corporate,
 50571,,"Noel, Amelia",Amelia Noel,Noel,"British, 1759 - 1818",1,1759,1818,1751 to 1775,British,British,individual,
 50574,,"Kölderer, Jorg",Jorg Kölderer,Kölderer,"German, active 1497 - 1540",1,1497,1540,1401 to 1500,German,German,individual,
+50641,,Anthony Dawson Fine Art,Anthony Dawson Fine Art,,,0,,,,,Other,corporate,
 50577,,"Grisebach, Eberhard",Eberhard Grisebach,Grisebach,"German, 1880 - 1945",0,1880,1945,1876 to 1900,German,German,individual,
 50580,,"Boucher, Lucien",Lucien Boucher,Boucher,"French, 1889 - 1971",1,1889,1971,1876 to 1900,French,French,individual,
 50581,,"Mackall, Lawton",Lawton Mackall,Mackall,American,0,,,,American,American,individual,
@@ -25317,7 +25313,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50638,,"Cohn, Richard A.",Richard A. Cohn,Cohn,,0,,,,,Other,individual,
 50639,,Martina Hamilton Gallery,Martina Hamilton Gallery,,,0,,,,,Other,corporate,
 50640,,Estates' Gallery,Estates' Gallery,,,0,,,,,Other,corporate,
-50641,,Anthony Dawson Fine Art,Anthony Dawson Fine Art,,,0,,,,,Other,corporate,
 50642,,The i.f.a. Galleries,The i.f.a. Galleries,,,0,,,,,Other,corporate,
 50643,,Hatay Stratton,Hatay Stratton,,,0,,,,,Other,corporate,
 50644,,Martin Diamond Fine Arts,Martin Diamond Fine Arts,,,0,,,,,Other,corporate,
@@ -25510,7 +25505,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50893,,"Béart, Mme Georges",Mme Georges Béart,Béart,"Belgian, 1883 - 1956",0,1883,1956,1876 to 1900,Belgian,Belgian,individual,
 50894,,"Counard-Cuypers, Raymond and Manette (Maria)",Raymond and Manette (Maria) Counard-Cuypers,Counard-Cuypers,he: died 1998; she: died 1991,0,,,,Belgian,Belgian,couple,
 50895,,Stofkooper,Stofkooper,Stofkooper,Belgian,0,,,,Belgian,Belgian,individual,
-50956,,Greg Kucera Gallery,Greg Kucera Gallery,,,0,,,,American,American,corporate,
 50897,500439657,"Goll van Franckenstein, Johan",Johan Goll van Franckenstein,Goll van Franckenstein,"Dutch, 1750 - 1821",0,1750,1821,1726 to 1750,Dutch,Dutch,individual,
 50899,500079090,"Flick, Robbert",Robbert Flick,Flick,"American, born Netherlands, 1939",1,1939,,1926 to 1950,American,American,individual,
 50901,500113080,"Pietersz, Doen",Doen Pietersz,Pietersz,"Netherlandish, c.1478 - c.1536",1,1478,1536,1401 to 1500,Netherlandish,Netherlandish,individual,
@@ -25558,7 +25552,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 50953,500445240,"Dereppe, Gabriel",Gabriel Dereppe,Dereppe,,0,,,,French,French,individual,
 50954,,"Hill, Susan",Susan Hill,Hill,,0,,,,,Other,individual,
 50955,,National Serigraph Society,National Serigraph Society,,,1,,,,American,American,corporate,
-51133,,Sol Print Studios,Sol Print Studios,,,1,,,,,Other,corporate,
+50956,,Greg Kucera Gallery,Greg Kucera Gallery,,,0,,,,American,American,corporate,
 50957,,McCormick Gallery,McCormick Gallery,,,0,,,,American,American,corporate,
 50958,,"Funk, Joe",Joe Funk,Funk,"American, active late 20th century",1,,,,American,American,individual,
 50959,,"Funck, David",David Funck,Funck,"German, 1642 - 1709",1,1642,1709,1601 to 1650,German,German,individual,
@@ -25671,6 +25665,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51130,,Gallery Paule Anglim,Gallery Paule Anglim,,,0,,,,American,American,corporate,
 51131,,Wolfs Art Gallery,Wolfs Art Gallery,,,0,,,,,Other,corporate,
 51132,,Goya Contemporary Gallery,Goya Contemporary Gallery,,,0,,,,American,American,corporate,
+51133,,Sol Print Studios,Sol Print Studios,,,1,,,,,Other,corporate,
 51134,,William Busta Gallery,William Busta Gallery,,,0,,,,,Other,corporate,
 51135,,Michael Lowe Gallery,Michael Lowe Gallery,,,0,,,,,Other,corporate,
 51136,,Sloans & Kenyon,Sloans & Kenyon,,,0,,,,American,American,corporate,
@@ -25779,7 +25774,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51258,,"Tasnadi, Charles",Charles Tasnadi,Tasnadi,"American, born Hungary, 1925 - 2008",1,1925,2008,1901 to 1925,American,American,individual,
 51259,,Lyon 16th Century,Lyon 16th Century,Lyon 16th Century,"French, 1500 - 1599",1,1500,1599,1401 to 1500,French,French,anonymous,
 51260,,"Horton, William G. Captain",Captain William G. Horton,Horton,"British, 1893 - 1961",1,1893,1961,1876 to 1900,British,British,individual,
-51415,,"Bond, Wilma Irene",Wilma Irene Bond,Bond,"American, 1921 - 1980",1,1921,1980,1901 to 1925,American,American,individual,
 51261,,Faenza 15th/16th Century,Faenza 15th/16th Century,Faenza 15th/16th Century,Central Italian,1,1400,1599,1300 to 1400,Italian,Italian,anonymous,
 51262,,"Oakes, Harry",Sergeant Harry Oakes,Oakes,"British, 1921 - 2012",1,1921,2012,1901 to 1925,British,British,individual,
 51263,,Duchy of Urbino 16th Century,Duchy of Urbino 16th Century,Duchy of Urbino 16th Century,"Italian, 16th century",1,1500,1599,1401 to 1500,Italian,Italian,anonymous,
@@ -25832,6 +25826,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51405,,"Harris, Pete",Pete Harris,Harris,"American, active 1950s",1,,,,American,American,individual,
 51406,,"Dutuit, Eugène",Eugène Dutuit,Dutuit,"French, 1807 - 1886",0,1807,1886,1801 to 1825,French,French,individual,
 51407,,"Forrer, Robert",Robert Forrer,Forrer,"Swiss, 1866 - 1947",0,1866,1947,1851 to 1875,Swiss,Swiss,individual,
+51415,,"Bond, Wilma Irene",Wilma Irene Bond,Bond,"American, 1921 - 1980",1,1921,1980,1901 to 1925,American,American,individual,
+51417,,Sarah Sauvin,Sarah Sauvin,,,0,,,,,Other,corporate,
 51418,,Monastery of Mattsee,Monastery of Mattsee,,,0,,,,Austrian,Austrian,corporate,
 51419,,"Renzis, Marcel de",Marcel de Renzis,de Renzis,"French, 1910 - 1998",1,1910,1998,1901 to 1925,French,French,individual,
 51420,,"Hamminger, Georg",Georg Hamminger,Hamminger,"German, died before 1893",0,,1893,,German,German,individual,
@@ -25883,6 +25879,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51482,500125735,"Young, Purvis",Purvis Young,Young,"American, 1943 - 2010",1,1943,2010,1926 to 1950,American,American,individual,Q7261674
 51483,500488214,"Bennett, Mary L.",Mary L. Bennett,Bennett,"American, born 1942",1,1942,,1926 to 1950,American,American,individual,Q63255885
 51484,500476164,"Williams, Irene",Irene Williams,Williams,"American, 1920 - 2015",1,1920,2015,1901 to 1925,American,American,individual,Q63247077
+51835,,"Gilbert, George",George Gilbert,Gilbert,,0,,,,,Other,individual,
 51485,500476196,"Speller, Henry",Henry Speller,Speller,"American, 1900 - 1997",1,1900,1997,1876 to 1900,American,American,individual,Q80057070
 51486,500476197,"Speller, Georgia",Georgia Speller,Speller,"American, 1931 - 1988",1,1931,1988,1926 to 1950,American,American,individual,Q63244855
 51487,500476195,"Smith, Mary T.",Mary T. Smith,Smith,"American, 1905 - 1995",1,1905,1995,1901 to 1925,American,American,individual,Q19520420
@@ -25976,6 +25973,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51619,,"Lowe, Rick",Rick Lowe,Lowe,"American, born 1961",1,1961,,1951 to 1975,American,American,individual,
 51620,500332855,"Cinto, Sandra",Sandra Cinto,Cinto,"Brazilian, born 1968",1,1968,,1951 to 1975,Brazilian,Other,individual,
 51621,,"Larsen, Mernet",Mernet Larsen,Larsen,"American, born 1940",1,1940,,1926 to 1950,American,American,individual,
+52164,,"Young, Laura",Laura Young,Young,,0,,,,,Other,individual,
 51622,,"Riley, Duke",Duke Riley,Riley,"American, born 1972",1,1972,,1951 to 1975,American,American,individual,
 51623,,"Segura, Esterio",Esterio Segura,Segura,"Cuban, born 1970",1,1970,,1951 to 1975,Cuban,Other,individual,
 51625,,"Tomaselli, Fred",Fred Tomaselli,Tomaselli,"American, born 1956",1,1956,,1951 to 1975,American,American,individual,
@@ -26079,7 +26077,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51832,,"Jaffe, William",William Jaffe,Jaffe,,0,,,,,Other,individual,
 51833,,"Scholtz, Robert",Robert Scholtz,Scholtz,"Hungarian, 1834 - 1912",0,1834,1912,1826 to 1850,Hungarian,Other,individual,
 51834,,William Pall Gallery,William Pall Gallery,,,0,,,,,Other,corporate,
-51835,,"Gilbert, George",George Gilbert,Gilbert,,0,,,,,Other,individual,
 51836,,"Bellerus, Balthazar",Balthazar Bellerus,Bellerus,"Flemish, active 1589 - 1634",1,1589,1634,1551 to 1600,Flemish,Flemish,individual,
 51837,,"van Keerbergen, Jan",Jan van Keerbergen,van Keerbergen,"Flemish, active 1586 - 1624",1,1586,1624,1551 to 1600,Flemish,Flemish,individual,
 51838,,"Verdussen, Hieronymus",Hieronymus Verdussen,Verdussen,"Flemish, 1552 - 1635",1,1552,1635,1551 to 1600,Flemish,Flemish,individual,
@@ -26129,7 +26126,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 51922,,"Churchill, Ranssalaer Emmet",Ranssalaer Emmet Churchill,Churchill,"American, 1820 - 1892",1,1820,1892,1801 to 1825,American,American,individual,
 51923,,"Denison, Daniel",Daniel Denison,Denison,"American, 1815 - 1899",1,1815,1899,1801 to 1825,American,American,individual,
 51925,,"Chamberlain, William Gunnison",William Gunnison Chamberlain,Chamberlain,"American, 1815 - 1910",1,1815,1910,1801 to 1825,American,American,individual,
-52100,,"Clark, Nancy Rutter",Nancy Rutter Clark,Clark,,0,,,,,Other,individual,
 51926,,"Powelson, Benjamin F.",Benjamin F. Powelson,Powelson,"American, 1823 - 1885",1,1823,1885,1801 to 1825,American,American,individual,
 51927,,Wagoner & McDonnald,Wagoner & McDonnald,Wagoner & McDonnald,"American, active 1860s",1,1800,1899,1776 to 1800,American,American,individual,
 51928,,"Stacy, George",George Stacy,Stacy,"American, active 1860s",1,1800,1899,1776 to 1800,American,American,individual,
@@ -26239,6 +26235,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52095,,"Graves, Kris",Kris Graves,Graves,"American, born 1982",1,1982,,1976 to 2000,American,American,individual,Q85104376
 52098,,Gallery Wendi Norris,Gallery Wendi Norris,,,0,,,,,Other,corporate,
 52099,,"Sokol, Gary",Gary Sokol,Sokol,,0,,,,,Other,individual,
+52100,,"Clark, Nancy Rutter",Nancy Rutter Clark,Clark,,0,,,,,Other,individual,
 52101,500490677,"Howard, Herman",Herman Howard,Howard,"American, 1942 - 1980",1,1942,1980,1926 to 1950,American,American,individual,
 52102,,"Cowans, Adger",Adger Cowans,Cowans,"American, born 1936",1,1936,,1926 to 1950,American,American,individual,Q26695649
 52103,,"Robinson, Herb",Herb Robinson,Robinson,"American, born 1942",1,1942,,1926 to 1950,American,American,individual,
@@ -26294,7 +26291,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52161,,"Walker, Darren",Darren Walker,Walker,,0,,,,,Other,individual,
 52162,,"Barton, Ezekiel",Ezekiel Barton,Barton,"British, 1781 - 1855",1,1781,1855,1776 to 1800,British,British,individual,
 52163,,Art Information Volunteers,Art Information Volunteers,,,0,,,,,Other,purchase_fund,
-52164,,"Young, Laura",Laura Young,Young,,0,,,,,Other,individual,
 52165,,"Schiffman, Michael Louis Dr.",Dr. Michael Louis Schiffman,Schiffman,,0,,,,,Other,individual,
 52168,,"Letscher, Lance",Lance Letscher,Letscher,"American, born 1962",1,1962,,1951 to 1975,American,American,individual,
 52169,,Martha Richardson Fine Art,Martha Richardson Fine Art,,,0,,,,,Other,corporate,
@@ -26449,8 +26445,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52481,,"Rizzi, Filippo",Filippo Rizzi,Rizzi,"Italian, active 18th century",1,1700,1800,1651 to 1700,Italian,Italian,individual,
 52483,,"Marcaggi, Felipe",Felipe Marcaggi,Marcaggi,"Italian, active 18th century",1,1700,1800,1651 to 1700,Italian,Italian,individual,
 52484,,"Zatta, Antonio",Antonio Zatta,Zatta,"Italian, 1722 - 1804",1,1722,1804,1701 to 1725,Italian,Italian,individual,
-52605,,"Johnson, James and Heather",James and Heather Johnson,Johnson,,0,,,,,Other,purchase_fund,
-52606,,Kend Family Fund,Kend Family Fund,,,0,,,,,Other,purchase_fund,
 52485,,"Trivisanus, Josephus Marchio",Josephus Marchio Trivisanus,Trivisanus,"Italian, active 18th century",0,1700,1800,1651 to 1700,Italian,Italian,individual,
 52486,,"Specklin, Veit",Veit Specklin,Specklin,"German, active c. 1525 - 1550",1,1525,1550,1501 to 1550,German,German,individual,
 52487,,Blain,Blain,Blain,"French, active 18th century",1,1700,1800,1651 to 1700,French,French,individual,
@@ -26503,8 +26497,11 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52594,,Marc Straus Gallery,Marc Straus Gallery,,,0,,,,,Other,corporate,
 52603,,"Schrauwen, Adrianus",Adrianus Schrauwen,Schrauwen,"Dutch, 1834 - 1920",0,1834,1920,1826 to 1850,Dutch,Dutch,individual,
 52604,,"Lee, Paul Phillip",Paul Phillip Lee,Lee,,0,,,,,Other,purchase_fund,
+52605,,"Johnson, James and Heather",James and Heather Johnson,Johnson,,0,,,,,Other,purchase_fund,
+52606,,Kend Family Fund,Kend Family Fund,,,0,,,,,Other,purchase_fund,
 52608,500233476,"Mezzanotte, Paolo",Paolo Mezzanotte,Mezzanotte,"Italian, 1878 - 1969",1,1878,1969,1876 to 1900,Italian,Italian,individual,
 52611,,Crater's Union Photographic Gallery,Crater's Union Photographic Gallery,,"American, active 1860s",1,,,,American,American,corporate,
+53234,,"Rosenthal, Ernest",Ernest Rosenthal,Rosenthal,,1,,,,,Other,individual,
 52612,500060952,"Viala, Eugène",Eugène Viala,Viala,"French, 1859 - 1913",1,1859,1913,1851 to 1875,French,French,individual,
 52613,,"Ravel, Edouard",Edouard Ravel,Ravel,"Swiss, 1847 - 1920",1,1847,1920,1826 to 1850,Swiss,Swiss,individual,
 52615,,"Orsolini, Carlo",Carlo Orsolini,Orsolini,"Italian, 1703 - 1781",1,1703,1781,1701 to 1725,Italian,Italian,individual,
@@ -26666,6 +26663,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52867,,"Morse, Sydney",Sydney Morse,Morse,"British, 1854 - 1929",0,1854,1929,1851 to 1875,British,British,individual,
 52873,,"Beerendrecht, Johannes Pietersz",Johannes Pietersz Beerendrecht,Beerendrecht,"Dutch, active 1614 - 1645",1,1614,1645,1601 to 1650,Dutch,Dutch,individual,
 52874,,"Kloeting, Symon",Symon Kloeting,Kloeting,"Dutch, active from 1645",1,1645,1700,1601 to 1650,Dutch,Dutch,individual,
+52875,,L. Sachse & Co.,L. Sachse & Co.,,,1,,,,,Other,corporate,
 52876,500074259,"Manuel Frères, Gaston and  Lucien",G. L. Manuel Frères,Manuel Frères,"French, active 1913 - 1939",1,1913,1939,1901 to 1925,French,French,corporate,Q42424625
 52877,,"Barry, David Francis",David Francis Barry,Barry,"American, 1854 - 1934",1,1854,1934,1851 to 1875,American,American,individual,Q29860806
 52878,,"Frauenholz, Johann Friedrich",Johann Friedrich Frauenholz,Frauenholz,"German, 1758 - 1822",0,1758,1822,1751 to 1775,German,German,individual,
@@ -26716,7 +26714,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52945,500127931,"Ayón, Belkis",Belkis Ayón,Ayón,"Cuban, 1967 - 1999",1,1967,1999,1951 to 1975,Cuban,Other,individual,Q4883043
 52946,,"Marbeau, Pierre",Pierre Marbeau,Marbeau,"French, 1901 - 1991",0,1901,1991,1901 to 1925,French,French,individual,
 52948,,"Petitjean, Charles M.",Charles M. Petitjean,Petitjean,"French, died c.1925",0,,1925,,French,French,individual,
-53118,,"Garrett, Ellwood",Ellwood Garrett,Garrett,"American, 1815 - 1910",1,1815,1910,1801 to 1825,American,American,individual,
 52949,,"Cartagena, Alejandro",Alejandro Cartagena,Cartagena,"Mexican, born Dominican Republic, 1977",1,1977,,1976 to 2000,Mexican,Mexican,individual,Q107193024
 52950,,"Gewirz, Victoria",Victoria Gewirz,Gewirz,"American, born 1961",1,1961,,1951 to 1975,American,American,individual,
 52951,500010509,"Delaistre, François-Nicolas",François-Nicolas Delaistre,Delaistre,"French, 1746 - 1832",1,1746,1832,1726 to 1750,French,French,individual,Q3084399
@@ -26769,6 +26766,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53015,,"Moses, Bernard",Bernard Moses,Moses,"American, born Germany, 1832 - 1899",1,1832,1899,1826 to 1850,American,American,individual,
 53016,,"Butts, Ansel R.",Ansel R. Butts,Butts,"American, born Canada, 1832 - 1912",1,1832,1912,1826 to 1850,American,American,individual,
 53017,,"Bowser, David Bustill",David Bustill Bowser,Bowser,"American, 1820 - 1900",1,1820,1900,1801 to 1825,American,American,individual,Q5231959
+53235,,Webber Gallery,Webber Gallery,,,0,,,,,Other,corporate,
 53018,,"Urlin, G. C.",G. C. Urlin,Urlin,"American, born Canada, 1854 - 1942",1,1854,1942,1851 to 1875,American,American,individual,
 53019,,Hennigar Bros.,Hennigar Bros.,,"American, active 1870s - 1890s",1,1870,1899,1851 to 1875,American,American,corporate,
 53021,,"Ferguson, William F.",William F. Ferguson,Ferguson,"American, born Scotland, 1843 - 1926",1,1843,1926,1826 to 1850,American,American,individual,
@@ -26816,6 +26814,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53065,,"Sawyer, Llewellyn A.",Llewellyn A. Sawyer,Sawyer,"American, 1844 - 1923",1,1844,1923,1826 to 1850,American,American,individual,
 53067,,"Johnston, J. S.",J. S.  Johnston,Johnston,"American, c. 1839 - 1899",1,1839,1899,1826 to 1850,American,American,individual,
 53068,,Buell & Seaver,Buell & Seaver,,"American, active 1850s - 1870s",1,,,,American,American,corporate,
+53236,,"Ruocco, Jeff",Jeff Ruocco,Ruocco,,1,,,,,Other,individual,
 53069,,"Campbell, Alfred S.",Alfred S. Campbell,Campbell,"American, born England, 1840 - 1912",1,1840,1912,1826 to 1850,American,American,individual,Q42315080
 53071,,"Varley, Thomas Parker",Thomas Parker Varley,Varley,"American, born England, 1829 - 1893",1,1829,1893,1826 to 1850,American,American,individual,
 53072,,"Grier, Andrew A.",Andrew A. Grier,Grier,"American, 1839 - 1912",1,1839,1912,1826 to 1850,American,American,individual,
@@ -26860,7 +26859,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53114,,"Reading, John T.",John T. Reading,Reading,"American, born England, 1834",1,1834,,1826 to 1850,American,American,individual,
 53116,,"Putnam, George T.",George T. Putnam,Putnam,"American, 1846 - 1918",1,1846,1918,1826 to 1850,American,American,individual,
 53117,,"Tubbs, G.S., Son & Co.","G.S. Tubbs, Son & Co.",,"American, active 1860s",1,1860,1869,1851 to 1875,American,American,corporate,
-53515,,"George Miller and Son, New York","George Miller and Son, New York",,,1,,,,,Other,corporate,
+53118,,"Garrett, Ellwood",Ellwood Garrett,Garrett,"American, 1815 - 1910",1,1815,1910,1801 to 1825,American,American,individual,
 53119,,"Alden, Augustus E.",Augustus E. Alden,Alden,"American, 1837 - 1914",1,1837,1914,1826 to 1850,American,American,individual,
 53120,,French & Sawyer,French & Sawyer,,"American, active 1860s",1,1860,1869,1851 to 1875,American,American,corporate,
 53121,,"Hull, Sedgwick S.",Sedgwick S. Hull,Hull,"American, c. 1832 - 1895",1,1832,1895,1826 to 1850,American,American,individual,
@@ -26956,12 +26955,8 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53227,,"Fievet, Daniel",Daniel Fievet,Fievet,German,1,,,,German,German,individual,
 53228,500015993,"Meyer, Dietrich the Elder",Dietrich Meyer the Elder,Meyer,"Swiss, 1572 - 1658",1,1572,1658,1551 to 1600,Swiss,Swiss,individual,
 53229,,Broadway Gallery,Broadway Gallery,,,0,,,,,Other,corporate,
-53377,500079019,"Kemmler, Florence",Florence Kemmler,Kemmler,"American, 1900 - 1972",1,1900,1972,1876 to 1900,American,American,individual,
 53231,,"Montauban van Swijndrecht, Hubertus Michiel",Hubertus Michiel Montauban van Swijndrecht,Montauban van Swijndrecht,"Dutch, 1841 - 1929",0,1841,1929,1826 to 1850,Dutch,Dutch,individual,
 53232,,"Bianchi, Jan Frederik",Jan Frederik Bianchi,Bianchi,"Dutch, 1878 - 1963",0,1878,1963,1876 to 1900,Dutch,Dutch,individual,
-53234,,"Rosenthal, Ernest",Ernest Rosenthal,Rosenthal,,1,,,,,Other,individual,
-53235,,Webber Gallery,Webber Gallery,,,0,,,,,Other,corporate,
-53236,,"Ruocco, Jeff",Jeff Ruocco,Ruocco,,1,,,,,Other,individual,
 53237,,"Murff, Zora J",Zora J Murff,Murff,"American, born 1987",1,1987,,1976 to 2000,American,American,individual,Q107354808
 53238,,"Hart, Edward H.",Edward H. Hart,Hart,"American, active 1890s - 1900s",1,1890,1910,1876 to 1900,American,American,individual,
 53243,,"Wiese, Erich",Erich Wiese,Wiese,"German, born 1891",0,1891,,1876 to 1900,German,German,individual,
@@ -27067,6 +27062,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53374,,"Leopold I, Prince of Anhalt-Dessau","Leopold I, Prince of Anhalt-Dessau",,"German, 1676 - 1747",0,1676,1747,1651 to 1700,German,German,individual,
 53375,,"Kollmann, Carl Julius",Carl Julius Kollmann,Kollmann,"German, 1820 - 1875",0,1820,1875,1801 to 1825,German,German,individual,
 53376,,"Thompson, Lawson",Lawson Thompson,Thompson,"British, 1837 - 1919",0,1837,1919,1826 to 1850,British,British,individual,
+53377,500079019,"Kemmler, Florence",Florence Kemmler,Kemmler,"American, 1900 - 1972",1,1900,1972,1876 to 1900,American,American,individual,
 53378,500329891,"Bell, Hugh",Hugh Bell,Bell,"American, 1927 - 2012",1,1927,2012,1926 to 1950,American,American,individual,Q5929992
 53379,,"Rose, John K.",John K. Rose,Rose,"American, born Canada, 1849 - 1932",1,1849,1932,1826 to 1850,American,American,individual,
 53380,,"Hopkins, Benjamin S.",Benjamin S. Hopkins,Hopkins,"American, born Canada, 1859 - 1915",1,1859,1915,1851 to 1875,American,American,individual,
@@ -27175,6 +27171,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53509,,"Hagefstration, John",John Hagefstration,Hagefstration,,0,,,,,Other,individual,
 53510,,"Wrighton, Bruce",Bruce Wrighton,Wrighton,"American, 1950 - 1988",1,1950,1988,1926 to 1950,American,American,individual,Q18421848
 53514,,"Blue Moon Gallery, Yorktown Heights, NY","Blue Moon Gallery, Yorktown Heights, NY",,,1,,,,,Other,corporate,
+53515,,"George Miller and Son, New York","George Miller and Son, New York",,,1,,,,,Other,corporate,
 53517,,"Gachet, Paul Louis Lucien",Paul Louis Lucien Gachet,Gachet,"French, 1873 - 1962",1,1873,1962,1851 to 1875,French,French,individual,
 53520,,Ben Elwes Fine Art,Ben Elwes Fine Art,,,0,,,,,Other,corporate,
 53521,,"Larsson, Karin Bergöö",Karin Bergöö Larsson,Larsson,"Swedish, 1859 - 1928",1,1859,1928,1851 to 1875,Swedish,Swedish,individual,Q462529
