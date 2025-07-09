@@ -10114,6 +10114,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 11188,11195,Rosignano,"Rosignano, Conte Miroglio di",,Preferred Name
 11189,11196,Argentieri,"Argentieri, Claudio",,Preferred Name
 11190,11197,Breschi,"Breschi, Giulio, Pier",,Preferred Name
+34391,9111,,Fenway Art Center,,Variant
 11196,11203,Krafft the Elder,"Krafft the Elder, Hans",,Preferred Name
 11197,11204,Klarner,"Klarner, Thomas G., Mr.",,Preferred Name
 11199,11206,Blackburn,"Blackburn, Robert",,Preferred Name
@@ -10359,7 +10360,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 11631,11638,Castell,"Castell, Robert",,Preferred Name
 11632,11639,Citeroni,Citeroni,,Preferred Name
 11633,11640,Costaguti,"Costaguti, Giovanni Battista",,Preferred Name
-11634,11641,Charm,"Charm, Charles",,Preferred Name
 11635,11642,Tappan,"Tappan, Lewis",,Preferred Name
 11636,11643,Dahlberg,"Dahlberg, Erik Jönson",,Preferred Name
 11637,11644,Rè,"Rè, Marc'Antonio dal",,Preferred Name
@@ -10761,7 +10761,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 13177,13184,Master of the Small Landscapes,Master of the Small Landscapes,,Preferred Name
 13187,13194,Bernheim de Villers,"Bernheim de Villers, Gaston",,Preferred Name
 13195,13202,Kienholz,"Kienholz, Nancy Reddin",,Preferred Name
-13499,13506,Black,"Black, James Wallace",,Preferred Name
 13215,13222,Oldenburg and Ms. Coosje van Bruggen,"Oldenburg and Ms. Coosje van Bruggen, Claes, Mr.",,Preferred Name
 13216,13223,,"Rockefeller Foundation, The",,Preferred Name
 13217,13224,,"Lukacs, Elizabeth C., Estate of",,Preferred Name
@@ -10856,6 +10855,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 13493,13500,Langenheim,"Langenheim, Frederick",,Preferred Name
 13496,13503,Vance,"Vance, Robert H.",,Preferred Name
 13497,13504,Brady,"Brady, Mathew B.",,Preferred Name
+13499,13506,Black,"Black, James Wallace",,Preferred Name
 13501,13508,Gardner,"Gardner, Alexander",,Preferred Name
 13502,13509,Russell,"Russell, Andrew Joseph",,Preferred Name
 13503,13510,Kimball,"Kimball, Myron H.",,Preferred Name
@@ -11040,7 +11040,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 14501,14508,Delteil,"Delteil, Loys",,Preferred Name
 14503,14510,,"Peter Freeman, Inc.",,Preferred Name
 14520,14527,Widener II,"Widener II, Peter Arrell Brown",,Preferred Name
-17827,17834,,Lutz Reister,,Preferred Name
 14531,14538,Arland,"Arland, Marcel",,Preferred Name
 14532,14539,Hastings,"Hastings, Sir Jacob Astley, 16th Baron",,Preferred Name
 14533,14540,Hastings,"Hastings, Delaval Loftus Astley, 18th Baron",,Preferred Name
@@ -11133,7 +11132,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 14868,14875,Faurer,"Faurer, Louis",,Preferred Name
 14871,14878,Harlan,"Harlan, Felix",,Preferred Name
 14872,14879,Weaver,"Weaver, Carol",,Preferred Name
-34391,9111,,Fenway Art Center,,Variant
 14881,14888,Barrett,"Barrett, Lawrence",,Preferred Name
 14883,14890,,"Bromberg, Joseph",,Preferred Name
 14884,14891,Zadok,"Zadok, Charles, Mr. and Mrs.",,Preferred Name
@@ -11514,6 +11512,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 17824,17831,Rysselberghe,"Rysselberghe, Théo van",,Preferred Name
 17825,17832,Vibert,"Vibert, Pierre-Eugène",,Preferred Name
 17826,17833,Malevich,"Malevich, Kazimir",,Preferred Name
+17827,17834,,Lutz Reister,,Preferred Name
 17828,17835,Willette,"Willette, Adolphe Léon",,Preferred Name
 17829,17836,Darzens,"Darzens, Rodolphe",,Preferred Name
 17830,17837,Antoine,"Antoine, André",,Preferred Name
@@ -24871,6 +24870,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 42979,36625,Procaccini,"Procaccini, Ercole il Giovane",,Preferred Name
 42980,36626,Lugardon,"Lugardon, Jean Leonard",,Preferred Name
 42981,36627,Marot,"Marot, Daniel the Younger",,Preferred Name
+42982,36628,Gallagher,"Gallagher, Ellen",,Preferred Name
 42992,36633,,Atelier Desjobert,,Preferred Name
 42993,36634,Biberacensis,"Biberacensis, Burchardus",,Preferred Name
 43000,36641,Noorian,"Noorian, Daniel K.",,Preferred Name
@@ -34724,10 +34724,12 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63724,54185,Darton,"Darton, William",,Preferred Name
 63725,1014,,,,Variant
 63727,54186,,"Convent of Santa Maria delle Grazie, Milan",,Preferred Name
+63729,54188,Lewen,"Lewen, Si",,Preferred Name
 63732,54190,Gumby,"Gumby, Alteronce",,Preferred Name
 63733,54191,Selden,"Selden, Ayesha",,Preferred Name
 63736,54194,Root,"Root, Marcus Aurelius",,Preferred Name
 63737,54195,Root,"Root, Samuel",,Preferred Name
+63738,54196,Sense,"Sense, Sarah",,Preferred Name
 63739,54197,Alom,"Alom, Juan Carlos",,Preferred Name
 63740,54198,Paul,"Paul, Newton",,Preferred Name
 63741,54199,Rigol,"Rigol, Jorge",,Preferred Name
@@ -34761,13 +34763,17 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63832,52318,Derby,,,Full Name
 63835,34154,Zaidenberg,"Zaidenberg, A.",,Variant
 63837,54287,,"University of Nebraska, Omaha",,Preferred Name
+63839,54289,Gitman,"Gitman, Victoria",,Preferred Name
 63840,53526,Martínez,"Martínez, César Augusto",,Variant
+63841,54290,Rubins,"Rubins, Nancy",,Preferred Name
 63844,54293,Goldstein,"Goldstein, Robert D.",,Preferred Name
 63849,54298,d'Argenville,"d'Argenville, Antoine Joseph Dezallier",,Preferred Name
 63850,52752,Alu,,,Variant
 63851,52752,Alou,,,Variant
 63852,54299,Baratta,"Baratta, Alessandro",,Preferred Name
 63863,54309,,Cardinal Point Press,,Preferred Name
+63866,54312,Ford,"Ford, Leslie",,Preferred Name
+63869,54315,Niesman,"Niesman, Mark",,Preferred Name
 63870,53040,,,,Nickname/Pseudonym
 63878,54322,Underhill,"Underhill, Francis J",,Preferred Name
 63882,54325,Sieger,"Sieger, Victor",,Preferred Name
@@ -34803,7 +34809,10 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63931,54368,,Auktionshaus zeitGenossen,,Preferred Name
 63934,54371,Albrizzi,"Albrizzi, Alvise",,Preferred Name
 63935,54372,,Sanquirico Brothers,,Preferred Name
+63938,54375,Gibbs,"Gibbs, Ewan",,Preferred Name
 63942,54379,,Black Box Press Studio,,Preferred Name
+63947,54384,,"Evil Prints, St. Louis",,Preferred Name
+63948,54385,,"Peacock Visual Arts, Aberdeen, Scotland",,Preferred Name
 63949,7937,Perky,Perky Ms.,,Variant
 63955,40122,Stanley,"Stanley, Jane M.",,Variant
 63964,54399,,Galerie Simonne Stern,,Preferred Name
