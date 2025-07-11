@@ -10114,7 +10114,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 11188,11195,Rosignano,"Rosignano, Conte Miroglio di",,Preferred Name
 11189,11196,Argentieri,"Argentieri, Claudio",,Preferred Name
 11190,11197,Breschi,"Breschi, Giulio, Pier",,Preferred Name
-34391,9111,,Fenway Art Center,,Variant
+32739,2116,Picard,"Picard, Le",,Variant
 11196,11203,Krafft the Elder,"Krafft the Elder, Hans",,Preferred Name
 11197,11204,Klarner,"Klarner, Thomas G., Mr.",,Preferred Name
 11199,11206,Blackburn,"Blackburn, Robert",,Preferred Name
@@ -10206,6 +10206,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 11400,11407,Cousin the Elder,"Cousin the Elder, Jean",,Preferred Name
 11401,11408,Delafosse,"Delafosse, Jean Charles",,Preferred Name
 11402,11409,Mortain,"Mortain, Gilles de",,Preferred Name
+33555,4952,Ascian,Ascian,,Variant
 11403,11410,Derand,"Derand, François",,Preferred Name
 11406,11413,Dubreuil,"Dubreuil, Jean",,Preferred Name
 11407,11414,Dumont,"Dumont, Gabriel Pierre Martin",,Preferred Name
@@ -10762,6 +10763,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 13187,13194,Bernheim de Villers,"Bernheim de Villers, Gaston",,Preferred Name
 13195,13202,Kienholz,"Kienholz, Nancy Reddin",,Preferred Name
 13215,13222,Oldenburg and Ms. Coosje van Bruggen,"Oldenburg and Ms. Coosje van Bruggen, Claes, Mr.",,Preferred Name
+34391,9111,,Fenway Art Center,,Variant
 13216,13223,,"Rockefeller Foundation, The",,Preferred Name
 13217,13224,,"Lukacs, Elizabeth C., Estate of",,Preferred Name
 13252,13259,Hugo,"Hugo, Herman",,Preferred Name
@@ -17384,6 +17386,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 30784,30791,Smith,"Smith, Joseph de Carle",,Preferred Name
 30785,30792,,J.P.L. Fine Arts,,Preferred Name
 30786,30793,,Gallery Kekko,,Preferred Name
+30793,30800,Greenberg,"Greenberg, Howard, Mr.",,Preferred Name
 30795,30802,Blayds,"Blayds, Thomas",,Preferred Name
 30796,30803,Harris,Harris,,Preferred Name
 30797,30804,Habich,"Habich, Edward",,Preferred Name
@@ -18883,7 +18886,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 32735,2113,da Sangallo,"da Sangallo, Francesco",,Variant Index Name
 32736,2113,Margotta,"Margotta, Il",,Variant
 32738,2115,Gaggini,"Gaggini, Domenico",,Variant
-32739,2116,Picard,"Picard, Le",,Variant
 32740,2120,Balducci,"Balducci, Giovanni",,Variant
 32741,2120,Giovanni da Pisa,Giovanni da Pisa,,Variant
 32744,2122,Goetz,"Goetz, Johannes",,Variant
@@ -19648,7 +19650,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 33552,4920,Master PPW,Master PPW,,Variant
 33553,4922,Sanders Alexander van Brugsal,Sanders Alexander van Brugsal,,Variant
 33554,4929,Hammer,"Hammer, Wolf",,Variant
-33555,4952,Ascian,Ascian,,Variant
 33556,4954,Meckenem,"Meckenem, Israhel van the Younger",,Variant
 33557,4969,Menil,"Menil, Elie du",,Variant
 33558,4973,Meusnier,"Meusnier, Louis",,Variant
@@ -34473,6 +34474,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63161,53719,,Corcoran/Contemporary Art Acquisition,,Preferred Name
 63162,53720,Vrints,"Vrints, Joan Baptista",,Preferred Name
 63163,53720,Vrints,"Vrints, Joannes Baptista",,Variant
+63164,53721,Leipzig,"Leipzig, Arthur",,Preferred Name
 63168,29043,Harris,"Harris, Lionel",,Variant
 63169,53725,Mochary,"Mochary, Mary",,Preferred Name
 63170,53726,Keller,"Keller, Bernhard",,Preferred Name
