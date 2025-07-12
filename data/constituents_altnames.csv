@@ -26201,6 +26201,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 46059,39268,Weatherley,"Weatherley, Alan",,Preferred Name
 46063,39272,Humble,"Humble, John",,Preferred Name
 46064,39273,Groover,"Groover, Jan",,Preferred Name
+46066,39275,Raffaëlli,"Raffaëlli, Pierre Auguste",,Preferred Name
 46072,39281,Husebye,"Husebye, Terry",,Preferred Name
 46075,39284,Hernandez,"Hernandez, Anthony",,Preferred Name
 46081,39290,Jamison,"Jamison, Alex",,Preferred Name
@@ -26391,6 +26392,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 46821,40030,Carbonati,"Carbonati, Antonio",,Preferred Name
 46825,40034,Cheston,"Cheston, Charles Sidney",,Preferred Name
 46828,40037,Courtney,"Courtney, A.",,Preferred Name
+46831,40040,Debaines,"Debaines, Alfred-Louis Brounet",,Preferred Name
 46835,40044,Faed,"Faed, James",,Preferred Name
 46836,40045,Figura,"Figura, Hans",,Preferred Name
 46845,40054,Howarth,"Howarth, Albany E.",,Preferred Name
@@ -34727,6 +34729,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63725,1014,,,,Variant
 63727,54186,,"Convent of Santa Maria delle Grazie, Milan",,Preferred Name
 63729,54188,Lewen,"Lewen, Si",,Preferred Name
+63730,54189,Millet,"Millet, Pierre",,Preferred Name
 63732,54190,Gumby,"Gumby, Alteronce",,Preferred Name
 63733,54191,Selden,"Selden, Ayesha",,Preferred Name
 63736,54194,Root,"Root, Marcus Aurelius",,Preferred Name
@@ -34833,13 +34836,16 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64000,26870,Levis,"Levis, Joseph de",,Variant
 64009,8968,Paterson,"Paterson, W.B.",,Variant
 64010,54437,,Espacio 1414,,Preferred Name
+64015,48450,Shear,,,Original Name
 64019,54004,Arrechea Zambrano,"Arrechea Zambrano, Alexander Jésus",,Member of
 64020,54004,Castillo Valdés,"Castillo Valdés, Marco Antonio",,Member of
 64021,54004,Rodriguez Sánchez,"Rodriguez Sánchez, Dagoberto",,Member of
 64024,23407,Stegeman,"Stegeman, Melissa J.",,Variant
+64029,11980,,Lower Belvedere,,Variant
 64038,8214,Becht,"Becht, Marguerite Carmel",,Maiden Name
 64039,8214,Wilson,"Wilson, Marguerite Carmel",,Variant
 64040,54457,Schneider,"Schneider, Christopher",,Preferred Name
+64041,54457,,,,Variant
 64042,1056,Weston,"Weston, Dody",,Nickname/Pseudonym
 64043,1056,Woodward,"Woodward, Margaret",,Maiden Name
 64049,54459,Pretsch,"Pretsch, Paul",,Preferred Name
