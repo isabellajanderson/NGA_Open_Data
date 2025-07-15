@@ -1225,7 +1225,6 @@ parentobjectid,childobjectid,relationship
 73970,73976,separable
 113654,113694,inseparable
 167464,167459,separable
-79522,140749,separable
 93627,93652,inseparable
 41847,41858,separable
 7330,216057,separable
@@ -3919,7 +3918,6 @@ parentobjectid,childobjectid,relationship
 60910,164424,inseparable
 30894,31021,separable
 34376,34389,separable
-79522,140758,separable
 132981,134226,separable
 1865,1875,separable
 114898,114999,inseparable
@@ -4564,7 +4562,6 @@ parentobjectid,childobjectid,relationship
 112962,155237,inseparable
 73173,73181,separable
 43345,43394,separable
-79522,140746,separable
 145288,152147,separable
 114008,114118,inseparable
 214587,214602,inseparable
@@ -5021,7 +5018,6 @@ parentobjectid,childobjectid,relationship
 7328,216093,separable
 215356,215357,inseparable
 60910,164499,inseparable
-79522,140744,separable
 137386,137314,separable
 55872,55871,separable
 64890,64901,inseparable
@@ -5800,7 +5796,6 @@ parentobjectid,childobjectid,relationship
 139608,139605,separable
 163596,161560,separable
 114855,114883,inseparable
-79522,140753,separable
 60910,164533,inseparable
 137186,138625,separable
 31094,31147,separable
@@ -8561,7 +8556,6 @@ parentobjectid,childobjectid,relationship
 5865,5879,separable
 214673,214686,inseparable
 54572,54613,separable
-79522,140750,separable
 115077,115142,inseparable
 115077,115152,inseparable
 208475,210720,inseparable
@@ -9450,7 +9444,6 @@ parentobjectid,childobjectid,relationship
 64988,65004,inseparable
 140758,144333,inseparable
 2061,2063,separable
-79522,140751,separable
 54058,165097,inseparable
 108011,108061,inseparable
 114386,114431,inseparable
@@ -10852,9 +10845,7 @@ parentobjectid,childobjectid,relationship
 75213,75231,inseparable
 165833,216550,separable
 76619,76677,inseparable
-79522,140740,separable
 224163,225915,separable
-79522,140752,separable
 114640,114748,inseparable
 206106,206114,inseparable
 57577,57590,inseparable
@@ -11879,7 +11870,6 @@ parentobjectid,childobjectid,relationship
 65172,65193,inseparable
 81234,162182,inseparable
 124179,124173,separable
-79522,140748,separable
 139087,154563,inseparable
 103495,103869,separable
 93573,93582,inseparable
@@ -13609,7 +13599,6 @@ parentobjectid,childobjectid,relationship
 156584,158392,separable
 98057,98047,separable
 125530,125782,separable
-79522,140754,separable
 32997,33003,separable
 210178,216854,inseparable
 214489,214502,inseparable
@@ -14276,7 +14265,6 @@ parentobjectid,childobjectid,relationship
 196335,206495,inseparable
 114386,114501,inseparable
 58112,58130,inseparable
-79522,140741,separable
 5865,5868,separable
 152271,145480,separable
 70997,71016,inseparable
@@ -16103,7 +16091,6 @@ parentobjectid,childobjectid,relationship
 150380,152392,separable
 71131,71130,separable
 2634,2635,inseparable
-79522,140757,separable
 122491,144481,inseparable
 64198,64197,separable
 131384,219658,inseparable
@@ -16310,7 +16297,6 @@ parentobjectid,childobjectid,relationship
 60910,164634,inseparable
 107043,107093,inseparable
 103901,103906,separable
-79522,140759,separable
 4802,4830,separable
 129926,207151,inseparable
 198420,205139,inseparable
@@ -16818,7 +16804,6 @@ parentobjectid,childobjectid,relationship
 207652,208037,inseparable
 65316,65319,inseparable
 37154,37162,inseparable
-79522,140756,separable
 31332,31419,separable
 114898,114923,inseparable
 33051,33075,inseparable
@@ -17813,7 +17798,6 @@ parentobjectid,childobjectid,relationship
 60763,60764,inseparable
 59572,59599,separable
 47368,47369,inseparable
-79522,140755,separable
 52632,52774,inseparable
 128982,129853,separable
 214991,215004,inseparable
@@ -19016,7 +19000,6 @@ parentobjectid,childobjectid,relationship
 65347,65449,inseparable
 11951,11956,separable
 129926,207460,inseparable
-79522,140743,separable
 48931,48951,inseparable
 205204,169288,separable
 166332,205959,inseparable
@@ -20510,7 +20493,6 @@ parentobjectid,childobjectid,relationship
 219444,217387,separable
 44590,44591,inseparable
 44544,44545,inseparable
-79522,140745,separable
 107162,107177,inseparable
 60694,60729,inseparable
 97317,97919,separable
@@ -22114,7 +22096,6 @@ parentobjectid,childobjectid,relationship
 62354,62356,inseparable
 163762,167267,separable
 70997,71013,inseparable
-79522,140747,separable
 103452,99700,separable
 2135,2146,separable
 115077,115116,inseparable
@@ -26371,7 +26352,6 @@ parentobjectid,childobjectid,relationship
 56118,56117,separable
 54572,54644,separable
 163315,163635,inseparable
-79522,140760,separable
 69668,69703,inseparable
 61911,61925,separable
 84666,84667,inseparable
@@ -27727,7 +27707,6 @@ parentobjectid,childobjectid,relationship
 5032,5035,separable
 7330,216059,separable
 31094,31158,separable
-79522,140742,separable
 104069,104168,separable
 112860,143601,inseparable
 99644,101108,separable
