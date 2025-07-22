@@ -26397,11 +26397,13 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 46836,40045,Figura,"Figura, Hans",,Preferred Name
 46845,40054,Howarth,"Howarth, Albany E.",,Preferred Name
 46849,40058,Komjáti,"Komjáti, Julius",,Preferred Name
+46853,40062,Lesigne,"Lesigne, Leopold",,Preferred Name
 46855,40064,Lubin,"Lubin, Jacques",,Preferred Name
 46858,40067,Mathews,"Mathews, Richard George",,Preferred Name
 46861,40070,McNab,"McNab, Allan",,Preferred Name
 46863,40072,Mathieson,"Mathieson, John G.",,Preferred Name
 46870,40079,Peter,"Peter, Robert Charles",,Preferred Name
+46872,40081,Polanzani,"Polanzani, Felice",,Preferred Name
 46873,40082,Renison,"Renison, William",,Preferred Name
 46886,3138,Strang,"Strang, William",,Variant
 46888,40097,Thornton,"Thornton, Harold",,Preferred Name
@@ -31740,6 +31742,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59120,50668,Parsley,"Parsley, John S.",,Preferred Name
 59121,38544,Mars,"Mars, Roland",,Variant
 59122,46692,Poleskie,"Poleskie, Stephen Francis",,Variant
+59123,40081,Polanzani,"Polanzani, Francesco",,Variant
 59124,50669,Sturtevant,"Sturtevant, Elaine",,Preferred Name
 59125,50670,Smith,"Smith, Gordon",,Preferred Name
 59129,50674,Liebowits,"Barbara Liebowits Graphics Ltd. Liebowits, Barbara",,Preferred Name
@@ -34859,3 +34862,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64099,54499,,"Funds from Ronald M. Costell, M.D. and the Estate of Marsha E. Swiss",,Preferred Name
 64110,54507,Comas y Blanco,"Comas y Blanco, Augosto",,Preferred Name
 64116,54511,Alexandre,"Alexandre, Arsène",,Preferred Name
+64118,54512,,"Mourlot Graphics, Ltd.",,Preferred Name
