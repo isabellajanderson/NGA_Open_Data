@@ -30464,7 +30464,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57378,49395,Tosi,"Tosi, Sergio and Fausta",,Preferred Name
 57379,49396,,Propyläen Verlag,,Preferred Name
 57380,49397,,Panthéon Presse,,Preferred Name
-57382,7889,McMillin Moutal Beckwith,,,Married Name
+57382,7889,McMillin,"McMillin, Elizabeth Lawrence",,Maiden Name
 57387,47312,Dupuy,"Dupuy, Pierre",,Variant
 57388,457,Sawyer,"Sawyer, Ella Ernestine",,Maiden Name
 57389,49402,Meigher,"Meigher, Eva L. Mrs.",,Preferred Name
@@ -34873,3 +34873,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64110,54507,Comas y Blanco,"Comas y Blanco, Augosto",,Preferred Name
 64116,54511,Alexandre,"Alexandre, Arsène",,Preferred Name
 64118,54512,,"Mourlot Graphics, Ltd.",,Preferred Name
+64122,7889,Beckwith,"Beckwith, Elizabeth",,Married Name
+64123,7889,McMillin,"McMillin, Elizabeth",,Maiden Name
+64124,7211,Stefanak,"Stefanak, Charlotte Angus",,Married Name
