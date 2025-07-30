@@ -7247,7 +7247,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 7623,7630,Hastings,"Hastings, Florence",,Preferred Name
 7624,7631,Hastings,"Hastings, Katherine",,Preferred Name
 7626,7633,Haugland,"Haugland, Augustine",,Preferred Name
-7627,7634,Haupt,"Haupt, Dolores",,Preferred Name
+7627,7634,Haupt,"Haupt, Dolores A.",,Preferred Name
 7629,7636,Jensen,"Jensen, Dorothy Hay",,Preferred Name
 7630,7637,Hays,"Hays, May",,Preferred Name
 7631,7638,Hazen,"Hazen, Willard",,Preferred Name
@@ -7403,7 +7403,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 7790,7797,Macklem,"Macklem, Leslie",,Preferred Name
 7791,7798,Madole,"Madole, Russell",,Preferred Name
 7792,7799,Magnette,"Magnette, Edith",,Preferred Name
-7793,7800,Makimson,"Makimson, Loraine",,Preferred Name
+7793,7800,Makimson,"Makimson, Lorraine S.",,Preferred Name
 7794,7801,Makrenos,"Makrenos, Chris",,Preferred Name
 7795,7802,Malawicz,"Malawicz, Irene",,Preferred Name
 7796,7803,Maldarelli,"Maldarelli, Louis",,Preferred Name
@@ -34875,6 +34875,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64118,54512,,"Mourlot Graphics, Ltd.",,Preferred Name
 64122,7889,Beckwith,"Beckwith, Elizabeth",,Married Name
 64123,7889,McMillin,"McMillin, Elizabeth",,Maiden Name
-64124,7211,Stefanak,"Stefanak, Charlotte Angus",,Married Name
+64124,7211,Stefanak,"Stefanak, Charlotte Angus",,Variant
 64126,7281,Newquist,"Newquist, Ada",,Married Name
 64129,8676,Dalzell,"Dalzell, Sue Duff",,Maiden Name
