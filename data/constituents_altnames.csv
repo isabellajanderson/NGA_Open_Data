@@ -9814,6 +9814,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 10551,10558,Viau,"Viau, George, Dr.",,Preferred Name
 10552,10559,Pellenc,"Pellenc, Baron",,Preferred Name
 10553,10560,Schoeller,"Schoeller, André",,Preferred Name
+10554,10561,Baldovinetti,"Baldovinetti, Alesso",,Preferred Name
 10559,10566,Sinclair,"Sinclair, William",,Preferred Name
 10560,10567,May,"May, Elizabeth Sinclair",,Preferred Name
 10561,10568,May,"May, George Augustus Chichester",,Preferred Name
@@ -9927,7 +9928,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 10720,10727,Wasserman,"Wasserman, Jeff",,Preferred Name
 10722,10729,Massard,"Massard, Jean-Baptiste-Raphael-Urbain",,Preferred Name
 10723,10730,Lewis,"Lewis, III, C. McKenzie",,Preferred Name
-10901,10908,Hirschland,"Hirschland, Richard S.",,Preferred Name
 10727,10734,Roman 2nd Century B.C./1st Century A.D.,Roman 2nd Century B.C./1st Century A.D.,,Preferred Name
 10728,10735,Anse,"Anse, Luggert van",,Preferred Name
 10730,10737,Langlois,"Langlois, François",,Preferred Name
@@ -10023,6 +10023,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 10898,10905,,d'Audretsch Art Gallery,,Preferred Name
 10899,10906,,Lutz Art Gallery,,Preferred Name
 10900,10907,Hirschland,"Hirschland, Georg S.",,Preferred Name
+10901,10908,Hirschland,"Hirschland, Richard S.",,Preferred Name
 10903,10910,Wallace,"Wallace, John William",,Preferred Name
 10904,10911,Binney,"Binney, Susan",,Preferred Name
 10905,10912,Binney,"Binney, John, Rev.",,Preferred Name
@@ -10114,7 +10115,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 11188,11195,Rosignano,"Rosignano, Conte Miroglio di",,Preferred Name
 11189,11196,Argentieri,"Argentieri, Claudio",,Preferred Name
 11190,11197,Breschi,"Breschi, Giulio, Pier",,Preferred Name
-32739,2116,Picard,"Picard, Le",,Variant
 11196,11203,Krafft the Elder,"Krafft the Elder, Hans",,Preferred Name
 11197,11204,Klarner,"Klarner, Thomas G., Mr.",,Preferred Name
 11199,11206,Blackburn,"Blackburn, Robert",,Preferred Name
@@ -10206,7 +10206,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 11400,11407,Cousin the Elder,"Cousin the Elder, Jean",,Preferred Name
 11401,11408,Delafosse,"Delafosse, Jean Charles",,Preferred Name
 11402,11409,Mortain,"Mortain, Gilles de",,Preferred Name
-33555,4952,Ascian,Ascian,,Variant
 11403,11410,Derand,"Derand, François",,Preferred Name
 11406,11413,Dubreuil,"Dubreuil, Jean",,Preferred Name
 11407,11414,Dumont,"Dumont, Gabriel Pierre Martin",,Preferred Name
@@ -10762,8 +10761,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 13177,13184,Master of the Small Landscapes,Master of the Small Landscapes,,Preferred Name
 13187,13194,Bernheim de Villers,"Bernheim de Villers, Gaston",,Preferred Name
 13195,13202,Kienholz,"Kienholz, Nancy Reddin",,Preferred Name
+13499,13506,Black,"Black, James Wallace",,Preferred Name
 13215,13222,Oldenburg and Ms. Coosje van Bruggen,"Oldenburg and Ms. Coosje van Bruggen, Claes, Mr.",,Preferred Name
-34391,9111,,Fenway Art Center,,Variant
 13216,13223,,"Rockefeller Foundation, The",,Preferred Name
 13217,13224,,"Lukacs, Elizabeth C., Estate of",,Preferred Name
 13252,13259,Hugo,"Hugo, Herman",,Preferred Name
@@ -10857,7 +10856,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 13493,13500,Langenheim,"Langenheim, Frederick",,Preferred Name
 13496,13503,Vance,"Vance, Robert H.",,Preferred Name
 13497,13504,Brady,"Brady, Mathew B.",,Preferred Name
-13499,13506,Black,"Black, James Wallace",,Preferred Name
 13501,13508,Gardner,"Gardner, Alexander",,Preferred Name
 13502,13509,Russell,"Russell, Andrew Joseph",,Preferred Name
 13503,13510,Kimball,"Kimball, Myron H.",,Preferred Name
@@ -11042,6 +11040,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 14501,14508,Delteil,"Delteil, Loys",,Preferred Name
 14503,14510,,"Peter Freeman, Inc.",,Preferred Name
 14520,14527,Widener II,"Widener II, Peter Arrell Brown",,Preferred Name
+17827,17834,,Lutz Reister,,Preferred Name
 14531,14538,Arland,"Arland, Marcel",,Preferred Name
 14532,14539,Hastings,"Hastings, Sir Jacob Astley, 16th Baron",,Preferred Name
 14533,14540,Hastings,"Hastings, Delaval Loftus Astley, 18th Baron",,Preferred Name
@@ -11134,6 +11133,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 14868,14875,Faurer,"Faurer, Louis",,Preferred Name
 14871,14878,Harlan,"Harlan, Felix",,Preferred Name
 14872,14879,Weaver,"Weaver, Carol",,Preferred Name
+32739,2116,Picard,"Picard, Le",,Variant
 14881,14888,Barrett,"Barrett, Lawrence",,Preferred Name
 14883,14890,,"Bromberg, Joseph",,Preferred Name
 14884,14891,Zadok,"Zadok, Charles, Mr. and Mrs.",,Preferred Name
@@ -11323,6 +11323,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 16798,16805,Cleeve,"Cleeve, Bourchier",,Preferred Name
 16802,16809,Potin,"Potin, Maurice",,Preferred Name
 16812,16819,MacGill,"MacGill, Susan",,Preferred Name
+33555,4952,Ascian,Ascian,,Variant
 16836,16843,,Institute of Contemporary Art,,Preferred Name
 16877,16884,Bernstein,"Bernstein, Raphael, Mr.",,Preferred Name
 16878,16885,,"Sotheby's, Amsterdam",,Preferred Name
@@ -11514,7 +11515,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 17824,17831,Rysselberghe,"Rysselberghe, Théo van",,Preferred Name
 17825,17832,Vibert,"Vibert, Pierre-Eugène",,Preferred Name
 17826,17833,Malevich,"Malevich, Kazimir",,Preferred Name
-17827,17834,,Lutz Reister,,Preferred Name
 17828,17835,Willette,"Willette, Adolphe Léon",,Preferred Name
 17829,17836,Darzens,"Darzens, Rodolphe",,Preferred Name
 17830,17837,Antoine,"Antoine, André",,Preferred Name
@@ -11700,6 +11700,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 19057,19064,Grosvenor,"Grosvenor, 1st Earl Grosvenor, Richard",,Preferred Name
 19058,19065,Grosvenor,"Grosvenor, 1st marquis of Westminster, Robert",,Preferred Name
 19059,19066,Grosvenor,"Grosvenor, Hugh Lupus, 1st duke of Westminster",,Preferred Name
+34391,9111,,Fenway Art Center,,Variant
 19061,19068,Grosvenor,"Grosvenor, 2nd duke of Westminster, Hugh Richard Arthur",,Preferred Name
 19072,19079,Huchthausen,"Huchthausen, Timothy",,Preferred Name
 19088,19095,Brus,"Brus, Günter",,Preferred Name
@@ -34878,3 +34879,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64124,7211,Stefanak,"Stefanak, Charlotte Angus",,Variant
 64126,7281,Newquist,"Newquist, Ada",,Married Name
 64129,8676,Dalzell,"Dalzell, Sue Duff",,Maiden Name
+64130,54517,Huot,"Huot, François",,Preferred Name
