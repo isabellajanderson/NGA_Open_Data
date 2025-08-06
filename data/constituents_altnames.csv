@@ -29580,6 +29580,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56009,48404,Balliu,"Balliu, Bernhard van",,Preferred Name
 56010,48405,,Aetna Printing Co.,,Preferred Name
 56013,39001,Dubreuil,"Dubreuil, Marie Victor Théodore",,Full Name
+63884,54326,Joly de Lotbinière,,,Variant
 56015,40347,Newell,"Newell, J. P.",,Variant
 56016,48409,,"Robertson, Seibert & Shearman",,Preferred Name
 56017,6476,Cooke,"Cooke, George Esten",,Full Name
@@ -34608,6 +34609,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63489,53993,Shay,,,Variant
 63490,54013,Dick,"Dick, Beau",,Preferred Name
 63491,54014,,Andrew Kreps Gallery,,Preferred Name
+63492,54015,,Lachaise Foundation,,Preferred Name
 63493,52463,Robertson Kuhn,,,Maiden Name
 63496,54018,Schell,"Schell, Sherril V.",,Preferred Name
 63497,54019,Berchet,"Berchet, Pierre",,Preferred Name
@@ -34793,7 +34795,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63878,54322,Underhill,"Underhill, Francis J",,Preferred Name
 63882,54325,Sieger,"Sieger, Victor",,Preferred Name
 63883,54326,Joly,"Joly, Pierre-Gustave",,Preferred Name
-63884,54326,Joly de Lotbinière,,,Variant
 63885,54327,Junghaendel,"Junghaendel, R. M.",,Preferred Name
 63887,54329,Williams,"Williams, James Leon",,Preferred Name
 63888,54330,Colls,"Colls, Walter",,Preferred Name
