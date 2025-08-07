@@ -15821,6 +15821,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 28283,28290,Spencer-Churchill,"Spencer-Churchill, Edward George, Capt.",,Preferred Name
 28284,28291,,Oxenham and Son,,Preferred Name
 28285,28292,,Théodore Bonjean,,Preferred Name
+28293,28300,,Martin-von-Wagner-Museum,,Preferred Name
 28300,28307,Hofmann,"Hofmann, Julius, Dr.",,Preferred Name
 28301,28308,Flick,"Flick, Gert-Rudolf, Dr.",,Preferred Name
 28302,28309,Containi,"Containi, I, Giovanni Battista Costabili, Count",,Preferred Name
@@ -34883,3 +34884,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64130,54517,Huot,"Huot, François",,Preferred Name
 64131,22953,Frederick August II,Frederick Augustus II,,Variant
 64133,54518,Houbraken,"Houbraken, Arnold",,Preferred Name
+64139,54522,Oppermann,"Oppermann, Ernst",,Preferred Name
