@@ -145,11 +145,6 @@ locationid,site,room,publicaccess,description,unitposition
 4498,West Building,G-009,1,West Ground Floor Gallery 9,N
 4499,West Building,G-009,1,West Ground Floor Gallery 9,S
 4500,West Building,G-009,1,West Ground Floor Gallery 9,W
-4501,West Building,G-010,1,West Ground Floor Gallery 10,
-4502,West Building,G-010,1,West Ground Floor Gallery 10,E
-4503,West Building,G-010,1,West Ground Floor Gallery 10,N
-4504,West Building,G-010,1,West Ground Floor Gallery 10,S
-4505,West Building,G-010,1,West Ground Floor Gallery 10,W
 4506,West Building,G-011,1,West Ground Floor Gallery 11,
 4507,West Building,G-011,1,West Ground Floor Gallery 11,E
 4508,West Building,G-011,1,West Ground Floor Gallery 11,N
@@ -175,11 +170,6 @@ locationid,site,room,publicaccess,description,unitposition
 4768,West Building,G-013-A,1,West Ground Floor Gallery 13A,N
 4769,West Building,G-013-A,1,West Ground Floor Gallery 13A,S
 4770,West Building,G-013-A,1,West Ground Floor Gallery 13A,W
-4784,West Building,G-014,1,West Ground Floor Gallery 14,
-4785,West Building,G-014,1,West Ground Floor Gallery 14,E
-4786,West Building,G-014,1,West Ground Floor Gallery 14,N
-4787,West Building,G-014,1,West Ground Floor Gallery 14,S
-4788,West Building,G-014,1,West Ground Floor Gallery 14,W
 5605,West Building,G-015,1,West Ground Floor Gallery 15,
 5606,West Building,G-015,1,West Ground Floor Gallery 15,E
 5607,West Building,G-015,1,West Ground Floor Gallery 15,N
@@ -815,9 +805,7 @@ locationid,site,room,publicaccess,description,unitposition
 9270,West Building,G-008,1,West Ground Floor Gallery 8,N
 9271,West Building,G-008,1,West Ground Floor Gallery 8,S
 9272,West Building,G-008,1,West Ground Floor Gallery 8,CENTER
-9273,West Building,G-014,1,West Ground Floor Gallery 14,CENTER
 9282,West Building,M-075,1,West Main Floor Gallery 75,CENTER
-9287,West Building,G-010,1,West Ground Floor Gallery 10,CENTER
 9288,West Building,G-011,1,West Ground Floor Gallery 11,CEILING
 9289,West Building,G-011,1,West Ground Floor Gallery 11,CENTER
 9290,West Building,G-012,1,West Ground Floor Gallery 12,CENTER
@@ -873,7 +861,6 @@ locationid,site,room,publicaccess,description,unitposition
 10287,West Building,G-021,1,West Ground Floor Gallery 21,E
 10325,West Building,G-042-A,1,West Ground Floor Gallery 42A,Center
 10326,West Building,G-042-C,1,West Ground Floor Gallery 42A,CENTER
-10327,West Building,G-014,1,West Ground Floor Gallery 14,CEILING
 10343,West Building,M-136,1,East Garden Court,
 10344,West Building,M-136,1,East Garden Court,CENTER
 10345,West Building,M-136,1,East Garden Court,N
