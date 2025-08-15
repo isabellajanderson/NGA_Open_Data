@@ -177,7 +177,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 191,198,Cabot,"Cabot, Lewis P., Mr. and Mrs.",,Preferred Name
 192,199,Carey,"Carey, Andrew G., Mrs.",,Preferred Name
 193,200,Carey,"Carey, June Provines",,Preferred Name
-54714,47504,Bryan,"Bryan, T. B.",,Variant
 194,201,Carmean,"Carmean Jr., E.A.",,Preferred Name
 195,202,Carnegie,"Carnegie, William H., Mrs.",,Preferred Name
 196,203,Carstairs,"Carstairs, Charles S., Mrs.",,Preferred Name
@@ -267,7 +266,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 285,292,Garbisch,"Garbisch, Edgar William, Mr. and Mrs.",,Preferred Name
 286,293,Gardner,"Gardner, Martin",,Preferred Name
 287,294,Kelly,"Kelly, George P., Mr.",,Preferred Name
-57923,49768,,Harper Brothers,,Variant
 289,296,Gebel,"Gebel, Paul, Mr. and Mrs.",,Preferred Name
 290,297,,Gemini G.E.L.,,Preferred Name
 291,298,Gensburg,"Gensburg, David",,Preferred Name
@@ -450,7 +448,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 478,485,,Professional Art Group I,,Preferred Name
 479,486,Pucker,"Pucker, B. H., Mr. and Mrs.",,Preferred Name
 480,487,Putnam,"Putnam, Esther W.",,Preferred Name
-57928,28980,Martin,,,Maiden Name
 481,488,Pyne,"Pyne, Henry Rogers, Mrs.",,Preferred Name
 483,490,Rea,"Rea, Henry R., Mrs.",,Preferred Name
 484,491,,"Reader's Digest Association, Inc.",,Preferred Name
@@ -634,7 +631,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 670,677,,Galerie Beyeler,,Preferred Name
 671,678,Bier,"Bier, Herbert N., Mr.",,Preferred Name
 672,679,Bimm,"Bimm, H. Lee, Mr.",,Preferred Name
-58309,50095,,ROCI,,Variant
 673,680,Bonafous-Murat,"Bonafous-Murat, Arsene, Monsieur",,Preferred Name
 674,681,,"Botton Associates, De",,Preferred Name
 675,682,,Private Collection c/o Mr. F. Lorenceau,,Variant
@@ -1475,7 +1471,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1566,1573,,"Protetch Gallery, Max",,Preferred Name
 1567,1574,Fishman,"Fishman, Robert, Dr. and Mrs.",,Preferred Name
 1568,1575,,"Sourget, Patrick et Elisabeth",,Preferred Name
-59468,4374,Holsteyn,Holsteyn,,Variant
 1569,1576,,"Nahum at the Leicester Galleries, Peter",,Preferred Name
 1570,1577,Drummond,"Drummond, Thomas, Dr.",,Preferred Name
 1571,1578,,"Dance, Inc., Robert",,Preferred Name
@@ -1569,7 +1564,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 1660,1667,Hazen,"Hazen, Robert, Mr. and Mrs.",,Preferred Name
 1661,1668,Rosenberg,"Rosenberg, Elaine, Mrs.",,Preferred Name
 1662,1669,Boone,"Boone, Mary",,Preferred Name
-61489,5843,Wray,"Wray, Richard",,Variant
 1663,1670,Young,"Young, Diana, Ms.",,Preferred Name
 1664,1671,,"Smithson, Robert, Estate of",,Preferred Name
 1665,1672,Spearing,"Spearing, Cecilia W., Ms.",,Preferred Name
@@ -11853,7 +11847,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 19838,19845,Pascale,"Pascale, Mark",,Preferred Name
 19839,19846,Bright,"Bright, Harry",,Preferred Name
 19840,19847,,Colorcraft,,Preferred Name
-19841,19848,,Atelier Mourlot,,Preferred Name
+19841,19848,Atelier Mourlot,Atelier Mourlot,,Preferred Name
 19843,19850,Cardinale,"Cardinale, Charles",,Preferred Name
 19844,19851,Ratliff,"Ratliff, Marcus",,Preferred Name
 19854,19861,Hastings,"Hastings, Edward Astley 4th Baron,, Sir",,Preferred Name
@@ -12093,6 +12087,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 21060,21067,Lasry,"Lasry, David Paul",,Preferred Name
 21064,21071,,Galerie Joseph Allard,,Preferred Name
 21065,21072,Devilder,"Devilder, A.",,Preferred Name
+41145,35088,Simon,"Simon, Leni",,Variant
 21066,21073,Gentien,"Gentien, Maurice",,Preferred Name
 21067,21074,Aumont,"Aumont, Pierre-Hippolyte",,Preferred Name
 21068,21075,Donner,"Donner, William Henry",,Preferred Name
@@ -22326,7 +22321,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 38714,32965,Sikora,"Sikora, Rudolf",,Preferred Name
 38717,32968,,Stephen Austin,,Preferred Name
 38718,32969,Antin,"Antin, Eleanor",,Preferred Name
-38733,32984,Lundh,"Lundh, Ture",,Preferred Name
 38734,32985,Waller,"Waller, Arnoud Mr. and Mrs.",,Preferred Name
 38735,32752,Verwer van Burghstrate,"Verwer van Burghstrate, Abraham de",,Variant
 38736,31636,Judith T. and Donald C. Opatrny Fund,Judith T. and Donald C. Opatrny Fund,,Variant
@@ -24194,7 +24188,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 41142,35087,Fuller,"Fuller, Arthur Davenport",,Preferred Name
 41143,35087,Fuller,"Fuller, Arthur",,Variant
 41144,35088,Simon,"Simon, Lenore",,Preferred Name
-41145,35088,Simon,"Simon, Leni",,Variant
 41146,35089,Holbrook,"Holbrook, Vivian Nicholas",,Preferred Name
 41147,35090,Haseltine,"Haseltine, James Lewis",,Preferred Name
 41148,35091,Smith,"Smith, Arthur Hall",,Preferred Name
@@ -24859,6 +24852,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 42942,36600,Lanschot,"Lanschot, Johan van",,Preferred Name
 42943,21803,Vlaardingen,"Vlaardingen, van Leyden van Heer",,Variant Index Name
 42944,36601,Steengracht van Oosterland,"Steengracht van Oosterland, Hendrik",,Preferred Name
+43203,36820,,Leon Polk Smith Foundation,,Preferred Name
 42945,36602,Steengracht van Duivenvoorde,"Steengracht van Duivenvoorde, Hendricus Adolphus",,Preferred Name
 42946,36603,Ward,"Ward Fine Art, Meredith",,Preferred Name
 42953,28234,Fareham,"Fareham, Arthur Hamilton Lee, 1st Viscount Lee of",,Variant Index Name
@@ -24952,7 +24946,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 43171,36792,Bingham,"Bingham, Richard John, 7th earl of Lucan",,Preferred Name
 43172,16158,Hahn,"Hahn, Carla Mrs.",,Spouse
 43173,36793,Segantini,"Segantini, Gottardo",,Preferred Name
-43203,36820,,Leon Polk Smith Foundation,,Preferred Name
 43207,36824,Santilari,"Santilari, Josep",,Preferred Name
 43208,36824,Santilari Perarnau,"Santilari Perarnau, Josep",,Variant
 43209,36825,Santilari,"Santilari, Pere",,Preferred Name
@@ -26477,6 +26470,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 47184,40393,Robbins,"Robbins, David",,Preferred Name
 47191,40400,Mort,"Mort, Greg",,Preferred Name
 47196,40405,Andrews,"Andrews, Nancy",,Preferred Name
+56251,48588,,Alinari Freres,,Variant
 47198,40407,Abbot,"Abbot, John",,Preferred Name
 47200,40409,Tsinajinnie,"Tsinajinnie, Andrew",,Preferred Name
 47204,40413,Thomas,"Thomas, Lew",,Preferred Name
@@ -26768,6 +26762,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 48574,41783,Stewart,"Stewart, Albert",,Preferred Name
 48577,41786,Menconi,"Menconi, Ralph J.",,Preferred Name
 48579,41788,Mankowski,"Mankowski, Bruno",,Preferred Name
+56687,22222,,E. Coe Kerr,,Original Name
 48585,41794,Mead,"Mead, Larkin Goldsmith",,Preferred Name
 48592,41801,Ives,"Ives, Chauncey B.",,Preferred Name
 48593,41802,Laessle,"Laessle, Albert",,Preferred Name
@@ -26862,6 +26857,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 48944,42153,Bel Geddes,"Bel Geddes, Norman",,Preferred Name
 48949,42158,Tyson-Mosley,"Tyson-Mosley, Barbara",,Preferred Name
 48952,42161,Maldarelli,"Maldarelli, Oronzio",,Preferred Name
+56688,48847,,Hull Gallery,,Preferred Name
 48953,42162,Breton,"Breton, Jules",,Preferred Name
 48954,42163,Dingle,"Dingle, Kim",,Preferred Name
 48955,42164,Grigor,"Grigor, Margaret",,Preferred Name
@@ -27147,6 +27143,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 49984,43193,O'Connor,"O'Connor, Jeremiah",,Preferred Name
 49986,43195,Magnuson,"Magnuson, Laura T.",,Preferred Name
 49990,43199,Hill,"Hill, William Hurd Mrs.",,Preferred Name
+60993,51943,,,,Variant Index Name
 49996,43205,Christie,"Christie, Lansdell K.",,Preferred Name
 50001,43210,Henderson,"Henderson, Joseph W.",,Preferred Name
 50002,43211,Bliss,"Bliss, Lizzie P.",,Preferred Name
@@ -27434,6 +27431,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 50736,43945,Savage,"Savage, Charles R.",,Preferred Name
 50739,43948,Bell,"Bell, William H.",,Preferred Name
 50752,43961,Shindler,"Shindler, Antonio Zeno",,Preferred Name
+61308,52285,Shigeta,,,Variant
 50762,13511,O'Sullivan,"O'Sullivan, Timothy",,Variant
 50801,44010,Hasbun,"Hasbun, Muriel",,Preferred Name
 50828,44037,Caffery,"Caffery, Debbie Fleming",,Preferred Name
@@ -27719,6 +27717,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53277,46399,Andrade,"Andrade, Edna",,Preferred Name
 53283,46405,Baeder,"Baeder, John",,Preferred Name
 53286,46408,Balbo,"Balbo, Thomas",,Preferred Name
+61970,4934,González,,,Variant
 53287,46409,Barazani,"Barazani, Morris",,Preferred Name
 53291,46412,Bate,"Bate, Stanley",,Preferred Name
 53293,46414,Ahlström,"Ahlström, Ronald",,Preferred Name
@@ -28390,7 +28389,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54472,47343,Coles,"Coles, John, Jr.",,Preferred Name
 54473,47344,Willmann,"Willmann, Eduard",,Preferred Name
 54474,47345,Mařák,"Mařák, Julius",,Preferred Name
-54583,39992,Martin,"Martin, Kirk Paige",,Full Name
 54475,47346,Montmorency,"Montmorency, Eugène-Alexandre de, 4th duc de Laval",,Preferred Name
 54476,47346,Laval,"Laval, Eugène-Alexandre de Montmorency, 4th duc de",,Variant Index Name
 54477,47346,Montmorency-Laval,"Montmorency-Laval, Eugène-Alexandre de",,Variant Index Name
@@ -28485,6 +28483,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54580,47414,Peruvian 19th Century,Peruvian 19th Century,,Preferred Name
 54581,47415,Hutin,"Hutin, Jean-Baptiste",,Preferred Name
 54582,39429,Brenner,"Brenner, Carl Christian",,Full Name
+54583,39992,Martin,"Martin, Kirk Paige",,Full Name
 54585,30949,Steichen,"Steichen, Joanna E. Taub",,Full Name
 54589,40276,MacLeod,"MacLeod, William D.",,Full Name
 54590,47419,Plummer,"Plummer, Edward Stabler",,Preferred Name
@@ -28582,6 +28581,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 54710,47502,Grünling,"Grünling, Josef",,Preferred Name
 54712,47504,Bryan,"Bryan, Thomas B.",,Preferred Name
 54713,47504,Bryan,"Bryan, Thomas Barbour",,Full Name
+54714,47504,Bryan,"Bryan, T. B.",,Variant
 54715,47505,,University of Southern Indiana,,Preferred Name
 54716,47506,,Audubon State Park Museum,,Preferred Name
 54717,47507,,Holland-Goldowsky Gallery,,Preferred Name
@@ -29764,7 +29764,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56248,48586,Altobelli,"Altobelli, Gioacchino",,Preferred Name
 56249,48587,Archer,"Archer, Frederick Scott",,Preferred Name
 56250,48588,,Alinari Family,,Preferred Name
-56251,48588,,Alinari Freres,,Variant
 56252,48589,Bankart,"Bankart, George",,Preferred Name
 56253,46920,Schoelkopf,"Schoelkopf, Andrew",,Variant
 56254,48590,Béchard,"Béchard, Henri",,Preferred Name
@@ -30059,8 +30058,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56682,879,,C. G. Sloan and Company,,Variant
 56685,629,,Angus Whyte Gallery,,Variant
 56686,22222,,"Coe Kerr Gallery, Inc.",,Variant
-56687,22222,,E. Coe Kerr,,Original Name
-56688,48847,,Hull Gallery,,Preferred Name
 56689,48848,,Sid Deutsch Gallery,,Preferred Name
 56690,825,,Tobey C. Moss Gallery,,Variant
 56691,46022,,Susan Conway Gallery,,Variant
@@ -30348,7 +30345,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57142,49226,Ferdinand III,"Ferdinand III, Holy Roman Emperor",,Preferred Name
 57143,49227,,Hapsburg Imperial Collection,,Preferred Name
 57155,24472,Kent and 2nd baron Lucas,"Kent and 2nd baron Lucas, Henry de Grey, 1st duke of",,Variant
-57345,49378,Vlassoff,"Vlassoff, Alexandre",,Preferred Name
 57156,26934,de Grey of Wrest and 2nd baroness Lucas of Crudwell,"de Grey of Wrest and 2nd baroness Lucas of Crudwell, Annabel Yorke Hume-Campbell, countess",,Variant
 57157,49238,"Trefusis, baroness Clinton","Trefusis, baroness Clinton, Harriet Williamina Hepburn-Forbes",,Preferred Name
 57158,49239,Hepburn-Stuart-Forbes-Trefusis,"Hepburn-Stuart-Forbes-Trefusis, Charles John Robert, 21st baron Clinton",,Preferred Name
@@ -30443,6 +30439,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57342,49377,,Hamilton Press,,Preferred Name
 57343,49259,Manners,"Manners, Violet Duchess of Rutland",,Variant
 57344,1496,Bernstein,"Bernstein, Morris Louis",,Full Name
+57345,49378,Vlassoff,"Vlassoff, Alexandre",,Preferred Name
 57346,49379,Hunter,"Hunter, Stuart Mrs.",,Preferred Name
 57347,49380,Bawden,"Bawden, Edward",,Preferred Name
 57348,22370,Hepworth,"Hepworth, Jocelyn Barbara",,Full Name
@@ -30840,6 +30837,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57918,49764,Wirth,"Wirth, Eleanor",,Preferred Name
 57919,49765,,Kraft Family Foundation,,Preferred Name
 57922,49768,,Harper and Brothers,,Preferred Name
+57923,49768,,Harper Brothers,,Variant
+57928,28980,Martin,,,Maiden Name
 57929,49773,Ishibashi,"Ishibashi, Yasutoshi",,Preferred Name
 57930,14971,Zepeda,"Zepeda, Tony",,Variant
 57931,49774,Garst,"Garst, Richard",,Preferred Name
@@ -31135,6 +31134,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58306,50094,Bahsin,"Bahsin, Robert",,Variant
 58307,50094,Bahsin,"Bahsin, David",,Variant
 58308,50095,,Rauschenberg Overseas Culture Interchange,,Preferred Name
+58309,50095,,ROCI,,Variant
 58310,50096,,Broadside Art,,Preferred Name
 58311,50097,,Felissimo Universal Corporation of America,,Preferred Name
 58312,50098,Harris,"Harris, Ann Sutherland",,Preferred Name
@@ -32014,6 +32014,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59465,50917,Ting,"Ting, Eric",,Preferred Name
 59466,50918,,William A. Clark Fund,,Preferred Name
 59467,4374,Holsteyn,Holsteyn the younger,,Variant
+59468,4374,Holsteyn,Holsteyn,,Variant
 59469,50919,,Jenkins-Johnson Gallery,,Preferred Name
 59470,50920,Thomas,"Thomas, Mickalene",,Preferred Name
 59471,50921,Cabanas,"Cabanas, Carla",,Preferred Name
@@ -33000,7 +33001,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 60985,52019,Pecis,"Pecis, Hilary",,Preferred Name
 60986,52020,Cooper,"Cooper, Ted",,Preferred Name
 60989,52022,James,"James, Terrell",,Preferred Name
-60993,51943,,,,Variant Index Name
 60994,52025,Hutchinson,"Hutchinson, Joshua H.",,Preferred Name
 60995,52026,Oppo,"Oppo, Cipriano Efisio",,Preferred Name
 60996,52027,,Calcographia Gastaldi,,Preferred Name
@@ -33201,7 +33201,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61305,52285,Shigeta,"Shigeta, Harry Kinzi",,Preferred Name
 61306,52286,Itano,"Itano, Riso",,Preferred Name
 61307,52287,Ota,"Ota, Kumezu",,Preferred Name
-61308,52285,Shigeta,,,Variant
 61309,52288,Al-Badry,"Al-Badry, Wesaam",,Preferred Name
 61310,52289,,Silver Mountain Grapics,,Preferred Name
 61311,52290,,Spudnik Press,,Preferred Name
@@ -33293,6 +33292,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61486,52457,Therrien,"Therrien, Robert",,Preferred Name
 61487,3453,Zañartu,"Zañartu, Enrique",,Variant
 61488,3451,Zakharov,"Zakharov, Gury",,Variant
+61489,5843,Wray,"Wray, Richard",,Variant
 61492,52458,Weiwei,"Weiwei, Ai",,Preferred Name
 61493,21225,Maupin,,,Variant
 61496,52461,Moulton,"Moulton, John S.",,Preferred Name
@@ -33597,7 +33597,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61967,52814,Strider,"Strider, Marjorie",,Preferred Name
 61968,52815,,Madison-Morgan Cultural Center,,Preferred Name
 61969,52816,Drake,"Drake, David",,Preferred Name
-61970,4934,González,,,Variant
 61971,33234,Shermer,"Shermer, Frederika",,Variant
 61972,33234,Frederika,"Frederika, Fritzi",,Variant
 61973,52817,Plowden,"Plowden, David",,Preferred Name
@@ -33692,7 +33691,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62112,52897,,Brook and Pam Smith,,Preferred Name
 62113,52898,Taylor,"Taylor, Paul",,Preferred Name
 62114,5933,"di Ligano, called Napoletano","di Ligano, called Napoletano, Teodoro Filippo",,Variant
-62246,53008,Marken,"Marken, Josiah",,Preferred Name
 62115,52899,Northern Italian 18th Century,Northern Italian 18th Century,,Preferred Name
 62116,52900,Northern Italian 19th Century,Northern Italian 19th Century,,Preferred Name
 62117,52901,Mayer,"Mayer, Vincent",,Preferred Name
@@ -33789,6 +33787,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62243,53005,Walsh,"Walsh, Thomas S.",,Preferred Name
 62244,53006,Marsters,"Marsters, Joseph D.",,Preferred Name
 62245,53007,Byerly,"Byerly, Jacob",,Preferred Name
+62246,53008,Marken,"Marken, Josiah",,Preferred Name
 62247,53009,Recher,"Recher, Elias M.",,Preferred Name
 62248,53010,,B. F. Smith & Son,,Preferred Name
 62249,53011,Chapman,"Chapman, W. J.",,Preferred Name
@@ -34880,11 +34879,14 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64098,54498,Greenfield,"Greenfield, Karyn",,Preferred Name
 64099,54499,,"Funds from Ronald M. Costell, M.D. and the Estate of Marsha E. Swiss",,Preferred Name
 64110,54507,Comas y Blanco,"Comas y Blanco, Augosto",,Preferred Name
+64112,54509,Fernandez-Aldao,"Fernandez-Aldao, Manuel",,Preferred Name
+64113,7273,Bettle,"Bettle, Mary H",,Variant
 64116,54511,Alexandre,"Alexandre, Arsène",,Preferred Name
 64118,54512,,"Mourlot Graphics, Ltd.",,Preferred Name
 64122,7889,Beckwith,"Beckwith, Elizabeth",,Married Name
 64123,7889,McMillin,"McMillin, Elizabeth",,Maiden Name
 64124,7211,Stefanak,"Stefanak, Charlotte Angus",,Variant
+64125,7364,Chapman,"Chapman, Suzanne E.",,Variant
 64126,7281,Newquist,"Newquist, Ada",,Married Name
 64129,8676,Dalzell,"Dalzell, Sue Duff",,Maiden Name
 64130,54517,Huot,"Huot, François",,Preferred Name
