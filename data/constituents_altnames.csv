@@ -16794,7 +16794,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 29711,29718,Petiot-Groffier,"Petiot-Groffier, Fortuné Joseph",,Preferred Name
 29712,29719,Emmons,"Emmons, Arthur B.",,Preferred Name
 29714,29721,Young,"Young, Howard",,Preferred Name
-29715,29722,Coburn,"Coburn, L.L., Mrs.",,Preferred Name
+29715,29722,Coburn,"Coburn, L.L.",,Preferred Name
 29716,29723,,Carfax and Patterson,,Preferred Name
 29717,29724,Davis,"Davis, Brandon",,Preferred Name
 29718,29725,Fukushima,"Fukushima, S., Baron",,Preferred Name
@@ -34780,6 +34780,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63817,54270,,"KJH Press, Austin, TX",,Preferred Name
 63818,54271,,"Edition Heiner Friedrich, Munich",,Preferred Name
 63819,53990,Smith,"Smith, Allison",,Variant
+63829,54281,Jacques,"Jacques, Louis",,Preferred Name
 63832,52318,Derby,,,Full Name
 63835,34154,Zaidenberg,"Zaidenberg, A.",,Variant
 63837,54287,,"University of Nebraska, Omaha",,Preferred Name
@@ -34820,7 +34821,9 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63911,54350,Schaeffer,"Schaeffer, Glenn",,Preferred Name
 63916,54354,,Seaton Street Press,,Preferred Name
 63919,54357,Molini,"Molini, Giuseppe",,Preferred Name
+63920,54358,Vois,"Vois, Ary de",,Preferred Name
 63921,54359,Trivulzio,"Trivulzio, Gian Giacomo",,Preferred Name
+63922,54360,,Simon Dickinson Ltd.,,Preferred Name
 63923,54361,,"Church, Church of Santa Maria Maggiore",,Preferred Name
 63924,54362,Lavezzari,"Lavezzari, Costantino",,Preferred Name
 63925,54363,de' Vecchi,"de' Vecchi, Giovanni",,Preferred Name
@@ -34847,6 +34850,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 63984,8577,Mondschein,"Mondschein, Fritz",,Variant
 63985,54419,,Unknown,,Preferred Name
 63986,54420,Palumbo,"Palumbo, Dan",,Preferred Name
+63988,54360,,Simon C. Dickinson Ltd.,,Variant
 63991,54422,Soifer,"Soifer, Howard",,Preferred Name
 63995,54426,,and Workshop of Donatello,,Preferred Name
 64000,26870,Levis,"Levis, Joseph de",,Variant
@@ -34870,6 +34874,8 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64051,54461,,"Hertz, Michael",,Preferred Name
 64053,54178,De Jonckheere,"De Jonckheere, Georges Mr.",,Variant
 64054,54463,Serre,"Serre, Jean-Claude",,Preferred Name
+64058,54467,Jacques,"Jacques, Joseph Hugue Emile and Marie Lim Pee-Chin",,Preferred Name
+64059,54467,Pee-Chin,"Pee-Chin, Marie Lim",,Maiden Name
 64091,7602,Guerra,"Guerra, Flora Garza",,Variant
 64093,54493,Bechtel,"Bechtel, Brendan",,Preferred Name
 64094,54494,Bram,"Bram, Jonathan and Susan",,Preferred Name
@@ -34897,3 +34903,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64143,9853,Carr,"Carr, Sarah Grace",,Variant
 64144,54525,Würtemberg,Würtemberg,,Preferred Name
 64145,54526,Herings,"Herings, J. E.",,Preferred Name
+64152,29722,Coburn,"Coburn, Lewis Larned Mrs.",,Married Name
+64153,54530,Lake,"Lake, Edward William Esq.",,Preferred Name
+64154,54531,Eckford,"Eckford, Henry George",,Preferred Name

@@ -16814,7 +16814,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 29718,500293942,"Petiot-Groffier, Fortuné Joseph",Fortuné Joseph Petiot-Groffier,Petiot-Groffier,"French, 1788 - 1855",1,1788,1855,1776 to 1800,French,French,individual,Q3078580
 29719,,"Emmons, Arthur B.",Arthur B. Emmons,Emmons,"American, active 1920",0,,,,American,American,individual,
 29721,,"Young, Howard",Howard Young,Young,,0,,,,American,American,individual,
-29722,,"Coburn, L.L., Mrs.",Mrs. L.L. Coburn,Coburn,American,0,,,,American,American,individual,
+29722,,"Coburn, L.L.",Annie Swan Coburn,Coburn,"American,  1856 - 1932",0,1856,1932,1851 to 1875,American,American,individual,
 29723,,Carfax and Patterson,Carfax and Patterson,,,0,,,,,Other,corporate,
 29724,,"Davis, Brandon",Brandon Davis,Davis,,0,,,,,Other,individual,
 29725,,"Fukushima, S., Baron",Baron S. Fukushima,Fukushima,,0,,,,,Other,individual,
@@ -26864,7 +26864,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53107,,"Loder, William R.",William R. Loder,Loder,"American, 1851 - 1890",1,1851,1890,1851 to 1875,American,American,individual,
 53108,,"Dingeldey, Peter",Peter Dingeldey,Dingeldey,"American, born 1872",1,1872,,1851 to 1875,American,American,individual,
 53109,,"Bell, William C.",William C. Bell,Bell,"American, died 1944",1,,1944,,American,American,individual,
-53952,,Bergöö Family,Bergöö Family,Bergöö Family,,0,,,,,Other,individual,
+54042,,"Flory, Erika",Erika Flory,Flory,American,1,,,,American,American,individual,
 53110,,"Hamel, William",William Hamel,Hamel,"American, 1872 - 1931",1,1872,1931,1851 to 1875,American,American,individual,
 53111,,"Hoyt, H.",H. Hoyt,Hoyt,"American, active 1900s",1,,,,American,American,individual,
 53112,,"Harris, William J.",William J. Harris,Harris,"American, born England, 1868 - 1940",1,1868,1940,1851 to 1875,American,American,individual,
@@ -26907,11 +26907,12 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53151,500122189,"Billops, Camille",Camille Billops,Billops,"American, 1933 - 2019",1,1933,2019,1926 to 1950,American,American,individual,Q5026623
 53153,,"Howard, Hugh Melville",Hugh Melville Howard,Howard,"British, 1883-1919",0,1883,1919,1876 to 1900,British,British,individual,
 53154,,"Jacque, Maurice",Maurice Jacque,Jacque,"French, 1712-1784",1,1712,1784,1701 to 1725,French,French,individual,
-53155,,"Belle, La Vaughn",La Vaughn Belle,Belle,"Trinidadian, born 1974",1,1974,,1951 to 1975,Trinidadian,Other,individual,Q51335867
+53155,,"Belle, La Vaughn",La Vaughn Belle,Belle,"born Tobago 1974, active U.S. Virgin Islands",1,1974,,1951 to 1975,,Other,individual,Q51335867
 53156,,"Guatemala, Joyce de",Joyce de Guatemala,de Guatemala,"Mexican, 1948 - 2000",1,1948,2000,1926 to 1950,Mexican,Mexican,individual,Q64374347
 53157,,"Ewing, Rodney",Rodney Ewing,Ewing,"American, born 1964",1,1964,,1951 to 1975,American,American,individual,Q89682455
 53159,,"Freelon, Maya",Maya Freelon,Freelon,"American, born 1982",1,1982,,1976 to 2000,American,American,individual,Q117861098
 53160,,"Grajales, Elizabeth",Elizabeth Grajales,Grajales,"American, born 1952",1,1952,,1951 to 1975,American,American,individual,Q106318032
+53369,,Pierron,"Pierron, French, active 1849-1866",Pierron,,1,1849,1866,1826 to 1850,,Other,individual,
 53161,,"Harris, Michael D.",Michael D. Harris,Harris,"American, born 1948",1,1948,,1926 to 1950,American,American,individual,Q91473126
 53162,500116729,"Hernandez, Ester",Ester Hernandez,Hernandez,"American, born 1944",1,1944,,1926 to 1950,American,American,individual,Q5400977
 53163,,"Hom, Mei-ling",Mei-ling Hom,Hom,"American, born 1951",1,1951,,1951 to 1975,American,American,individual,Q73018419
@@ -27071,7 +27072,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53366,500059031,"Hyppolite, Hector",Hector Hyppolite,Hyppolite,"Haitian, 1894 - 1948",1,1894,1948,1876 to 1900,Haitian,Other,individual,Q3129262
 53367,500110745,"Pierre, Andre",Andre Pierre,Pierre,"Haitian, 1916 - 2005",1,1916,2005,1901 to 1925,Haitian,Other,individual,Q16259752
 53368,500091071,"Valcin, Gérard",Gérard Valcin,Valcin,"Haitian, 1927 - 1988",1,1927,1988,1926 to 1950,Haitian,Other,individual,Q16946438
-53369,,Pierron,"Pierron, French, active 1849-1866",Pierron,,1,1849,1866,1826 to 1850,,Other,individual,
 53370,,"Fox Sullivan, John and Beverly",John and Beverly Fox Sullivan,Fox Sullivan,,0,,,,,Other,couple,
 53371,500373003,"Constant, Myrlande",Myrlande Constant,Constant,"Haitian, born 1968",1,1968,,1951 to 1975,Haitian,Other,individual,Q51120334
 53372,500372971,"Saint Fleurant, Louisiane",Louisiane Saint Fleurant,Saint Fleurant,"Haitian, 1924 - 2005",1,1924,2005,1901 to 1925,Haitian,Other,individual,Q4262700
@@ -27120,7 +27120,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53430,,"Rivera, Sophie",Sophie Rivera,Rivera,"American, 1938 - 2021",1,1938,2021,1926 to 1950,American,American,individual,Q45311833
 53431,,Estate of Martin Hurwitz,Estate of Martin Hurwitz,,,0,,,,,Other,corporate,
 53432,,Macy & Doughty,Macy & Doughty,,"American, active 1890s",1,,,,American,American,corporate,
-54042,,"Flory, Erika",Erika Flory,Flory,American,1,,,,American,American,individual,
+53952,,Bergöö Family,Bergöö Family,Bergöö Family,,0,,,,,Other,individual,
 53433,,"Dabbs, J. V.",J. V. Dabbs,Dabbs,"American, born Canada, c. 1856 - 1918",1,1856,1918,1851 to 1875,American,American,individual,
 53434,,Hendricks & Co.,Hendricks & Co.,,"American, active 1880s - 1890s",1,,,,American,American,corporate,
 53435,,Booth,Booth,,"American, active c. 1890s",1,,,,American,American,corporate,
@@ -27541,6 +27541,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54269,,"Hale, Ken",Ken Hale,Hale,"American, born 1948",1,1948,,1926 to 1950,American,American,individual,
 54270,,"KJH Press, Austin, TX","KJH Press, Austin, TX",,,1,,,,,Other,corporate,
 54271,,"Edition Heiner Friedrich, Munich","Edition Heiner Friedrich, Munich",,,1,,,,,Other,corporate,
+54281,,"Jacques, Louis",Louis Jacques,Jacques,,0,,,,,Other,individual,
 54287,,"University of Nebraska, Omaha","University of Nebraska, Omaha",,,1,,,,,Other,corporate,
 54289,500473428,"Gitman, Victoria",Victoria Gitman,Gitman,"Argentinean, born 1972",1,1972,,1951 to 1975,Argentinean,Other,individual,Q32542418
 54290,500116049,"Rubins, Nancy",Nancy Rubins,Rubins,"American, born 1952",1,1952,,1951 to 1975,American,American,individual,Q2236424
@@ -27572,7 +27573,9 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54350,,"Schaeffer, Glenn",Glenn Schaeffer,Schaeffer,,0,,,,American,American,individual,
 54354,,Seaton Street Press,Seaton Street Press,,,1,,,,,Other,corporate,
 54357,,"Molini, Giuseppe",Giuseppe Molini,Molini,"Italian, 1772 - 1856",0,1772,1856,1751 to 1775,Italian,Italian,individual,
+54358,500022148,"Vois, Ary de",Ary de Vois,Vois,"Dutch, 1631/32 - 1680",1,1632,1680,1601 to 1650,Dutch,Dutch,individual,Q4802575
 54359,,"Trivulzio, Gian Giacomo",Gian Giacomo Trivulzio,Trivulzio,"Italian, 1774 - 1831",0,1774,1831,1751 to 1775,Italian,Italian,individual,
+54360,,Simon Dickinson Ltd.,Simon Dickinson Ltd.,,,0,,,,,Other,corporate,Q130477493
 54361,,"Church, Church of Santa Maria Maggiore",Church of Santa Maria Maggiore,,Bergamo,0,,,,Italian,Italian,corporate,
 54362,,"Lavezzari, Costantino",Costantino Lavezzari,Lavezzari,Milan,0,,,,Italian,Italian,individual,
 54363,,"de' Vecchi, Giovanni",Giovanni de' Vecchi,de' Vecchi,"Italian, 1536 - 1615",1,1536,1615,1501 to 1550,Italian,Italian,individual,
@@ -27604,6 +27607,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54460,,"Cürlis, Hans Dr.",Dr. Hans Cürlis,Cürlis,"German, 1889 - 1982",0,1889,1982,1876 to 1900,German,German,individual,
 54461,,"Hertz, Michael",Galerie Michael Hertz,,,0,,,,German,German,corporate,
 54463,,"Serre, Jean-Claude",Jean-Claude Serre,Serre,,0,,,,,Other,individual,
+54467,,"Jacques, Joseph Hugue Emile and Marie Lim Pee-Chin",Joseph Hugue Emile and Marie Lim Pee-Chin Jacques,Jacques,,0,1923,1996,1901 to 1925,American,American,couple,
 54493,,"Bechtel, Brendan",Brendan Bechtel,Bechtel,,0,,,,,Other,purchase_fund,
 54494,,"Bram, Jonathan and Susan",Jonathan and Susan Bram,Bram,,0,,,,,Other,purchase_fund,
 54495,,Silverstein Family Foundation,Silverstein Family Foundation,,,0,,,,,Other,purchase_fund,
@@ -27621,3 +27625,5 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54524,,"Tauber, Joseph",Joseph Tauber,Tauber,"American, active second half 20th century",1,,,,American,American,individual,
 54525,,Würtemberg,Würtemberg,Würtemberg,died 1841,0,,1841,,German,German,individual,
 54526,,"Herings, J. E.",J. E. Herings,Herings,"German, late 19th century",0,,,,German,German,individual,
+54530,,"Lake, Edward William Esq.",Edward William Lake Esq.,Lake,"British, 1787 - 1847",0,1787,1847,1776 to 1800,British,British,individual,
+54531,,"Eckford, Henry George",Henry George Eckford,Eckford,1807 - 1893,0,1807,1893,1801 to 1825,British,British,individual,
