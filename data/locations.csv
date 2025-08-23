@@ -1195,6 +1195,6 @@ locationid,site,room,publicaccess,description,unitposition
 14791,West Building,G-024,1,West Ground Floor Gallery 24,SOUTH BAFFLE
 14963,West Building,M-019,1,West Main Floor Gallery 19,CENTER
 14967,East Building,EC-028,1,"East Bldg, Concourse Gallery Lobby",CEILING
-14983,West Building,G-025,1,West Ground Floor Gallery 25,
-14984,West Building,G-025,1,West Ground Floor Gallery 25,
+14983,West Building,G-025,1,West Ground Floor Gallery 25,BAFFLE NORTH
+14984,West Building,G-025,1,West Ground Floor Gallery 25,BAFFLE SOUTH
 14985,West Building,M-009,1,West Main Floor Gallery 9,CENTER
