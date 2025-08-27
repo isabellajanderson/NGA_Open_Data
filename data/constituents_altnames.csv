@@ -26844,7 +26844,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 48876,42085,Ford,"Ford, Lauren",,Preferred Name
 48885,42094,Friedlander,"Friedlander, Leo",,Preferred Name
 48897,42106,Mancini,"Mancini, Giacomo",,Preferred Name
-48900,42109,Weems,"Weems, Katherine Lane",,Preferred Name
+48900,42109,Weems,"Weems, Katharine Lane",,Preferred Name
 48906,42115,Voulkos,"Voulkos, Peter",,Preferred Name
 48914,42123,Bridgman,"Bridgman, Frederic Arthur",,Preferred Name
 48916,42125,Weeks,"Weeks, James",,Preferred Name
@@ -31442,7 +31442,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58732,48353,Zoell,"Zoell, Robert",,Variant
 58733,50397,Wood,"Wood, Jonas",,Preferred Name
 58734,36211,Zick,"Zick, Johann Rasso Januarius",,Variant
-58735,42109,Lane,"Lane, Katherine Ward",,Maiden Name
+58735,42109,Lane,"Lane, Katharine Ward",,Maiden Name
 58736,42109,Weems,"Weems, Carrington Mrs.",,Married Name
 58737,41983,Weinman,"Weinman, Robert Alexander",,Full Name
 58738,41985,Weistrop,"Weistrop, Elizabeth Nealon",,Full Name
@@ -34907,3 +34907,4 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64154,54531,Eckford,"Eckford, Henry George",,Preferred Name
 64161,54536,Thurman,"Thurman, Rowland Dr.",,Preferred Name
 64163,54538,Sessler,"Sessler, Richard",,Preferred Name
+64165,54540,Schiefner,"Schiefner, Robert B.",,Preferred Name
