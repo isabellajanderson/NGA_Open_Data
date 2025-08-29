@@ -22091,7 +22091,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 43021,,"Sands, Stella McCalla",Stella McCalla Sands,Sands,,0,,,,,Other,individual,
 43023,,Trustees of Hillcrest,Trustees of Hillcrest,,,0,,,,,Other,corporate,
 43029,,Fischbach Gallery,Fischbach Gallery,,,1,,,,,Other,corporate,
-43031,,"Kerneys, Laura Swing",Laura Swing Kerneys,Kerneys,"American, died 1934",0,,1934,,American,American,individual,
+43031,,"Kemeys, Laura Swing",Laura Swing Kemeys,Kemeys,"American, 1864 - 1934",0,1864,1934,1851 to 1875,American,American,individual,
 43038,,"Stellwagen, Edward J.",Edward J. Stellwagen,Stellwagen,"American, 1854 - 1932",0,1854,1932,1851 to 1875,American,American,individual,
 43044,,Medallic Art Company,Medallic Art Company,,"American, est. 1910 - closed 2016",1,1910,2016,1901 to 1925,American,American,corporate,
 43045,,"Weinstein, Dr. and Mrs. Jacob J.",Dr. and Mrs. Jacob J. Weinstein,Weinstein,,0,,,,,Other,couple,
@@ -26412,7 +26412,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52393,,"Robillart, J.",J. Robillart,Robillart,"Italian, active c. 1650",1,1625,1675,1601 to 1650,Italian,Italian,individual,
 52394,500127175,"Morrison, George",George Morrison,Morrison,"Ojibwe (Grand Portage), 1919 - 2000",1,1919,2000,1901 to 1925,American,American,individual,Q5542637
 52397,,"Braithwaite, John Sir",Sir John Braithwaite,Braithwaite,"British, 1884 - 1973",0,1884,1973,1876 to 1900,British,British,individual,
-52406,500329828,"Sánchez, Juan Enrique",Juan Enrique Sánchez,Sánchez,"American, born 1954",1,1954,,1951 to 1975,American,American,individual,Q16186464
+52406,500329828,"Sánchez, Juan",Juan Sánchez,Sánchez,"American, born 1954",1,1954,,1951 to 1975,American,American,individual,Q16186464
 52408,500334579,"Sengstacke, Robert A.",Robert A. Sengstacke,Sengstacke,"American, 1943 - 2017",1,1943,2017,1926 to 1950,American,American,individual,Q29837110
 52409,500332928,"Shabazz, Jamel",Jamel Shabazz,Shabazz,"American, born 1960",1,1960,,1951 to 1975,American,American,individual,Q16204661
 52410,,"Simmons, John",John Simmons,Simmons,"American, born 1950",1,1950,,1926 to 1950,American,American,individual,
@@ -26863,7 +26863,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53107,,"Loder, William R.",William R. Loder,Loder,"American, 1851 - 1890",1,1851,1890,1851 to 1875,American,American,individual,
 53108,,"Dingeldey, Peter",Peter Dingeldey,Dingeldey,"American, born 1872",1,1872,,1851 to 1875,American,American,individual,
 53109,,"Bell, William C.",William C. Bell,Bell,"American, died 1944",1,,1944,,American,American,individual,
-54042,,"Flory, Erika",Erika Flory,Flory,American,1,,,,American,American,individual,
+53296,,"Arocho, Edwin",Edwin Arocho,Arocho,born 1958,1,1958,,1951 to 1975,,Other,individual,
 53110,,"Hamel, William",William Hamel,Hamel,"American, 1872 - 1931",1,1872,1931,1851 to 1875,American,American,individual,
 53111,,"Hoyt, H.",H. Hoyt,Hoyt,"American, active 1900s",1,,,,American,American,individual,
 53112,,"Harris, William J.",William J. Harris,Harris,"American, born England, 1868 - 1940",1,1868,1940,1851 to 1875,American,American,individual,
@@ -27013,7 +27013,6 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 53291,,"Morris, Mary",Mary Morris,Morris,"American, 1914 - 2009",1,1914,2009,1901 to 1925,American,American,individual,
 53293,,"Medhurst, Mike",Mike Medhurst,Medhurst,,0,,,,,Other,individual,
 53295,,"Nutini, Alexis",Alexis Nutini,Nutini,"American, born Mexico, 1978",1,1978,,1976 to 2000,American,American,individual,
-53296,,"Arocho, Edwin",Edwin Arocho,Arocho,born 1958,1,1958,,1951 to 1975,,Other,individual,
 53297,500083830,"Sangiorgi, Michele",Michele Sangiorgi,Sangiorgi,"Italian, died 1822",1,,1822,,Italian,Italian,individual,Q104509747
 53298,500373008,"Leigh, Simone",Simone Leigh,Leigh,"American, born 1967",1,1967,,1951 to 1975,American,American,individual,Q16200002
 53301,,"Audap-Solanet, Godeau-Veillet","Audap-Solanet, Godeau-Veillet",,,0,,,,,Other,corporate,
@@ -27445,6 +27444,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 54032,,Rong Bao Zhai,Rong Bao Zhai,,,1,,,,,Other,corporate,
 54037,,"Maristany, Pablo",Pablo Maristany,Maristany,American,0,,,,American,American,individual,
 54040,,jdc Fine Art,jdc Fine Art,,,0,,,,,Other,corporate,
+54042,,"Flory, Erika",Erika Flory,Flory,American,1,,,,American,American,individual,
 54046,,"Baumgartner, F. W.",F. W. Baumgartner,Baumgartner,American,0,,,,American,American,individual,
 54048,,The Letter Edged in Black Press Inc.,The Letter Edged in Black Press Inc.,,,1,,,,,Other,corporate,
 54060,,"Grossman, Serge",Serge Grossman,Grossman,,0,,,,,Other,purchase_fund,
