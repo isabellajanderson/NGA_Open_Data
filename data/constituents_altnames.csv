@@ -31036,7 +31036,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58197,49996,McElroy,"McElroy, Robert R.",,Preferred Name
 58198,49997,Altgens,"Altgens, James William",,Preferred Name
 58199,49997,Altgens,"Altgens, Ike",,Variant
-61970,4934,González,,,Variant
+61817,52697,Tyler,,,Original Name
 58200,49998,Dedem,"Dedem, Willem van Baron",,Preferred Name
 58201,49998,Baron van Dedem,"Baron van Dedem, Willem",,Variant
 58202,49999,Zapruder,"Zapruder, Abraham",,Preferred Name
@@ -31627,6 +31627,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58961,50548,,Annely Juda Fine Art,,Preferred Name
 58962,3689,Cardon,"Cardon, Antoine",,Variant
 58966,6716,,Alex Katz Studio,,Variant
+61970,4934,González,,,Variant
 58968,50553,Foster,"Foster, Edmund Benson",,Preferred Name
 58971,39003,Lahey,"Lahey, Richard Francis",,Variant
 58972,5769,,Master of the Saint John Statuettes,,Variant
@@ -33214,6 +33215,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61330,19648,Ransonette,"Ransonette, Pierre Nicolas",,Variant
 61332,52310,Clark,"Clark, June",,Preferred Name
 61333,52311,,"Daniel Faria Gallery, Toronto",,Preferred Name
+61336,52314,Estate of Bob Crawford,Estate of Bob Crawford,,Preferred Name
 61340,52318,Derby,"Derby, Doris A.",,Preferred Name
 61347,52325,Fletcher,"Fletcher, Bob",,Preferred Name
 61362,52340,Houston,"Houston, Robert",,Preferred Name
@@ -33497,7 +33499,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 61812,52693,Wailly,"Wailly, Charles de",,Preferred Name
 61815,52696,Calm,"Calm, Jonathan",,Preferred Name
 61816,52697,Scott,"Scott, Dread",,Preferred Name
-61817,52697,Tyler,,,Original Name
 61818,52698,Wood,"Wood, Tom",,Preferred Name
 61819,52698,Wood,"Wood, Tom",,Variant
 61820,52699,Moillon,"Moillon, Louise",,Preferred Name
@@ -34027,6 +34028,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 62534,53271,,Lemercier & Cie,,Preferred Name
 62535,53272,Correa,"Correa, Juan",,Preferred Name
 62537,23136,,,,Variant
+62538,53273,Crawford,"Crawford, Bob",,Preferred Name
 62540,53275,Franklin,"Franklin, Robert",,Preferred Name
 62541,53275,Franklin,"Franklin, Bob",,Variant
 62542,53276,Hughes,"Hughes, Jim ""BJ""",,Preferred Name
