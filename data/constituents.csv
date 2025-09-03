@@ -1872,7 +1872,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 1972,,"Wheldon, W.",W. Wheldon,Wheldon,"British, active 1863",1,1783,1923,1776 to 1800,British,British,individual,Q21498264
 2008,500022523,"Archipenko, Alexander",Alexander Archipenko,Archipenko,"American, born Russia (now Ukraine), 1887 - 1964",1,1887,1964,1876 to 1900,American,American,individual,Q157578
 2009,500031000,"Arp, Jean (Hans)",Jean (Hans) Arp,Arp,"French, born Germany (Alsace), 1886 - 1966",1,1886,1966,1876 to 1900,French,French,individual,Q153739
-1973,500023818,"Whistler, Beatrice Godwin",Beatrice Godwin Whistler,Whistler,"British, 1857 - 1896",1,1857,1896,1851 to 1875,British,British,individual,Q18526619
+1973,500023818,"Whistler, Beatrix Godwin",Beatrix Godwin Whistler,Whistler,"British, 1857 - 1896",1,1857,1896,1851 to 1875,British,British,individual,Q18526619
 1974,500012432,"Whistler, James McNeill",James McNeill Whistler,Whistler,"American, 1834 - 1903",1,1834,1903,1826 to 1850,American,American,individual,Q203643
 1975,500030155,"Wiles, Irving R.",Irving R. Wiles,Wiles,"American, 1861 - 1948",1,1861,1948,1851 to 1875,American,American,individual,Q3950852
 1976,,"Wilgus, William John",William John Wilgus,Wilgus,"American, 1819 - 1853",1,1819,1853,1801 to 1825,American,American,individual,Q99297904
@@ -18064,7 +18064,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 33080,,"Merrill, Ross",Ross Merrill,Merrill,"American, 1943 - 2010",1,1943,2010,1926 to 1950,American,American,individual,
 33081,,"Enden, Martin van den I",Martin van den Enden I,Enden,"Flemish, 1605 - 1654",1,1605,1654,1601 to 1650,Flemish,Flemish,individual,
 33082,500090689,"Mayhew, Richard",Richard Mayhew,Mayhew,"American, 1924 - 2024",1,1924,2024,1901 to 1925,American,American,individual,Q19605041
-33083,,"Stein, Stephen G.",Stephen G. Stein,Stein,"",0,,,,,Other,individual,
+33083,,"Stein, Stephen G.",Stephen G. Stein,Stein,"",0,,,,,Other,anonymous,
 33084,,Mark Moore Gallery,Mark Moore Gallery,,,0,,,,,Other,corporate,
 33085,,"Rugg, Kim",Kim Rugg,Rugg,"Canadian, born 1963",1,1963,,1951 to 1975,Canadian,Canadian,individual,
 33090,,"Kanev, Paul",Paul Kanev,Kanev,,0,,,,,Other,individual,
@@ -26754,7 +26754,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 52980,,"Saidy, Saihou and Deborah",Saihou and Deborah Saidy,Saidy,,0,,,,,Other,couple,
 52981,500118630,"Yetmgeta, Zerihun",Zerihun Yetmgeta,Yetmgeta,"Ethiopian, born 1941",1,1941,,1926 to 1950,Ethiopian,Other,individual,Q19666889
 52983,500168127,"Muafangejo, John Ndevasia",John Ndevasia Muafangejo,Muafangejo,"Namibian, 1943 - 1987",1,1943,1987,1926 to 1950,Namibian,Other,individual,Q18021272
-52989,,"Kelbaugh, Ross J.",Ross J. Kelbaugh,Kelbaugh,,0,,,,American,American,individual,
+52989,,"Kelbaugh, Ross J.",Ross J. Kelbaugh,Kelbaugh,,0,,,,American,American,anonymous,
 52990,,"Grove, George",George Grove,Grove,,0,,,,,Other,individual,
 52991,,J. B. Lippincott Company,J. B. Lippincott Company,,,1,1836,,1826 to 1850,,Other,corporate,
 52992,,The Golden Cockerel Press,The Golden Cockerel Press,,,1,,,,,Other,corporate,
