@@ -177,6 +177,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 191,198,Cabot,"Cabot, Lewis P., Mr. and Mrs.",,Preferred Name
 192,199,Carey,"Carey, Andrew G., Mrs.",,Preferred Name
 193,200,Carey,"Carey, June Provines",,Preferred Name
+61817,52697,Tyler,,,Original Name
 194,201,Carmean,"Carmean Jr., E.A.",,Preferred Name
 195,202,Carnegie,"Carnegie, William H., Mrs.",,Preferred Name
 196,203,Carstairs,"Carstairs, Charles S., Mrs.",,Preferred Name
@@ -266,6 +267,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 285,292,Garbisch,"Garbisch, Edgar William, Mr. and Mrs.",,Preferred Name
 286,293,Gardner,"Gardner, Martin",,Preferred Name
 287,294,Kelly,"Kelly, George P., Mr.",,Preferred Name
+61970,4934,González,,,Variant
 289,296,Gebel,"Gebel, Paul, Mr. and Mrs.",,Preferred Name
 290,297,,Gemini G.E.L.,,Preferred Name
 291,298,Gensburg,"Gensburg, David",,Preferred Name
@@ -29760,7 +29762,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56250,48588,,Alinari Family,,Preferred Name
 56251,48588,,Alinari Freres,,Variant
 56252,48589,Bankart,"Bankart, George",,Preferred Name
-60993,51943,,,,Variant Index Name
 56253,46920,Schoelkopf,"Schoelkopf, Andrew",,Variant
 56254,48590,Béchard,"Béchard, Henri",,Preferred Name
 56255,48591,Briquet,"Briquet, Alfred",,Preferred Name
@@ -29954,7 +29955,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 56540,48786,,Henry Brooks Gallery,,Preferred Name
 56544,43115,Burdette,"Burdette, Hattie Elizabeth",,Full Name
 56545,408,Magriel,"Magriel, Paul David, Sr.",,Full Name
-61308,52285,Shigeta,,,Variant
 56546,42997,Biddle,"Biddle, Francis Beverly",,Full Name
 56547,47797,Ward,"Ward, Louisa Cutler",,Maiden Name
 56548,47797,Crawford,"Crawford, Thomas Mrs.",,Married Name
@@ -30325,6 +30325,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57079,3158,Sziklay,"Sziklay, B.",,Variant
 57080,49172,Boulay de la Meurthe,"Boulay de la Meurthe, Antoine Comte",,Preferred Name
 57081,49172,Boulay,"Boulay, Antoine Jacques Claude Joseph, Comte Boulay de la Meurthe",,Full Name
+57097,49188,Zerbone,"Zerbone, Estate of Aldo",,Preferred Name
 57102,49193,Tibaldi,"Tibaldi, Domenico",,Preferred Name
 57107,49198,Martineau,"Martineau, Edith",,Preferred Name
 57124,49215,Piola,"Piola, Paolo Gerolamo",,Preferred Name
@@ -30345,6 +30346,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57155,24472,Kent and 2nd baron Lucas,"Kent and 2nd baron Lucas, Henry de Grey, 1st duke of",,Variant
 57156,26934,de Grey of Wrest and 2nd baroness Lucas of Crudwell,"de Grey of Wrest and 2nd baroness Lucas of Crudwell, Annabel Yorke Hume-Campbell, countess",,Variant
 57157,49238,"Trefusis, baroness Clinton","Trefusis, baroness Clinton, Harriet Williamina Hepburn-Forbes",,Preferred Name
+57349,22370,Hepworth,"Hepworth, Barbara Dame",,Variant
 57158,49239,Hepburn-Stuart-Forbes-Trefusis,"Hepburn-Stuart-Forbes-Trefusis, Charles John Robert, 21st baron Clinton",,Preferred Name
 57159,49239,Trefusis,"Trefusis, Charles John Robert",,Variant
 57160,49240,Bowles-Lyon,"Bowles-Lyon, Fenella Hepburn-Stuart-Forbes-Trefusis",,Preferred Name
@@ -30441,7 +30443,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 57346,49379,Hunter,"Hunter, Stuart Mrs.",,Preferred Name
 57347,49380,Bawden,"Bawden, Edward",,Preferred Name
 57348,22370,Hepworth,"Hepworth, Jocelyn Barbara",,Full Name
-57349,22370,Hepworth,"Hepworth, Barbara Dame",,Variant
 57351,18911,Blumenthal,"Blumenthal, Amelia",,Maiden Name
 57352,18911,Perls,"Perls, Dolly Blumenthal",,Nickname/Pseudonym
 57353,49080,Batcheller,,,Variant
@@ -31036,7 +31037,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58197,49996,McElroy,"McElroy, Robert R.",,Preferred Name
 58198,49997,Altgens,"Altgens, James William",,Preferred Name
 58199,49997,Altgens,"Altgens, Ike",,Variant
-61817,52697,Tyler,,,Original Name
 58200,49998,Dedem,"Dedem, Willem van Baron",,Preferred Name
 58201,49998,Baron van Dedem,"Baron van Dedem, Willem",,Variant
 58202,49999,Zapruder,"Zapruder, Abraham",,Preferred Name
@@ -31627,7 +31627,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 58961,50548,,Annely Juda Fine Art,,Preferred Name
 58962,3689,Cardon,"Cardon, Antoine",,Variant
 58966,6716,,Alex Katz Studio,,Variant
-61970,4934,González,,,Variant
+60993,51943,,,,Variant Index Name
 58968,50553,Foster,"Foster, Edmund Benson",,Preferred Name
 58971,39003,Lahey,"Lahey, Richard Francis",,Variant
 58972,5769,,Master of the Saint John Statuettes,,Variant
@@ -31821,6 +31821,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 59229,50754,Kienholz,"Kienholz, Noah",,Preferred Name
 59230,50755,Pringle,"Pringle, James",,Preferred Name
 59231,50756,Mack,"Mack, Linda",,Preferred Name
+61308,52285,Shigeta,,,Variant
 59232,50757,Georg,"Georg, Ole",,Preferred Name
 59234,50759,Samson,"Samson, Yann",,Preferred Name
 59235,50760,Cort,"Cort, Horace",,Preferred Name
