@@ -23709,6 +23709,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40391,34520,Tuttle,"Tuttle, Virginia Grace",,Preferred Name
 40392,34521,Passer,"Passer, Patricia H.",,Preferred Name
 40393,34522,,Imogen Cunningham Trust,,Preferred Name
+40397,34526,,Galerie Simon,,Preferred Name
 40398,34527,,Foto Fund,,Preferred Name
 40399,33055,,Silas,,Nickname/Pseudonym
 40404,34531,Eaton,"Eaton, Robert",,Preferred Name
@@ -23716,7 +23717,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 40406,34533,Hofer,"Hofer, Andreas",,Preferred Name
 40407,34534,Böllmann,"Böllmann, Hieronymus",,Preferred Name
 40408,34535,Leopold,Leopold,,Preferred Name
-54101,46232,,Hairy Who,,Variant
 40409,34536,Bruycker,"Bruycker, Jules de",,Preferred Name
 40410,34537,Steucker,Steucker,,Preferred Name
 40411,34538,Lebas,"Lebas, Gabriel Hippolyte",,Preferred Name
@@ -24094,7 +24094,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 41024,34994,Rosenfeld,"Rosenfeld, Donald",,Preferred Name
 41025,34995,Swinden,"Swinden, Albert",,Preferred Name
 41026,33576,Lentz,"Lentz, Elizabeth",,Maiden Name
-54366,47271,Coats,"Coats, W. A.",,Variant
+54101,46232,,Hairy Who,,Variant
 41027,34996,Kilgore,"Kilgore, Rupert",,Preferred Name
 41028,34997,Sample,"Sample, Paul",,Preferred Name
 41029,34998,Mesibov,"Mesibov, Hugh",,Preferred Name
@@ -24480,7 +24480,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 41628,10577,Benedict,"Benedict, Lilli Elizabeth",,Maiden Name
 41630,35482,Flandrin,"Flandrin, Jean-Paul",,Preferred Name
 41632,35484,Huber,"Huber, Jakob Wilhelm",,Preferred Name
-54891,22690,,Schoelkopf Gallery,,Variant
+54366,47271,Coats,"Coats, W. A.",,Variant
 41633,35485,Kügelgen,"Kügelgen, Wilhelm von",,Preferred Name
 41635,35487,Smedley,"Smedley, William Thomas",,Preferred Name
 41636,35487,Smedley,"Smedley, W.T.",,Variant
@@ -24770,7 +24770,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 42575,36295,Halstead,"Halstead, J.",,Preferred Name
 42577,36297,Laughlin,"Laughlin, Clarence John",,Preferred Name
 42587,36307,Lynes,"Lynes, George Platt",,Preferred Name
-61004,3454,Zanetti,,,Variant
+54891,22690,,Schoelkopf Gallery,,Variant
 42588,36308,,Hundred Dollar Gallery,,Preferred Name
 42597,36317,Heinrich,"Heinrich, Prince of Prussia",,Preferred Name
 42598,36317,,"Henry of Prussia, Prince",,Variant
@@ -24952,7 +24952,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 43207,36824,Santilari,"Santilari, Josep",,Preferred Name
 43208,36824,Santilari Perarnau,"Santilari Perarnau, Josep",,Variant
 43209,36825,Santilari,"Santilari, Pere",,Preferred Name
-61005,46325,Garneray,,,Variant
+61004,3454,Zanetti,,,Variant
 43210,36825,Santilari Perarnau,"Santilari Perarnau, Pere",,Variant
 43216,36831,Castiglione,"Castiglione, Salvatore",,Preferred Name
 43223,1999,Alberghetti I,"Alberghetti I, Giovanni",,Variant
@@ -25329,6 +25329,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44342,37815,Eden,"Eden, Caroline Calvert",,Married Name
 44343,37816,Eden,"Eden, John Benedict, Lord Eden of Winton Sir",,Preferred Name
 44344,37817,Gans,"Gans, Edward Dr.",,Preferred Name
+61005,46325,Garneray,,,Variant
 44345,37817,Numismatic Fine Arts,Numismatic Fine Arts,,Variant
 44346,37818,Goetz,"Goetz, William",,Preferred Name
 44347,12334,Glendining,"Glendining, Douglas",,Variant
@@ -34914,3 +34915,5 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64169,54544,Sala,"Sala, Paolo",,Preferred Name
 64178,54551,Tiel,"Tiel, Jan",,Preferred Name
 64179,54552,Jeffryes,"Jeffryes, John",,Preferred Name
+64180,54553,Gellatly,"Gellatly, Peter",,Preferred Name
+64181,34526,,Galerie Louise Leiris,,Variant
