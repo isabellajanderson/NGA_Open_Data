@@ -177,6 +177,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 191,198,Cabot,"Cabot, Lewis P., Mr. and Mrs.",,Preferred Name
 192,199,Carey,"Carey, Andrew G., Mrs.",,Preferred Name
 193,200,Carey,"Carey, June Provines",,Preferred Name
+54366,47271,Coats,"Coats, W. A.",,Variant
 194,201,Carmean,"Carmean Jr., E.A.",,Preferred Name
 195,202,Carnegie,"Carnegie, William H., Mrs.",,Preferred Name
 196,203,Carstairs,"Carstairs, Charles S., Mrs.",,Preferred Name
@@ -266,6 +267,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 285,292,Garbisch,"Garbisch, Edgar William, Mr. and Mrs.",,Preferred Name
 286,293,Gardner,"Gardner, Martin",,Preferred Name
 287,294,Kelly,"Kelly, George P., Mr.",,Preferred Name
+54891,22690,,Schoelkopf Gallery,,Variant
 289,296,Gebel,"Gebel, Paul, Mr. and Mrs.",,Preferred Name
 290,297,,Gemini G.E.L.,,Preferred Name
 291,298,Gensburg,"Gensburg, David",,Preferred Name
@@ -448,6 +450,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 478,485,,Professional Art Group I,,Preferred Name
 479,486,Pucker,"Pucker, B. H., Mr. and Mrs.",,Preferred Name
 480,487,Putnam,"Putnam, Esther W.",,Preferred Name
+61004,3454,Zanetti,,,Variant
 481,488,Pyne,"Pyne, Henry Rogers, Mrs.",,Preferred Name
 483,490,Rea,"Rea, Henry R., Mrs.",,Preferred Name
 484,491,,"Reader's Digest Association, Inc.",,Preferred Name
@@ -631,6 +634,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 670,677,,Galerie Beyeler,,Preferred Name
 671,678,Bier,"Bier, Herbert N., Mr.",,Preferred Name
 672,679,Bimm,"Bimm, H. Lee, Mr.",,Preferred Name
+61005,46325,Garneray,,,Variant
 673,680,Bonafous-Murat,"Bonafous-Murat, Arsene, Monsieur",,Preferred Name
 674,681,,"Botton Associates, De",,Preferred Name
 675,682,,Private Collection c/o Mr. F. Lorenceau,,Variant
@@ -24094,7 +24098,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 41024,34994,Rosenfeld,"Rosenfeld, Donald",,Preferred Name
 41025,34995,Swinden,"Swinden, Albert",,Preferred Name
 41026,33576,Lentz,"Lentz, Elizabeth",,Maiden Name
-54101,46232,,Hairy Who,,Variant
 41027,34996,Kilgore,"Kilgore, Rupert",,Preferred Name
 41028,34997,Sample,"Sample, Paul",,Preferred Name
 41029,34998,Mesibov,"Mesibov, Hugh",,Preferred Name
@@ -24480,7 +24483,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 41628,10577,Benedict,"Benedict, Lilli Elizabeth",,Maiden Name
 41630,35482,Flandrin,"Flandrin, Jean-Paul",,Preferred Name
 41632,35484,Huber,"Huber, Jakob Wilhelm",,Preferred Name
-54366,47271,Coats,"Coats, W. A.",,Variant
 41633,35485,Kügelgen,"Kügelgen, Wilhelm von",,Preferred Name
 41635,35487,Smedley,"Smedley, William Thomas",,Preferred Name
 41636,35487,Smedley,"Smedley, W.T.",,Variant
@@ -24770,7 +24772,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 42575,36295,Halstead,"Halstead, J.",,Preferred Name
 42577,36297,Laughlin,"Laughlin, Clarence John",,Preferred Name
 42587,36307,Lynes,"Lynes, George Platt",,Preferred Name
-54891,22690,,Schoelkopf Gallery,,Variant
 42588,36308,,Hundred Dollar Gallery,,Preferred Name
 42597,36317,Heinrich,"Heinrich, Prince of Prussia",,Preferred Name
 42598,36317,,"Henry of Prussia, Prince",,Variant
@@ -24952,7 +24953,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 43207,36824,Santilari,"Santilari, Josep",,Preferred Name
 43208,36824,Santilari Perarnau,"Santilari Perarnau, Josep",,Variant
 43209,36825,Santilari,"Santilari, Pere",,Preferred Name
-61004,3454,Zanetti,,,Variant
 43210,36825,Santilari Perarnau,"Santilari Perarnau, Pere",,Variant
 43216,36831,Castiglione,"Castiglione, Salvatore",,Preferred Name
 43223,1999,Alberghetti I,"Alberghetti I, Giovanni",,Variant
@@ -25329,7 +25329,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 44342,37815,Eden,"Eden, Caroline Calvert",,Married Name
 44343,37816,Eden,"Eden, John Benedict, Lord Eden of Winton Sir",,Preferred Name
 44344,37817,Gans,"Gans, Edward Dr.",,Preferred Name
-61005,46325,Garneray,,,Variant
 44345,37817,Numismatic Fine Arts,Numismatic Fine Arts,,Variant
 44346,37818,Goetz,"Goetz, William",,Preferred Name
 44347,12334,Glendining,"Glendining, Douglas",,Variant
@@ -27490,7 +27489,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 51798,19418,Walker,"Walker, Diana",,Variant
 51802,45011,,"Marine, P. Bruce and Donald Hardy",,Preferred Name
 51806,45015,Cohen,"Cohen, Eileen",,Preferred Name
-51824,45033,Block,"Block, Gay",,Preferred Name
 51833,45042,Anderson,"Anderson, Harry W. and Mary Margaret",,Preferred Name
 51839,45048,Greenberg,"Greenberg, Howard",,Preferred Name
 51865,45074,Slocum,"Slocum, Joshua and Sara",,Preferred Name
@@ -27627,6 +27625,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53052,2071,Costanzo de Moysis,Costanzo de Moysis,,Variant
 53053,2071,Costanzo Lombardo,Costanzo Lombardo,,Variant
 53057,46252,Boeotian 5th Century B.C.,Boeotian 5th Century B.C.,,Preferred Name
+53307,46427,Baumberger,"Baumberger, Otto",,Preferred Name
 53058,46253,Boeotian 4th Century B.C.,Boeotian 4th Century B.C.,,Preferred Name
 53059,46254,Boeotian 3rd Century B.C.,Boeotian 3rd Century B.C.,,Preferred Name
 53061,46256,Hyde,"Hyde, Timothy and Suzanne",,Preferred Name
@@ -27722,7 +27721,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53294,46415,Ball,"Ball, George",,Preferred Name
 53295,46416,Mulcahy,"Mulcahy, Joan Banks",,Preferred Name
 53296,46417,Kip,"Kip, Johannes",,Preferred Name
-53307,46427,Baumberger,"Baumberger, Otto",,Preferred Name
 53308,46428,de Erdely,"de Erdely, Francis",,Preferred Name
 53309,46429,Goulding,"Goulding, Frederick",,Preferred Name
 53311,46431,Segall,"Segall, Lasar",,Preferred Name
@@ -27915,6 +27913,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 53804,1586,Polsky,"Polsky, Cynthia",,Preferred Name
 53805,12798,Renesse,"Renesse, Constantijn Daniel van",,Full Name
 53806,521,Safer,"Safer, John",,Variant
+54101,46232,,Hairy Who,,Variant
 53807,25859,Vassilieff,"Vassilieff, Nicholas",,Variant
 53808,28420,Ziem,"Ziem, Félix François Georges Philibert",,Variant
 53811,5753,Price,"Price, C. S.",,Variant
