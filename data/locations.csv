@@ -252,6 +252,7 @@ locationid,site,room,publicaccess,description,unitposition
 6670,West Building,G-042-B,1,West Ground Floor Gallery 42B,W
 6671,West Building,G-042-C,1,West Ground Floor Gallery 42C,
 6672,West Building,G-042-C,1,West Ground Floor Gallery 42C,E
+8808,West Building,M-107,1,Rotunda,
 6673,West Building,G-042-C,1,West Ground Floor Gallery 42C,N
 6674,West Building,G-042-C,1,West Ground Floor Gallery 42C,S
 6675,West Building,G-042-C,1,West Ground Floor Gallery 42C,W
@@ -659,6 +660,11 @@ locationid,site,room,publicaccess,description,unitposition
 8605,West Building,M-072,1,West Main Floor Gallery 72,N
 8606,West Building,M-072,1,West Main Floor Gallery 72,S
 8607,West Building,M-072,1,West Main Floor Gallery 72,W
+8608,West Building,M-073,1,West Main Floor Gallery 73,
+8609,West Building,M-073,1,West Main Floor Gallery 73,E
+8610,West Building,M-073,1,West Main Floor Gallery 73,N
+8611,West Building,M-073,1,West Main Floor Gallery 73,S
+8612,West Building,M-073,1,West Main Floor Gallery 73,W
 8613,West Building,M-074,1,West Main Floor Gallery 74,
 8614,West Building,M-074,1,West Main Floor Gallery 74,E
 8615,West Building,M-074,1,West Main Floor Gallery 74,N
@@ -679,6 +685,11 @@ locationid,site,room,publicaccess,description,unitposition
 8630,West Building,M-077,1,West Main Floor Gallery 77,N
 8631,West Building,M-077,1,West Main Floor Gallery 77,S
 8632,West Building,M-077,1,West Main Floor Gallery 77,W
+8633,West Building,M-078,1,West Main Floor Gallery 78,
+8634,West Building,M-078,1,West Main Floor Gallery 78,E
+8635,West Building,M-078,1,West Main Floor Gallery 78,N
+8636,West Building,M-078,1,West Main Floor Gallery 78,S
+8637,West Building,M-078,1,West Main Floor Gallery 78,W
 8638,West Building,M-078-A,1,West Main Floor Gallery 78A,
 8639,West Building,M-078-A,1,West Main Floor Gallery 78A,E
 8640,West Building,M-078-A,1,West Main Floor Gallery 78A,N
@@ -767,7 +778,6 @@ locationid,site,room,publicaccess,description,unitposition
 8779,West Building,WBL,1,West Bldg Lawn,
 8786,West Building,G-004,1,West Ground Floor Gallery 4,W
 8787,West Building,G-004,1,West Ground Floor Gallery 4,N
-8808,West Building,M-107,1,Rotunda,
 8809,West Building,M-107,1,Rotunda,N
 8810,West Building,M-137,1,"West Bldg, Lobby D",
 8811,West Building,M-137,1,"West Bldg, Lobby D",N
@@ -824,6 +834,7 @@ locationid,site,room,publicaccess,description,unitposition
 9357,West Building,G-028,1,West Ground Floor Gallery 28,NORTH BAFFLE
 9359,West Building,G-028,1,West Ground Floor Gallery 28,CENTER
 9366,West Building,M-138,1,East Stair Lobby,
+9405,West Building,M-078,1,West Main Floor Gallery 78,CENTER
 9406,West Building,M-079,1,West Main Floor Gallery 79,CENTER
 9407,West Building,M-077,1,West Main Floor Gallery 77,CENTER
 9409,West Building,M-072,1,West Main Floor Gallery 72,BAFFLE
@@ -860,6 +871,7 @@ locationid,site,room,publicaccess,description,unitposition
 10121,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",E
 10138,West Building,M-083,1,West Main Floor Gallery 83,CENTER
 10144,West Building,G-030,1,West Ground Floor Gallery 30,N
+10199,West Building,M-073,1,West Main Floor Gallery 73,CENTER
 10287,West Building,G-021,1,West Ground Floor Gallery 21,E
 10325,West Building,G-042-A,1,West Ground Floor Gallery 42A,Center
 10326,West Building,G-042-C,1,West Ground Floor Gallery 42A,CENTER
