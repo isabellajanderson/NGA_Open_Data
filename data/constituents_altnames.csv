@@ -13196,7 +13196,6 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 23367,23374,,Gorham Manufacturing Company,,Preferred Name
 23368,23375,Khnopff,"Khnopff, Fernand",,Preferred Name
 23385,23392,Bradley,"Bradley, Will H.",,Preferred Name
-23400,23407,Stegeman,"Stegeman, Melissa J.",,Preferred Name
 23405,23412,Gober,"Gober, Robert",,Preferred Name
 23409,23416,Pottorf,"Pottorf, Darryl",,Preferred Name
 23418,23425,Zipkin,"Zipkin, Jerome",,Preferred Name
@@ -34865,7 +34864,7 @@ altnameid,constituentid,lastname,displayname,forwarddisplayname,nametype
 64019,54004,Arrechea Zambrano,"Arrechea Zambrano, Alexander Jésus",,Member of
 64020,54004,Castillo Valdés,"Castillo Valdés, Marco Antonio",,Member of
 64021,54004,Rodriguez Sánchez,"Rodriguez Sánchez, Dagoberto",,Member of
-64024,23407,Stegeman,"Stegeman, Melissa J.",,Variant
+64024,23407,Stegeman,"Stegeman, Melissa J.",,Preferred Name
 64026,54447,Rollins,"Rollins, Michelle",,Preferred Name
 64029,11980,,Lower Belvedere,,Variant
 64038,8214,Becht,"Becht, Marguerite Carmel",,Maiden Name

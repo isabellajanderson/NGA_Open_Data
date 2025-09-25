@@ -34,7 +34,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 46,,"Brown Foundation, Inc., The","The Brown Foundation, Inc.",,,0,,,,,Other,corporate,
 48,,"Benedict, Ruth B., Dr.",Dr. Ruth B. Benedict,Benedict,"American, 1913 - 1993",0,1913,1993,1901 to 1925,American,American,individual,
 49,,"Booth, John Lord, Mr. and Mrs.",Mr. and Mrs. John Lord Booth,Booth,,0,,,,,Other,couple,
-50,,"Weber, John C., Dr. and Mrs.",Dr. and Mrs. John C. Weber,Weber,born 1932,0,1932,,1926 to 1950,,Other,couple,
+50,,"Weber, John C., Dr. and Mrs.",Dr. and Mrs. John C. Weber,Weber,,0,1932,,1926 to 1950,,Other,couple,
 51,,"Curran, Catherine G., Mrs.",Mrs. Catherine G. Curran,Curran,1926 - 2007,0,1926,2007,1926 to 1950,,Other,individual,
 52,,"Ganz, Jr., Julian, Mr. and Mrs.","Mr. and Mrs. Julian Ganz, Jr.",Ganz,,0,,,,,Other,couple,
 53,500001550,"Alexander, Francis",Francis Alexander,Alexander,"American, 1800 - 1880",1,1800,1880,1776 to 1800,American,American,individual,Q5479973
@@ -13240,7 +13240,7 @@ constituentid,ulanid,preferreddisplayname,forwarddisplayname,lastname,displaydat
 23374,,Gorham Manufacturing Company,Gorham Manufacturing Company,,"American, 1815 - present",1,1815,,1801 to 1825,American,American,corporate,
 23375,500003023,"Khnopff, Fernand",Fernand Khnopff,Khnopff,"Belgian, 1858 - 1921",1,1858,1921,1851 to 1875,Belgian,Belgian,individual,Q559559
 23392,500010977,"Bradley, Will H.",Will H. Bradley,Bradley,"American, 1868 - 1962",1,1868,1962,1851 to 1875,American,American,individual,Q1357158
-23407,,"Stegeman, Melissa J.",Ms. Melissa J. Stegeman,Stegeman,,0,,,,,Other,individual,
+23407,,"Stegeman, Melissa J.",Melissa J. Stegeman,Stegeman,,0,,,,,Other,individual,
 23494,,"Sacilotto, Deli",Deli Sacilotto,Sacilotto,"American, active late 20th century",1,1950,1999,1926 to 1950,American,American,individual,
 23495,,"Paulson, Pamela",Pamela Paulson,Paulson,"American, active late20th century",1,1950,1999,1926 to 1950,American,American,individual,
 23505,,"Maher, Julie",Julie Maher,Maher,"American, active second half 20th century",1,1950,1999,1926 to 1950,American,American,individual,
