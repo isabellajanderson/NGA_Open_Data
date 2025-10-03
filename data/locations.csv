@@ -222,10 +222,6 @@ locationid,site,room,publicaccess,description,unitposition
 6499,West Building,G-026,1,West Ground Floor Gallery 26,N
 6500,West Building,G-026,1,West Ground Floor Gallery 26,S
 6501,West Building,G-026,1,West Ground Floor Gallery 26,W
-6532,West Building,G-030,1,West Ground Floor Gallery 30,
-6533,West Building,G-030,1,West Ground Floor Gallery 30,E
-6534,West Building,G-030,1,West Ground Floor Gallery 30,S
-6535,West Building,G-030,1,West Ground Floor Gallery 30,W
 6622,West Building,G-031,1,West Ground Floor Gallery 31,
 6641,West Building,G-035,1,West Ground Floor Gallery 35,
 6642,West Building,G-036,1,West Ground Floor Gallery 36,
@@ -252,7 +248,6 @@ locationid,site,room,publicaccess,description,unitposition
 6670,West Building,G-042-B,1,West Ground Floor Gallery 42B,W
 6671,West Building,G-042-C,1,West Ground Floor Gallery 42C,
 6672,West Building,G-042-C,1,West Ground Floor Gallery 42C,E
-8808,West Building,M-107,1,Rotunda,
 6673,West Building,G-042-C,1,West Ground Floor Gallery 42C,N
 6674,West Building,G-042-C,1,West Ground Floor Gallery 42C,S
 6675,West Building,G-042-C,1,West Ground Floor Gallery 42C,W
@@ -778,6 +773,7 @@ locationid,site,room,publicaccess,description,unitposition
 8779,West Building,WBL,1,West Bldg Lawn,
 8786,West Building,G-004,1,West Ground Floor Gallery 4,W
 8787,West Building,G-004,1,West Ground Floor Gallery 4,N
+8808,West Building,M-107,1,Rotunda,
 8809,West Building,M-107,1,Rotunda,N
 8810,West Building,M-137,1,"West Bldg, Lobby D",
 8811,West Building,M-137,1,"West Bldg, Lobby D",N
@@ -870,7 +866,6 @@ locationid,site,room,publicaccess,description,unitposition
 10107,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",CENTER
 10121,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",E
 10138,West Building,M-083,1,West Main Floor Gallery 83,CENTER
-10144,West Building,G-030,1,West Ground Floor Gallery 30,N
 10199,West Building,M-073,1,West Main Floor Gallery 73,CENTER
 10287,West Building,G-021,1,West Ground Floor Gallery 21,E
 10325,West Building,G-042-A,1,West Ground Floor Gallery 42A,Center
